@@ -1,0 +1,60 @@
+name: BankWatch daily
+
+on:
+  schedule:
+    - cron: "10 20 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bankwatch
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run BankWatch
+        id: run
+        continue-on-error: true
+        env:
+          BANKWATCH_EMAIL_FROM:     ${{ secrets.BANKWATCH_EMAIL_FROM }}
+          BANKWATCH_EMAIL_TO:       ${{ secrets.BANKWATCH_EMAIL_TO }}
+          BANKWATCH_EMAIL_PASSWORD: ${{ secrets.BANKWATCH_EMAIL_PASSWORD }}
+        run: python run.py
+
+      - name: Commit snapshots & report
+        run: |
+          git config user.name  "${{ github.actor }}"
+          git config user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
+          git add snapshots/ reports/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "bankwatch: run $(TZ=Australia/Sydney date +%Y-%m-%d)"
+          git pull --rebase origin "${{ github.ref_name }}"
+          git push
+
+      - name: Surface unverified checks
+        if: steps.run.outcome == 'failure'
+        run: |
+          echo "::warning::BankWatch had UNVERIFIED checks — see reports/latest.md"
