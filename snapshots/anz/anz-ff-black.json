@@ -1,0 +1,103 @@
+{
+  "captured_at": "2026-06-08T22:43:56Z",
+  "content_hash": "bfa9c0f3aa96298766f18ca3218ecc552ff5bf567e80635057e0c367446a2649",
+  "fields": {
+    "annual_fee": {
+      "snippet": "",
+      "value": null
+    },
+    "annual_fee_y1": {
+      "snippet": "",
+      "value": null
+    },
+    "bonus_points": {
+      "snippet": "",
+      "value": null
+    },
+    "cash_advance_rate": {
+      "snippet": "",
+      "value": null
+    },
+    "interest_free_days": {
+      "snippet": "",
+      "value": null
+    },
+    "min_spend": {
+      "snippet": "",
+      "value": null
+    },
+    "min_spend_months": {
+      "snippet": "",
+      "value": null
+    },
+    "purchase_rate": {
+      "snippet": "",
+      "value": null
+    }
+  },
+  "issuer_key": "anz",
+  "pdfs": {
+    "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/ANZ-App-Current-Terms-and-Conditions-Android.pdf": {
+      "hash": "97b37ac754f419d3995572f4419ff24875ab61f1b0dbb5685695851e3257ada7",
+      "is_terms": true,
+      "label": "here for Android (PDF)"
+    },
+    "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/ANZ-App-Current-Terms-and-Conditions-iOS.pdf": {
+      "hash": "fdddd8fb9e10ac13ac11cb84764c94eb82acd54374e55b4b9c040778ad0d376c",
+      "is_terms": true,
+      "label": "here for iOS (PDF)"
+    },
+    "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/anz-creditcards-conditions-of-use.pdf": {
+      "hash": "60467014ee9a475887a6eff7200bc00ec86569e231badca09f64c8ca48721db1",
+      "is_terms": true,
+      "label": "ANZ Credit Cards Conditions of Use (PDF)"
+    },
+    "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/anz-ff-reward-tc.pdf": {
+      "hash": "c8c7aa3e71dd49a43d2801ec2f13dfef2b2a3601e35343b5a97de47c8436cf58",
+      "is_terms": true,
+      "label": "ANZ Frequent Flyer Reward Terms and Conditions (PDF)"
+    },
+    "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/anz-platinum-and-black-complimentary-insurance-booklet.pdf": {
+      "hash": "39bad72cb08de44416cf0467d73a897aeaa9b597961308fe8d2a0b7bff132f53",
+      "is_terms": false,
+      "label": "ANZ Platinum and Black Credit Card Complimentary Insurance booklet (PDF)"
+    },
+    "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/anz-rewards-program-terms-conditions.pdf": {
+      "hash": "5738fd659c4164857094dbedf2121f7605818afd26032448d6b5ef767d3df962",
+      "is_terms": true,
+      "label": "ANZ Rewards – Rewards Program Terms and Conditions booklet (PDF)"
+    },
+    "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/applepay-tcs.pdf": {
+      "hash": "2cca554f33d61bfc6a5880f56bd66891510d3b3bf2f48f7de3a080b473400f20",
+      "is_terms": false,
+      "label": "Apple Pay (PDF)"
+    },
+    "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/credit-card-fees-charges.pdf": {
+      "hash": "ce28c981cc1b786a62a6acbccfbfc114df93ecc58728e2e49b3cc7d766c40c8d",
+      "is_terms": true,
+      "label": "ANZ Consumer Credit Cards Fees and Charges (PDF)"
+    },
+    "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/garmin-pay-tcs.pdf": {
+      "hash": "df0f81daa706be9081ec0eaf706d8f7f0e6406b893ff065cb633dc1fe278f95e",
+      "is_terms": false,
+      "label": "Garmin Pay (PDF)"
+    },
+    "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/googlepay-for-fitbit-tcs.pdf": {
+      "hash": "942f20e04ec6eec3d686b20094d3d9561b3580935f5a01856b733d1c646106b0",
+      "is_terms": false,
+      "label": "Fitbit Pay (PDF)"
+    },
+    "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/googlepay-tcs.pdf": {
+      "hash": "e0f3addf968a41cc18a36e9d4efd4292c71ac003f58bd7511aed297747235310",
+      "is_terms": false,
+      "label": "Google Pay (PDF)"
+    },
+    "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/samsungpay-Terms-and-Conditions.pdf": {
+      "hash": "d28ed1ff5c85d959107119f701ec6c9c1c45d4e7deb243c3a40dd6adfedb2380",
+      "is_terms": true,
+      "label": "Samsung Pay (PDF)"
+    }
+  },
+  "target_id": "anz-ff-black",
+  "url": "https://www.anz.com.au/personal/credit-cards/frequent-flyer-black/"
+}

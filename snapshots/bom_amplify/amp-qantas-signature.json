@@ -1,0 +1,88 @@
+{
+  "captured_at": "2026-06-08T22:36:40Z",
+  "content_hash": "862da841c4f932f64cfe7a80b37904bb2b51d2c8d26f51c14efb384046673cef",
+  "fields": {
+    "annual_fee": {
+      "snippet": "ounge passes and much more. $295 annual card fee $75 annual qantas rewards program fee 20.99",
+      "value": 75.0
+    },
+    "annual_fee_y1": {
+      "snippet": "ntas points > — 90,000 qantas points in year 1 if you spend $6k+ on eligible purchases † within 90 day",
+      "value": 6.0
+    },
+    "bonus_points": {
+      "snippet": "fer 150k bonus qantas points earn up to 150,000 bonus qantas points > — 90,000 qantas points in year 1 if y",
+      "value": 150000.0
+    },
+    "cash_advance_rate": {
+      "snippet": ".a. variable interest rate on purchases 21.99% p.a. variable cash advance interest rate $20 fee applied for each",
+      "value": 21.99
+    },
+    "interest_free_days": {
+      "snippet": ".a. variable interest rate on purchases up to 55 days interest free on purchases 2 $15,000 mi",
+      "value": 55.0
+    },
+    "min_spend": {
+      "snippet": "— 90,000 qantas points in year 1 if you spend $6k+ on eligible purchases † within 90 days of new card approval and an extra",
+      "value": 6.0
+    },
+    "min_spend_months": {
+      "snippet": "riable interest rate on purchases up to 55 days interest free on purchases 2 $15,000 mi",
+      "value": 2
+    },
+    "purchase_rate": {
+      "snippet": "e 20.99% p.a. variable interest rate on purchases 21.99% p.a. variable cash advance interest rate $20",
+      "value": 21.99
+    }
+  },
+  "issuer_key": "bom_amplify",
+  "pdfs": {
+    "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/accounts_and_cards/BOM_Consumer_Credit_Card_Complimentary_Insurance_Allianz.pdf?appAction=exit": {
+      "hash": "52c0375620677594acf5db9aa6264fca8bdcafab67f1051bc7eaedaf083382cc",
+      "is_terms": true,
+      "label": "PDF-file Credit Card Complimentary Insurance Terms and Conditions (PDF 339KB)"
+    },
+    "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/accounts_and_cards/bom-cc-fee-charges.pdf?appAction=exit": {
+      "hash": "c43b19ef772b1ace9c7c9f09885b9e49c32a4c04da98ae46710f79ee78af4216",
+      "is_terms": true,
+      "label": "PDF-file Credit Card Accounts Fees and Charges (PDF 123KB)"
+    },
+    "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/credit-cards/bom-eligible-australian-visa-list.pdf": {
+      "hash": "3e9bf7d0546e163eba4db0167be6232a9a9bf88ee36e8e763a15889c88daf116",
+      "is_terms": false,
+      "label": "PDF-file eligible Australian Visa (PDF 618KB)"
+    },
+    "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/credit-cards/bom_amplify_terms_and_conditions.pdf?appAction=exit": {
+      "hash": "91bb04cf93d8e141192e14a772214d531b97827ce0e861585a2fef5e64883520",
+      "is_terms": true,
+      "label": "PDF-file Amplify Terms and Conditions (PDF 124KB)"
+    },
+    "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/credit-cards/bom_credit_card_terms_and_conditions.pdf": {
+      "hash": "594a23bd21ffadcb5d0e0b1d0003849c484c6fde55496871d64ecf34ce69b5bc",
+      "is_terms": true,
+      "label": "PDF-file Credit Card Terms and Conditions (PDF 268KB)"
+    },
+    "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/credit-cards/bom_credit_card_terms_and_conditions.pdf?appAction=exit": {
+      "hash": "594a23bd21ffadcb5d0e0b1d0003849c484c6fde55496871d64ecf34ce69b5bc",
+      "is_terms": true,
+      "label": "PDF-file Credit Card Terms and Conditions (PDF 268KB)"
+    },
+    "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/ways-to-pay/apple-pay.pdf": {
+      "hash": "aef0749c5da3d3dc0c4e1a924ad09849173aa8a6e02a679fe435e5de3e251e7f",
+      "is_terms": true,
+      "label": "PDF-file Apple Pay Terms and Conditions (PDF 382KB)"
+    },
+    "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/ways-to-pay/google-pay-bank-of-melbourne.PDF": {
+      "hash": "b465e873c448badeb4b1dc8395a063d057d3f282dc87df97a4cc8ea1f364ba4b",
+      "is_terms": true,
+      "label": "Google Pay Terms and Conditions"
+    },
+    "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/ways-to-pay/samsung-pay-bom-tc.pdf": {
+      "hash": "c6b596fb20146e8210eccdf884263837bd80255074785b9ee8655c830f91f28c",
+      "is_terms": true,
+      "label": "Samsung Pay Terms and Conditions"
+    }
+  },
+  "target_id": "amp-qantas-signature",
+  "url": "https://www.bankofmelbourne.com.au/personal/credit-cards/frequent-flyer/amplify-signature"
+}

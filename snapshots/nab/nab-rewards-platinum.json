@@ -1,0 +1,58 @@
+{
+  "captured_at": "2026-06-08T22:50:23Z",
+  "content_hash": "f5bfacbfed9fc836ea79d3a9b728b7e87c21292380117cac7d16cc2b3bd64796",
+  "fields": {
+    "annual_fee": {
+      "snippet": "iew disclaimer 4 enjoy a reduced annual card fee (from $195 to $95) for the first year. bonus point",
+      "value": 195.0
+    },
+    "annual_fee_y1": {
+      "snippet": "4 enjoy a reduced annual card fee (from $195 to $95) for the first year. bonus points are not available to cust",
+      "value": 195.0
+    },
+    "bonus_points": {
+      "snippet": "up to 100,000 bonus nab rewards points 100,000 bonus points is enough for $450 in gift cards. 80,00",
+      "value": 100000.0
+    },
+    "cash_advance_rate": {
+      "snippet": "nce transfers will attract the variable cash advance rate (currently 21.74% p.a. as at today). the one-off balance trans",
+      "value": 21.74
+    },
+    "interest_free_days": {
+      "snippet": "",
+      "value": null
+    },
+    "min_spend": {
+      "snippet": "rewards platinum card, are approved and spend $3,000 on everyday purchases within the first 90 days of account opening. view disclaim",
+      "value": 3000.0
+    },
+    "min_spend_months": {
+      "snippet": "ime of card opening and applies for the first 12 months. you will be charged the standard annua",
+      "value": 12.0
+    },
+    "purchase_rate": {
+      "snippet": "imits that apply to this card. variable purchase rate view disclaimer 5 20.99% p.a. standard balance transfer (bt) rate for",
+      "value": 20.99
+    }
+  },
+  "issuer_key": "nab",
+  "pdfs": {
+    "https://www.nab.com.au/content/dam/nab/documents/terms-and-conditions/banking/mobile-phone-protection-insurance-terms-and-conditions.pdf": {
+      "hash": "80a745ae607fb6db42dd9e666c3e64717bcb589ae9872ed965d19dff26a2acc9",
+      "is_terms": true,
+      "label": "terms and conditions (PDF, 145KB) , opens in new window"
+    },
+    "https://www.nab.com.au/content/dam/nabrwd/documents/pds/insurance/nab-credit-card-cover-pds.pdf": {
+      "hash": "923c8cdbac55271ddb6e13cf1e229a8b097913d528fbfee5e252d4b72bb4fcb3",
+      "is_terms": true,
+      "label": "NAB Credit Card Cover Product disclosure statement and policy document (PDF, 471KB)"
+    },
+    "https://www.nab.com.au/content/dam/nabrwd/documents/terms-and-conditions/banking/nab-rewards-terms-and-conditions.pdf": {
+      "hash": "17bc00ae586b47632f101551c3c3f93ba0801afb882107b052b8ca0c83ff668e",
+      "is_terms": true,
+      "label": "NAB Rewards Terms and Conditions (PDF, 199KB) , opens in new window"
+    }
+  },
+  "target_id": "nab-rewards-platinum",
+  "url": "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/platinum-card"
+}

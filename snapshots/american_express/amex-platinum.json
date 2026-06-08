@@ -1,0 +1,58 @@
+{
+  "captured_at": "2026-06-08T22:15:24Z",
+  "content_hash": "e68c6b17c12d9f80656a9fbc0e6777c6cc67001329a98def42be21fbb7f43521",
+  "fields": {
+    "annual_fee": {
+      "snippet": "ow terms and conditions key information annual fee $1,450 p.a. card type charge card cash flow pe",
+      "value": 1450.0
+    },
+    "annual_fee_y1": {
+      "snippet": "",
+      "value": null
+    },
+    "bonus_points": {
+      "snippet": "",
+      "value": null
+    },
+    "cash_advance_rate": {
+      "snippet": "",
+      "value": null
+    },
+    "interest_free_days": {
+      "snippet": "",
+      "value": null
+    },
+    "min_spend": {
+      "snippet": "",
+      "value": null
+    },
+    "min_spend_months": {
+      "snippet": "",
+      "value": null
+    },
+    "purchase_rate": {
+      "snippet": "",
+      "value": null
+    }
+  },
+  "issuer_key": "american_express",
+  "pdfs": {
+    "https://www.americanexpress.com/content/dam/amex/au/benefits/Platinum/CMagreement.pdf": {
+      "hash": "c9307a1b18059daef3183494bd3f6985f92d6d85020d9b145e077f0de2c50935",
+      "is_terms": true,
+      "label": "Card Terms & Conditions"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/benefits/Platinum/PlatinumInsurance.pdf": {
+      "hash": "d97d34a7bc1514c2cc281942b608a4d6b721dc1033ea92ae7fe1cc3e040a56d9",
+      "is_terms": true,
+      "label": "Insurance Terms and Conditions"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/TargetMarketDetermination_Platinum.pdf": {
+      "hash": "d78685707e06844322361173df9ba70b7af8eed0d32abdb03cfbb4d00ea4f454",
+      "is_terms": false,
+      "label": "Target Market Determination"
+    }
+  },
+  "target_id": "amex-platinum",
+  "url": "https://www.americanexpress.com/en-au/credit-cards/the-platinum-card/"
+}

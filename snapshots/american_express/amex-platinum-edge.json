@@ -1,0 +1,63 @@
+{
+  "captured_at": "2026-06-08T22:17:00Z",
+  "content_hash": "e46c494ce3fdef300d251801d1c0aea43a56875da625120210b21b9c4b5f4c64",
+  "fields": {
+    "annual_fee": {
+      "snippet": "s key information card type credit card annual fee $0 annual card fee in the first year, savi",
+      "value": 0.0
+    },
+    "annual_fee_y1": {
+      "snippet": "rd annual fee $0 annual card fee in the first year, saving you $195 1 interest rate 23.99% p.a. on purchase",
+      "value": 195.0
+    },
+    "bonus_points": {
+      "snippet": "",
+      "value": null
+    },
+    "cash_advance_rate": {
+      "snippet": "",
+      "value": null
+    },
+    "interest_free_days": {
+      "snippet": ".a. on purchases 2 interest free period up to 55 days 3 how to earn membership rewards points",
+      "value": 55.0
+    },
+    "min_spend": {
+      "snippet": "",
+      "value": null
+    },
+    "min_spend_months": {
+      "snippet": "purchases 2 interest free period up to 55 days 3 how to earn membership rewards points",
+      "value": 2
+    },
+    "purchase_rate": {
+      "snippet": "t year, saving you $195 1 interest rate 23.99% p.a. on purchases 2 interest free period up to 55 days 3",
+      "value": 23.99
+    }
+  },
+  "issuer_key": "american_express",
+  "pdfs": {
+    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/TargetMarketDetermination_PlatinumEdge.pdf": {
+      "hash": "e4377d45b3c5e91651dd13e22d730fe04fdb1ed7042c8141e468972577bb8a60",
+      "is_terms": false,
+      "label": "Target Market Determination"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/Credit_Card_Conditions.pdf": {
+      "hash": "06d5d8aaed48404b8ec75fbd97c50f39e51da6e6c0ad0485ff5700da77045c53",
+      "is_terms": true,
+      "label": "Card Terms & Conditions"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/au_KFS_Prop.pdf": {
+      "hash": "ede3b8f0b9ff0b86bbac0688e260e820ec117c4e87100e2868795d7acd208ed8",
+      "is_terms": false,
+      "label": "here"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/cardmember/platinum-edge-card/Platinum_Edge_Insurance.pdf": {
+      "hash": "252668d85dd3d8160b97a98db64823802052f2bc84778ad8f4852f9522539a41",
+      "is_terms": true,
+      "label": "American Express Platinum Edge Credit Card Insurance Terms and Conditions"
+    }
+  },
+  "target_id": "amex-platinum-edge",
+  "url": "https://www.americanexpress.com/en-au/credit-cards/platinum-edge-credit-card/"
+}

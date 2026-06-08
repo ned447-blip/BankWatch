@@ -1,0 +1,98 @@
+{
+  "captured_at": "2026-06-08T22:27:46Z",
+  "content_hash": "77a75384408b56546b07a804796469fb5b0b862b610523fc508fd5e1bc3e0d22",
+  "fields": {
+    "annual_fee": {
+      "snippet": "",
+      "value": null
+    },
+    "annual_fee_y1": {
+      "snippet": "",
+      "value": null
+    },
+    "bonus_points": {
+      "snippet": "",
+      "value": null
+    },
+    "cash_advance_rate": {
+      "snippet": "",
+      "value": null
+    },
+    "interest_free_days": {
+      "snippet": "",
+      "value": null
+    },
+    "min_spend": {
+      "snippet": "",
+      "value": null
+    },
+    "min_spend_months": {
+      "snippet": "",
+      "value": null
+    },
+    "purchase_rate": {
+      "snippet": "",
+      "value": null
+    }
+  },
+  "issuer_key": "westpac",
+  "pdfs": {
+    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/sustainability/wbc-2025-modern-slavery-statement.pdf": {
+      "hash": "cf1bb52995d97bd44a60785f73b2f9956dca4dcb9ba69fe23ab6a4b97b855b1c",
+      "is_terms": false,
+      "label": "Modern Slavery Statement"
+    },
+    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/new-customer-checklist/Checklist_IndividualCustomers.pdf": {
+      "hash": "4f4afcf9d7aa89ad66759b018727d6fd74470cb2943c03d3c798f3eded7e8ce9",
+      "is_terms": false,
+      "label": "Pdf File ID checklist to become a customer (PDF 657KB)"
+    },
+    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/Consumer_Conditions_of_use.pdf": {
+      "hash": "b6404e13d278434bc44809fc0c09bae763d16aa69d546c9959a8132a87aa0592",
+      "is_terms": true,
+      "label": "Pdf File Credit Card Terms and Conditions (PDF 200KB)"
+    },
+    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/WBC-apple-pay-westpac-tcs.pdf": {
+      "hash": "ce48267644d4ab18ba8b001629eb6f73292be9f0f03dc01170caf572218e1c90",
+      "is_terms": true,
+      "label": "Pdf File Apple Pay Terms and Conditions (PDF 160KB)"
+    },
+    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/WBC_Consumer_Credit_Card_Comp_Insurance_Allianz.pdf": {
+      "hash": "4a139284dbf3ded3ecb1e5a7ac8ca4d6a824f994801e56676b01b69c780022f8",
+      "is_terms": false,
+      "label": "Pdf File Westpac Credit Cards Complimentary Insurance Policy (PDF 898KB)"
+    },
+    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/partpay_card_terms_and_conditions.pdf": {
+      "hash": "61be0fe70207386cf359cfa78cdddb7bd09839f6da96182776927410c43bb2ca",
+      "is_terms": true,
+      "label": "Pdf File PartPay Card Terms and Conditions (PDF 96KB)"
+    },
+    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/westpac-altitude-terms-and-conditions.pdf": {
+      "hash": "987c676b9cbbba71959e70521e9cb8dfb569867fa845c717a216cf67fe70e44d",
+      "is_terms": true,
+      "label": "Pdf File Altitude Terms and Conditions (PDF 117KB)"
+    },
+    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/westpac-credit-card-terms-and-conditions.pdf": {
+      "hash": "b6404e13d278434bc44809fc0c09bae763d16aa69d546c9959a8132a87aa0592",
+      "is_terms": true,
+      "label": "Pdf File Credit Card Terms and Conditions (PDF 264KB)"
+    },
+    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/westpac_extras_terms_and_conditions.pdf": {
+      "hash": "2e5da6761157da57a5f83c9f4d2bea61fc137532cb3938e0580d8d293552efbe",
+      "is_terms": true,
+      "label": "Pdf File terms and conditions (PDF 164KB)"
+    },
+    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/westpac-live/mobile-wallets/Samsung_Pay_WBC_TandCs.pdf": {
+      "hash": "c2be39e2626b0a96e26140598fab16ba1fa4a952890cc6a2b609cb19afc8a90e",
+      "is_terms": true,
+      "label": "Pdf File Samsung Pay Terms and Conditions (PDF 147KB)"
+    },
+    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/westpac-live/mobile-wallets/Westpac_Google_Pay_Terms_and_Conditions.pdf": {
+      "hash": "f5dab87083a1a344719ecd6e14df6257cc194130e75061dfd1f539eaea51781d",
+      "is_terms": true,
+      "label": "Pdf File Google Pay Terms and Conditions (PDF 158KB)"
+    }
+  },
+  "target_id": "wbc-altitude-velocity-black",
+  "url": "https://www.westpac.com.au/personal-banking/credit-cards/reward/altitude-velocity-black/"
+}

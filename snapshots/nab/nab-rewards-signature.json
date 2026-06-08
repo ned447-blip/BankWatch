@@ -1,0 +1,63 @@
+{
+  "captured_at": "2026-06-08T22:49:31Z",
+  "content_hash": "a71b57387dc11216cb884f864c290010f91241ae9e05a58d3cd2156906d5a5d2",
+  "fields": {
+    "annual_fee": {
+      "snippet": "ses view disclaimer 14 up to 44 monthly card fee view disclaimer 5 $35 p.m. minimum credit limit $15,000 varia",
+      "value": 35.0
+    },
+    "annual_fee_y1": {
+      "snippet": "",
+      "value": null
+    },
+    "bonus_points": {
+      "snippet": "up to 110,000 bonus nab rewards points 80,000 bonus points when you apply for a nab rewards signat",
+      "value": 80000.0
+    },
+    "cash_advance_rate": {
+      "snippet": "nce transfers will attract the variable cash advance rate (currently 21.74% p.a. as at today). the one-off balance trans",
+      "value": 21.74
+    },
+    "interest_free_days": {
+      "snippet": "",
+      "value": null
+    },
+    "min_spend": {
+      "snippet": "ewards signature card, are approved and spend $5,000 on everyday purchases within the first 90 days of account opening and 30,000 bon",
+      "value": 5000.0
+    },
+    "min_spend_months": {
+      "snippet": "on everyday purchases within the first 90 days of account opening and 30,000 bonus poi",
+      "value": 3
+    },
+    "purchase_rate": {
+      "snippet": "imits that apply to this card. variable purchase rate view disclaimer 12 20.99% p.a. standard balance transfer (bt) rate for",
+      "value": 20.99
+    }
+  },
+  "issuer_key": "nab",
+  "pdfs": {
+    "https://www.nab.com.au/content/dam/nab/documents/terms-and-conditions/banking/delayed-flight-lounge-pass-terms-and-conditions.pdf": {
+      "hash": "24eecf61c0ffb9715659976708bc8e2185532df774deeefffb62ebff70740521",
+      "is_terms": true,
+      "label": "Terms of Use (PDF, 83KB) , opens in new window"
+    },
+    "https://www.nab.com.au/content/dam/nab/documents/terms-and-conditions/banking/mobile-phone-protection-insurance-terms-and-conditions.pdf": {
+      "hash": "80a745ae607fb6db42dd9e666c3e64717bcb589ae9872ed965d19dff26a2acc9",
+      "is_terms": true,
+      "label": "terms and conditions (PDF, 145KB) , opens in new window"
+    },
+    "https://www.nab.com.au/content/dam/nabrwd/documents/pds/insurance/nab-credit-card-cover-pds.pdf": {
+      "hash": "923c8cdbac55271ddb6e13cf1e229a8b097913d528fbfee5e252d4b72bb4fcb3",
+      "is_terms": true,
+      "label": "NAB Credit Card Cover Product disclosure statement and policy document (PDF, 471KB)"
+    },
+    "https://www.nab.com.au/content/dam/nabrwd/documents/terms-and-conditions/banking/nab-rewards-terms-and-conditions.pdf": {
+      "hash": "17bc00ae586b47632f101551c3c3f93ba0801afb882107b052b8ca0c83ff668e",
+      "is_terms": true,
+      "label": "NAB Rewards Terms and Conditions (PDF, 199KB) , opens in new window"
+    }
+  },
+  "target_id": "nab-rewards-signature",
+  "url": "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/signature-card"
+}

@@ -1,0 +1,58 @@
+{
+  "captured_at": "2026-06-08T22:13:48Z",
+  "content_hash": "e8acd166294ac557c55162dca476c8a9f5f4005d574a8533402da143ed1bfb7b",
+  "fields": {
+    "annual_fee": {
+      "snippet": "s key information card type credit card annual fee $440 p.a. interest rate 23.99% p.a. on purch",
+      "value": 440.0
+    },
+    "annual_fee_y1": {
+      "snippet": "",
+      "value": null
+    },
+    "bonus_points": {
+      "snippet": "",
+      "value": null
+    },
+    "cash_advance_rate": {
+      "snippet": "",
+      "value": null
+    },
+    "interest_free_days": {
+      "snippet": ".a. on purchases 2 interest free period up to 55 days 3 how you earn velocity points key bene",
+      "value": 55.0
+    },
+    "min_spend": {
+      "snippet": "",
+      "value": null
+    },
+    "min_spend_months": {
+      "snippet": "purchases 2 interest free period up to 55 days 3 how you earn velocity points key bene",
+      "value": 2
+    },
+    "purchase_rate": {
+      "snippet": "card annual fee $440 p.a. interest rate 23.99% p.a. on purchases 2 interest free period up to 55 days 3",
+      "value": 23.99
+    }
+  },
+  "issuer_key": "american_express",
+  "pdfs": {
+    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/TargetMarketDetermination_VelocityPlatinum.pdf": {
+      "hash": "3d9215406c313730dc6a5804d0995216ae854722028551159ab117d479b947f7",
+      "is_terms": false,
+      "label": "Target Market Determination"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/Credit_Card_Conditions.pdf": {
+      "hash": "06d5d8aaed48404b8ec75fbd97c50f39e51da6e6c0ad0485ff5700da77045c53",
+      "is_terms": true,
+      "label": "Card Terms & Conditions"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/au_KFS_Velocity.pdf": {
+      "hash": "776aebc61c99ae1985ff07a93d5073df785b088a32de8cd98c84c3ed27a7906f",
+      "is_terms": false,
+      "label": "here"
+    }
+  },
+  "target_id": "amex-velocity-platinum",
+  "url": "https://www.americanexpress.com/en-au/credit-cards/velocity-platinum-card/"
+}

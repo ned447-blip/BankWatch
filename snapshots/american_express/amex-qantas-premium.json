@@ -1,0 +1,68 @@
+{
+  "captured_at": "2026-06-08T22:11:30Z",
+  "content_hash": "ce88394909091959ba0150296d47b758cad4e8cdc8f1b516e5269d1bbfacbb33",
+  "fields": {
+    "annual_fee": {
+      "snippet": "s key information card type credit card annual fee $249 p.a. interest rate 23.99% p.a. 2 intere",
+      "value": 249.0
+    },
+    "annual_fee_y1": {
+      "snippet": "",
+      "value": null
+    },
+    "bonus_points": {
+      "snippet": "",
+      "value": null
+    },
+    "cash_advance_rate": {
+      "snippet": "",
+      "value": null
+    },
+    "interest_free_days": {
+      "snippet": "rate 23.99% p.a. 2 interest free period up to 44 days 3 how you earn qantas points key benefi",
+      "value": 44.0
+    },
+    "min_spend": {
+      "snippet": "",
+      "value": null
+    },
+    "min_spend_months": {
+      "snippet": "3.99% p.a. 2 interest free period up to 44 days 3 how you earn qantas points key benefi",
+      "value": 1
+    },
+    "purchase_rate": {
+      "snippet": "",
+      "value": null
+    }
+  },
+  "issuer_key": "american_express",
+  "pdfs": {
+    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/TargetMarketDetermination_QantasPremium.pdf": {
+      "hash": "e32dce2706fa288a56170985da3f1cc416062aab303a8578c8ccf5f93153a46d",
+      "is_terms": false,
+      "label": "Target Market Determination"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/pds_premiumcard.pdf": {
+      "hash": "02f0991c26e2c839b604c27ed5972e210d6b3427b9d5214c59f56822874bd275",
+      "is_terms": false,
+      "label": "Insurances"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/pds_qantas-premium-qantaslounge-conditions.pdf": {
+      "hash": "e01fef865a82c16d63e60d98e80b664cb0c8758e469c834bed6fdcf46d16f7da",
+      "is_terms": true,
+      "label": "Qantas Club Invitation Conditions"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/Credit_Card_Conditions.pdf": {
+      "hash": "06d5d8aaed48404b8ec75fbd97c50f39e51da6e6c0ad0485ff5700da77045c53",
+      "is_terms": true,
+      "label": "Card Terms & Conditions"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/au_KFS_Qantas.pdf": {
+      "hash": "0f9f300857ed19491fd0c2f3ba2cbb42cbddb88cc3fbdfedf130d5dd58b76327",
+      "is_terms": true,
+      "label": "Key Facts Sheet"
+    }
+  },
+  "target_id": "amex-qantas-premium",
+  "url": "https://www.americanexpress.com/en-au/credit-cards/qantas-premium-card/"
+}
