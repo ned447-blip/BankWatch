@@ -1,0 +1,188 @@
+# ─────────────────────────────────────────────────────────────
+# BankWatch — monitored targets
+#
+# Seeded from the Point Maxing card database (data.js + card-assets.js),
+# whose product URLs are bank-website sourced. Every domain here is a
+# TRUSTED, human-approved official bank domain. Nothing outside this
+# allowlist is ever fetched for data.
+#
+# To add a bank: add it under `issuers` with its official `domain`,
+# the product `pages`, and a `listing` (card index) URL. A bank not on
+# this list must be reviewed and approved first (see discovery candidates
+# in the daily report).
+# ─────────────────────────────────────────────────────────────
+
+# Hosts that are allowed to be fetched. A fetch whose FINAL url (after
+# redirects) is not under one of these hosts is rejected and flagged.
+allowlist:
+  - americanexpress.com
+  - westpac.com.au
+  - bankofmelbourne.com.au
+  - anz.com.au
+  - nab.com.au
+  - commbank.com.au
+  - qantasmoney.com
+  - hsbc.com.au
+  - bankwest.com.au
+  - mycard.com.au
+
+# Politeness / fetch behaviour
+settings:
+  user_agent: "BankWatch/1.0 (+https://pointmaxing.com.au; credit-card T&C change monitor; contact: hello@pointmaxing.com.au)"
+  per_domain_delay_seconds: 12     # min gap between requests to the same host
+  nav_timeout_seconds: 45
+  retries: 3
+  honour_robots: true
+  follow_pdf_links: true           # discover & monitor same-domain .pdf links on each product page
+  new_product_confirm_runs: 2      # a discovered card must persist this many runs before "confirmed new"
+
+issuers:
+  american_express:
+    name: American Express
+    domain: americanexpress.com
+    listing: "https://www.americanexpress.com/en-au/credit-cards/"
+    pages:
+      - id: amex-qantas-ultimate
+        url: "https://www.americanexpress.com/en-au/credit-cards/qantas-ultimate-card/"
+      - id: amex-qantas-premium
+        url: "https://www.americanexpress.com/en-au/credit-cards/qantas-premium-card/"
+      - id: amex-qantas-discovery
+        url: "https://www.americanexpress.com/en-au/credit-cards/qantas-discovery-card/"
+      - id: amex-velocity-platinum
+        url: "https://www.americanexpress.com/en-au/credit-cards/velocity-platinum-card/"
+      - id: amex-velocity-escape
+        url: "https://www.americanexpress.com/en-au/credit-cards/velocity-escape-plus-card/"
+      - id: amex-platinum
+        url: "https://www.americanexpress.com/en-au/credit-cards/the-platinum-card/"
+      - id: amex-explorer
+        url: "https://www.americanexpress.com/en-au/credit-cards/explorer-credit-card/"
+      - id: amex-platinum-edge
+        url: "https://www.americanexpress.com/en-au/credit-cards/platinum-edge-credit-card/"
+      - id: amex-essential
+        url: "https://www.americanexpress.com/en-au/credit-cards/essential-rewards-credit-card/"
+
+  westpac:
+    name: Westpac
+    domain: westpac.com.au
+    listing: "https://www.westpac.com.au/personal-banking/credit-cards/"
+    pages:
+      - id: wbc-altitude-rewards-black
+        url: "https://www.westpac.com.au/personal-banking/credit-cards/reward/altitude-rewards-black/"
+      - id: wbc-altitude-rewards-plat
+        url: "https://www.westpac.com.au/personal-banking/credit-cards/reward/altitude-rewards-platinum/"
+      - id: wbc-altitude-qantas-black
+        url: "https://www.westpac.com.au/personal-banking/credit-cards/reward/altitude-qantas-black/"
+      - id: wbc-altitude-qantas-plat
+        url: "https://www.westpac.com.au/personal-banking/credit-cards/reward/altitude-qantas-platinum/"
+      - id: wbc-altitude-velocity-black
+        url: "https://www.westpac.com.au/personal-banking/credit-cards/reward/altitude-velocity-black/"
+      - id: wbc-altitude-velocity-plat
+        url: "https://www.westpac.com.au/personal-banking/credit-cards/reward/altitude-velocity-platinum/"
+
+  bom_amplify:
+    name: St.George / BOM / BankSA (Amplify)
+    domain: bankofmelbourne.com.au
+    listing: "https://www.bankofmelbourne.com.au/personal/credit-cards.html"
+    pages:
+      - id: amp-rewards-signature
+        url: "https://www.bankofmelbourne.com.au/personal/credit-cards/rewards/amplify-rewards-signature"
+      - id: amp-rewards-platinum
+        url: "https://www.bankofmelbourne.com.au/personal/credit-cards/rewards/amplify-rewards-platinum"
+      - id: amp-qantas-signature
+        url: "https://www.bankofmelbourne.com.au/personal/credit-cards/frequent-flyer/amplify-signature"
+      - id: amp-qantas-platinum
+        url: "https://www.bankofmelbourne.com.au/personal/credit-cards/frequent-flyer/amplify-platinum"
+
+  anz:
+    name: ANZ
+    domain: anz.com.au
+    listing: "https://www.anz.com.au/personal/credit-cards/"
+    pages:
+      - id: anz-rewards-black
+        url: "https://www.anz.com.au/personal/credit-cards/rewards-black/"
+      - id: anz-rewards-platinum
+        url: "https://www.anz.com.au/personal/credit-cards/rewards-platinum/"
+      - id: anz-ff-black
+        url: "https://www.anz.com.au/personal/credit-cards/frequent-flyer-black/"
+      - id: anz-ff-platinum
+        url: "https://www.anz.com.au/personal/credit-cards/frequent-flyer-platinum/"
+
+  nab:
+    name: NAB
+    domain: nab.com.au
+    listing: "https://www.nab.com.au/personal/credit-cards"
+    pages:
+      - id: nab-rewards-signature
+        url: "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/signature-card"
+      - id: nab-rewards-platinum
+        url: "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/platinum-card"
+
+  commbank:
+    name: CommBank
+    domain: commbank.com.au
+    listing: "https://www.commbank.com.au/credit-cards.html"
+    pages:
+      - id: cba-awards
+        url: "https://www.commbank.com.au/credit-cards/awards.html"
+      - id: cba-smart
+        url: "https://www.commbank.com.au/credit-cards/smart-awards.html"
+      - id: cba-ultimate
+        url: "https://www.commbank.com.au/credit-cards/ultimate.html"
+
+  qantas_money:
+    name: Qantas Money
+    domain: qantasmoney.com
+    listing: "https://www.qantasmoney.com/credit-cards"
+    pages:
+      - id: qm-everyday
+        url: "https://www.qantasmoney.com/credit-cards/everyday"
+      - id: qm-platinum
+        url: "https://www.qantasmoney.com/credit-cards/platinum"
+      - id: qm-titanium
+        url: "https://www.qantasmoney.com/credit-cards/titanium"
+
+  hsbc:
+    name: HSBC
+    domain: hsbc.com.au
+    listing: "https://www.hsbc.com.au/credit-cards/"
+    pages:
+      - id: hsbc-star-alliance
+        url: "https://www.hsbc.com.au/credit-cards/products/star-alliance/"
+      - id: hsbc-platinum-qantas
+        url: "https://www.hsbc.com.au/credit-cards/products/platinum-qantas/"
+      - id: hsbc-platinum
+        url: "https://www.hsbc.com.au/credit-cards/products/platinum/"
+      - id: hsbc-premier
+        url: "https://www.hsbc.com.au/credit-cards/products/premier-world-mastercard/"
+
+  bankwest:
+    name: Bankwest
+    domain: bankwest.com.au
+    listing: "https://www.bankwest.com.au/credit-cards"
+    pages:
+      - id: bkw-qantas-frequent-flyer
+        url: "https://www.bankwest.com.au/credit-cards/qantas-frequent-flyer"
+      - id: bkw-rewards
+        url: "https://www.bankwest.com.au/credit-cards/rewards"
+
+  mycard:
+    name: MyCard
+    domain: mycard.com.au
+    listing: "https://www.mycard.com.au/credit-cards"
+    pages:
+      - id: myc-rewards
+        url: "https://www.mycard.com.au/credit-cards/rewards-card"
+      - id: myc-premier
+        url: "https://www.mycard.com.au/credit-cards/premier-card"
+      - id: myc-premier-qantas
+        url: "https://www.mycard.com.au/credit-cards/premier-card-qantas"
+      - id: myc-prestige
+        url: "https://www.mycard.com.au/credit-cards/prestige-card"
+      - id: myc-prestige-qantas
+        url: "https://www.mycard.com.au/credit-cards/prestige-card-qantas"
+
+# Tier-2 discovery: authoritative registry of who is legally a bank/ADI in
+# Australia. Used ONLY to surface candidate issuers for your review — never
+# scraped for card data. Approved candidates get added to `issuers` above.
+discovery:
+  apra_adi_list: "https://www.apra.gov.au/register-of-authorised-deposit-taking-institutions"
