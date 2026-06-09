@@ -1,0 +1,83 @@
+{
+  "captured_at": "2026-06-09T04:37:56Z",
+  "content_hash": "12d6ad16c9876da68d39d9de1680c46de1abee53bba56e0ee8e0b0c4c72fde27",
+  "fields": {
+    "annual_fee": {
+      "snippet": "t limit $12,000 higher min credit limit annual fee $100 annual fee $160 higher annual fee annua",
+      "value": 100.0
+    },
+    "annual_fee_y1": {
+      "snippet": "",
+      "value": null
+    },
+    "bonus_points": {
+      "snippet": "",
+      "value": null
+    },
+    "cash_advance_rate": {
+      "snippet": "ng balance transfer rate 14.99% p.a. ~~ cash advance rate 21.99% p.a.† cash advance rate 21.99% p.a.† cash ad",
+      "value": 21.99
+    },
+    "interest_free_days": {
+      "snippet": "s for platinum and world cardholders.†† up to 44 days interest free pay no interest on your p",
+      "value": 44.0
+    },
+    "min_spend": {
+      "snippet": "me with a new more platinum mastercard, spend $5,000 on eligible purchases in the first 90 days and keep your card open for 15 mo",
+      "value": 5000.0
+    },
+    "min_spend_months": {
+      "snippet": "u’ll pay on balance transfers. ~~ 0 for first 6 months, then 14.99% p.a. cash advance rate the",
+      "value": 6.0
+    },
+    "purchase_rate": {
+      "snippet": "tel stays.~ a rewards card with a lower purchase rate earn rewards with a low 14.99% p.a. purchase rate to help make everyday spe",
+      "value": 14.99
+    }
+  },
+  "issuer_key": "bankwest",
+  "pdfs": {
+    "https://www.bankwest.com.au/content/dam/bankwest/documents/legal-library/PDS_20040121-160524.pdf": {
+      "hash": "4d7d90bbde254a0b345e1a41799146db83d6af65f8d23ae786b26ff9d0b75871",
+      "is_terms": false,
+      "label": "Financial Services Guide"
+    },
+    "https://www.bankwest.com.au/content/dam/bankwest/documents/legal-library/PDS_20050801-144423.pdf": {
+      "hash": "aec446f6212ee44323e4a33d39b5ed8c65196a90e3e601964690a8a86e5ce049",
+      "is_terms": true,
+      "label": "Credit Card Account Access Conditions of Use (PDF)"
+    },
+    "https://www.bankwest.com.au/content/dam/bankwest/documents/legal-library/PDS_20051111-093533.pdf": {
+      "hash": "4397730cd2fcbc00f1313068737e5a3aefbacecf6b08b96ff18b329ef4984ac0",
+      "is_terms": true,
+      "label": "Credit Cards Conditions of Use (PDF)"
+    },
+    "https://www.bankwest.com.au/content/dam/bankwest/documents/legal-library/PDS_20070628-144347.pdf": {
+      "hash": "4aaa286c6076806b1ac5b8cce4ea7c3aa68d44164c6df02abca26862a3583f6a",
+      "is_terms": true,
+      "label": "Bankwest More Rewards Terms and Conditions (PDF)"
+    },
+    "https://www.bankwest.com.au/content/dam/bankwest/documents/legal-library/PDS_20120629-163837.pdf": {
+      "hash": "78dac83fe51c07f5553b5fdd18b2a9660cb1b7988a1d85d36a2de5f2f86a6390",
+      "is_terms": true,
+      "label": "Bankwest Qantas Rewards Terms and Conditions (PDF)"
+    },
+    "https://www.bankwest.com.au/content/dam/bankwest/documents/legal-library/PDS_20210204-164337.pdf": {
+      "hash": "60cbb6dd648ab6bc43f7a52dd3052eda9790672970ccee98f7a7644a14ad16e4",
+      "is_terms": false,
+      "label": "Additional Cardholder(s) Request Form (PDF)"
+    },
+    "https://www.bankwest.com.au/content/dam/bankwest/documents/legal-library/PDS_20210413-162711.pdf": {
+      "hash": "c4ba039b1eab34c977ed1225bf7bea2277136bd9ce1d54772d62c0df4e404760",
+      "is_terms": true,
+      "label": "Credit Card Insurances Product Disclosure Statement and Information Booklet (PDF)"
+    },
+    "https://www.bankwest.com.au/content/dam/bankwest/documents/legal-library/PDS_20220227-113508.pdf": {
+      "hash": "8e4f7508af14df3a26370337cd4a0d471487f1cc9621eec72c03550ca1d299f6",
+      "is_terms": true,
+      "label": "Credit Card Key Facts Sheet (PDF)"
+    }
+  },
+  "target_id": "bkw-rewards",
+  "url": "https://www.bankwest.com.au/credit-cards/rewards"
+}

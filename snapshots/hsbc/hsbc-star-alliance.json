@@ -1,0 +1,53 @@
+{
+  "captured_at": "2026-06-09T04:35:36Z",
+  "content_hash": "6020059e29c547515ae8685a03b9e5f1de71ed222c4779d6f78341b2c5433ce3",
+  "fields": {
+    "annual_fee": {
+      "snippet": "points from your daily spending. rates annual fee $0 in the first year ($499 afterwards) 7 f",
+      "value": 0.0
+    },
+    "annual_fee_y1": {
+      "snippet": "ly spending. rates annual fee $0 in the first year ($499 afterwards) 7 footnote link 7 interest-",
+      "value": 499.0
+    },
+    "bonus_points": {
+      "snippet": "",
+      "value": null
+    },
+    "cash_advance_rate": {
+      "snippet": "accrue interest at the current variable cash advance rate (currently 21.99% p.a.). hsbc will allocate payments we receiv",
+      "value": 21.99
+    },
+    "interest_free_days": {
+      "snippet": "ink 7 interest-free period on purchases up to 55 days 8 footnote link 8 interest rate for pur",
+      "value": 55.0
+    },
+    "min_spend": {
+      "snippet": "new hsbc star alliance credit card and spend $4,000 on eligible purchases within the first 90 days from account opening. star allian",
+      "value": 4000.0
+    },
+    "min_spend_months": {
+      "snippet": "roductory) 4 footnote link 4 0% for the first 12 months balance transfer fee 5 footnote link 5",
+      "value": 12.0
+    },
+    "purchase_rate": {
+      "snippet": "ays 8 footnote link 8 interest rate for purchases 19.99% p.a. see how to apply enjoy a premium travel",
+      "value": 19.99
+    }
+  },
+  "issuer_key": "hsbc",
+  "pdfs": {
+    "https://www.hsbc.com.au/content/dam/hsbc/au/docs/credit-cards/terms/key-facts-sheet.pdf": {
+      "hash": "0a68dcce964a427eea547189962e4778085bee3c4b3ff95077b1ada0af2e5512",
+      "is_terms": true,
+      "label": "Key facts sheet (PDF) Key facts sheet (PDF) Download"
+    },
+    "https://www.hsbc.com.au/content/dam/hsbc/au/docs/pdf/instant-saving-tc.pdf": {
+      "hash": "c5e6b22cd66174b78e1246cc92568e3ce78664b64d1110deb839605f83279f1a",
+      "is_terms": true,
+      "label": "HSBC Instant Savings terms and conditions (PDF) (this link will open in a new window)"
+    }
+  },
+  "target_id": "hsbc-star-alliance",
+  "url": "https://www.hsbc.com.au/credit-cards/products/star-alliance/"
+}

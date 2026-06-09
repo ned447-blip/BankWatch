@@ -1,0 +1,73 @@
+{
+  "captured_at": "2026-06-09T04:32:05Z",
+  "content_hash": "a24ba9141468dc95fe6f179a8b33bbf857c9ca95128e01269ad657c092029905",
+  "fields": {
+    "annual_fee": {
+      "snippet": "",
+      "value": null
+    },
+    "annual_fee_y1": {
+      "snippet": "",
+      "value": null
+    },
+    "bonus_points": {
+      "snippet": "",
+      "value": null
+    },
+    "cash_advance_rate": {
+      "snippet": "someone else. monthly fee $8 per month cash advance interest rate 21.99% p.a. cash advance fee $4.00 or 3.00% of the",
+      "value": 21.99
+    },
+    "interest_free_days": {
+      "snippet": "20.99% p.a. interest rate on purchases up to 44 days interest-free on purchases pay no addit",
+      "value": 44.0
+    },
+    "min_spend": {
+      "snippet": "",
+      "value": null
+    },
+    "min_spend_months": {
+      "snippet": "% p.a. interest rate on purchases up to 44 days interest-free on purchases pay no addit",
+      "value": 1
+    },
+    "purchase_rate": {
+      "snippet": "ent due date. minimum credit limit $500 purchase interest rate 20.99% p.a. prepare for take-off with travel bookin",
+      "value": 20.99
+    }
+  },
+  "issuer_key": "commbank",
+  "pdfs": {
+    "https://www.commbank.com.au/content/dam/commbank-assets/important-docs/credit-card-insurances-info-booklet.pdf": {
+      "hash": "58df01eca346eab0a32ca31c6f84e8e2404767b0e066ac89096edd7a134ad1b1",
+      "is_terms": false,
+      "label": "Credit Card Insurances Information Booklet"
+    },
+    "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/ADB1682.pdf": {
+      "hash": "03d67fa661600d24a0de1b87c4b895dbdfca502490640b5a3e4f41c9c41b0660",
+      "is_terms": true,
+      "label": "standard fees and charges"
+    },
+    "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/CommBankAwards-Ts&Cs.pdf": {
+      "hash": "199f2ee73ca17870bbdc872203b22334284bff8972977439f135dfeea6c97880",
+      "is_terms": true,
+      "label": "Commonwealth (CommBank) Awards Program Terms & Conditions"
+    },
+    "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/FSRA0074_BR173_PrintVersion_1811.pdf": {
+      "hash": "62f0d8105654f363e8250d7324733808c96a331db4b0ab4690db9db477d466b2",
+      "is_terms": false,
+      "label": "Financial Services Guide"
+    },
+    "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/cc-keyfacts.pdf": {
+      "hash": "d0d1441e86842dee3ac47eaab6eee258db4918f62a06cd4dbef7451ab0aabe2f",
+      "is_terms": true,
+      "label": "key facts about our credit cards"
+    },
+    "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/cc2-cou.pdf": {
+      "hash": "16b5f50bbea944abccab4dbe5fc98acb761ece84b14441920c7930e1e25438a4",
+      "is_terms": true,
+      "label": "Credit Card Conditions of Use"
+    }
+  },
+  "target_id": "cba-awards",
+  "url": "https://www.commbank.com.au/credit-cards/awards.html"
+}

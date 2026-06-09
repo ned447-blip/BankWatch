@@ -1,0 +1,78 @@
+{
+  "captured_at": "2026-06-09T04:32:47Z",
+  "content_hash": "433389778d1bef5575686ca907f7a87d926ecf6e5e2d1951d24620aff3f538bc",
+  "fields": {
+    "annual_fee": {
+      "snippet": "",
+      "value": null
+    },
+    "annual_fee_y1": {
+      "snippet": "",
+      "value": null
+    },
+    "bonus_points": {
+      "snippet": "rchase made in a statement period up to 1,000 bonus points or 400 qantas points 1 earn up to 1.5 a",
+      "value": 1000.0
+    },
+    "cash_advance_rate": {
+      "snippet": "enience of your card with someone else. cash advance rate 21.99% p.a. cash advances may be unavailable or sub",
+      "value": 21.99
+    },
+    "interest_free_days": {
+      "snippet": "nience of your card with someone else 9 up to 44 days interest-free on purchases priceless.co",
+      "value": 44.0
+    },
+    "min_spend": {
+      "snippet": "rt awards card, you must spend at least $4,500 on eligible purchases within the first 90 days from the date your card is activated. t",
+      "value": 4500.0
+    },
+    "min_spend_months": {
+      "snippet": "of your card with someone else 9 up to 44 days interest-free on purchases priceless.co",
+      "value": 1
+    },
+    "purchase_rate": {
+      "snippet": "east $2,000 in your statement period. 3 purchase rate 20.99% p.a. qantas points opt-in fee $90 per year.",
+      "value": 20.99
+    }
+  },
+  "issuer_key": "commbank",
+  "pdfs": {
+    "https://www.commbank.com.au/content/dam/commbank-assets/important-docs/credit-card-insurances-pds-info-booklet.pdf": {
+      "hash": "aef8f9aaef28da52de0356ba3c3a990bc6ad1fbb53f80e843a96e92107fa06d5",
+      "is_terms": true,
+      "label": "Credit Card Insurances Product Disclosure Statement and Information Booklet"
+    },
+    "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/ADB1682.pdf": {
+      "hash": "03d67fa661600d24a0de1b87c4b895dbdfca502490640b5a3e4f41c9c41b0660",
+      "is_terms": true,
+      "label": "standard fees and charges"
+    },
+    "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/CommBankAwards-Ts&Cs.pdf": {
+      "hash": "199f2ee73ca17870bbdc872203b22334284bff8972977439f135dfeea6c97880",
+      "is_terms": true,
+      "label": "CommBank Awards Program Terms & Conditions"
+    },
+    "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/FSRA0074_BR173_PrintVersion_1811.pdf": {
+      "hash": "62f0d8105654f363e8250d7324733808c96a331db4b0ab4690db9db477d466b2",
+      "is_terms": false,
+      "label": "Financial Services Guide"
+    },
+    "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/cc-keyfacts.pdf": {
+      "hash": "d0d1441e86842dee3ac47eaab6eee258db4918f62a06cd4dbef7451ab0aabe2f",
+      "is_terms": true,
+      "label": "key facts about our credit cards"
+    },
+    "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/cc2-cou.pdf": {
+      "hash": "16b5f50bbea944abccab4dbe5fc98acb761ece84b14441920c7930e1e25438a4",
+      "is_terms": true,
+      "label": "Credit Card Conditions of Use"
+    },
+    "https://www.commbank.com.au/personal/apply-online/download-printed-forms/CommBankAwards-Ts&Cs.pdf": {
+      "hash": "199f2ee73ca17870bbdc872203b22334284bff8972977439f135dfeea6c97880",
+      "is_terms": false,
+      "label": "commbank.com.au/awardst&cs"
+    }
+  },
+  "target_id": "cba-smart",
+  "url": "https://www.commbank.com.au/credit-cards/smart-awards.html"
+}

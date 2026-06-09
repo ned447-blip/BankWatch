@@ -1,0 +1,63 @@
+{
+  "captured_at": "2026-06-09T04:36:17Z",
+  "content_hash": "5d5bb067a1ad221c6cedc3fac53aa12f9311ac90be4c84150e087b25ed096e98",
+  "fields": {
+    "annual_fee": {
+      "snippet": "fantastic rewards and privileges. rates annual fee $0 in the first year ($199 afterwards) 5 f",
+      "value": 0.0
+    },
+    "annual_fee_y1": {
+      "snippet": "privileges. rates annual fee $0 in the first year ($199 afterwards) 5 footnote link 5 interest-",
+      "value": 199.0
+    },
+    "bonus_points": {
+      "snippet": "",
+      "value": null
+    },
+    "cash_advance_rate": {
+      "snippet": "accrue interest at the current variable cash advance rate (currently 21.99% p.a.). hsbc will allocate payments we receiv",
+      "value": 21.99
+    },
+    "interest_free_days": {
+      "snippet": "ink 5 interest-free period on purchases up to 55 days 6 footnote link 6 interest rate for pur",
+      "value": 55.0
+    },
+    "min_spend": {
+      "snippet": "",
+      "value": null
+    },
+    "min_spend_months": {
+      "snippet": "interest-free period on purchases up to 55 days 6 footnote link 6 interest rate for pur",
+      "value": 2
+    },
+    "purchase_rate": {
+      "snippet": "ays 6 footnote link 6 interest rate for purchases 19.99% p.a. see how to apply earn rewards plus poin",
+      "value": 19.99
+    }
+  },
+  "issuer_key": "hsbc",
+  "pdfs": {
+    "https://www.hsbc.com.au/content/dam/hsbc/au/docs/credit-cards/platinum/airport-lounge-tc.pdf": {
+      "hash": "1143f76d446049d320cb1ceac52c32e01cff701e75a108404f5fb4daaadf78ca",
+      "is_terms": true,
+      "label": "Terms and conditions (PDF) Terms and conditions (PDF) This link will open in a new window"
+    },
+    "https://www.hsbc.com.au/content/dam/hsbc/au/docs/credit-cards/terms/key-facts-sheet.pdf": {
+      "hash": "0a68dcce964a427eea547189962e4778085bee3c4b3ff95077b1ada0af2e5512",
+      "is_terms": true,
+      "label": "Key facts sheet (PDF) Key facts sheet (PDF) Download"
+    },
+    "https://www.hsbc.com.au/content/dam/hsbc/au/docs/pdf/instant-saving-tc.pdf": {
+      "hash": "c5e6b22cd66174b78e1246cc92568e3ce78664b64d1110deb839605f83279f1a",
+      "is_terms": true,
+      "label": "HSBC Instant Savings terms and conditions (PDF) (this link will open in a new window) HSBC Instant Savings terms and con"
+    },
+    "https://www.hsbc.com.au/content/dam/hsbc/au/docs/pdf/rewards_terms.pdf": {
+      "hash": "dc81e85d9406f274365805f216c3bda2f499a962d5b456fb7740ca326db44037",
+      "is_terms": true,
+      "label": "HSBC's Credit Card Rewards Plus Program Terms and Conditions (PDF) HSBC's Credit Card Rewards Plus Program Terms and Con"
+    }
+  },
+  "target_id": "hsbc-platinum",
+  "url": "https://www.hsbc.com.au/credit-cards/products/platinum/"
+}
