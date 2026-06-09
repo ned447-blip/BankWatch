@@ -29,7 +29,7 @@ allowlist:
 # Politeness / fetch behaviour
 settings:
   user_agent: "BankWatch/1.0 (+https://pointmaxing.com.au; credit-card T&C change monitor; contact: hello@pointmaxing.com.au)"
-  per_domain_delay_seconds: 12     # min gap between requests to the same host
+  per_domain_delay_seconds: 6     # min gap between requests to the same host
   nav_timeout_seconds: 45
   retries: 3
   honour_robots: true
