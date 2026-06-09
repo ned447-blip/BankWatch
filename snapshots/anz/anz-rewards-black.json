@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-06-09T00:12:24Z",
+  "captured_at": "2026-06-09T00:04:36Z",
   "content_hash": "bfa9c0f3aa96298766f18ca3218ecc552ff5bf567e80635057e0c367446a2649",
   "fields": {
     "annual_fee": {
@@ -55,7 +55,7 @@
     "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/anz-ff-reward-tc.pdf": {
       "hash": "c8c7aa3e71dd49a43d2801ec2f13dfef2b2a3601e35343b5a97de47c8436cf58",
       "is_terms": true,
-      "label": "ANZ Frequent Flyer Reward Terms and Conditions (PDF)"
+      "label": "ANZ Frequent Flyer Reward Terms and Conditions booklet (PDF)"
     },
     "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/anz-platinum-and-black-complimentary-insurance-booklet.pdf": {
       "hash": "39bad72cb08de44416cf0467d73a897aeaa9b597961308fe8d2a0b7bff132f53",
@@ -65,7 +65,7 @@
     "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/anz-rewards-program-terms-conditions.pdf": {
       "hash": "5738fd659c4164857094dbedf2121f7605818afd26032448d6b5ef767d3df962",
       "is_terms": true,
-      "label": "ANZ Rewards – Rewards Program Terms and Conditions booklet (PDF)"
+      "label": "ANZ Rewards – Rewards Program Terms and Conditions (PDF)"
     },
     "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/applepay-tcs.pdf": {
       "hash": "2cca554f33d61bfc6a5880f56bd66891510d3b3bf2f48f7de3a080b473400f20",
@@ -98,6 +98,6 @@
       "label": "Samsung Pay (PDF)"
     }
   },
-  "target_id": "anz-ff-platinum",
-  "url": "https://www.anz.com.au/personal/credit-cards/frequent-flyer-platinum/"
+  "target_id": "anz-rewards-black",
+  "url": "https://www.anz.com.au/personal/credit-cards/rewards-black/"
 }

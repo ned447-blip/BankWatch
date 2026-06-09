@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-06-08T22:32:16Z",
-  "content_hash": "ca6fcb00b4c6dc21bebf0ee8295c8f3586b87370a1f8d35f2e917b03263368ab",
+  "captured_at": "2026-06-08T23:55:56Z",
+  "content_hash": "412fc086932b21dcd120fc77e1095b5a6443c5c007f9e236c33e2e7b4cf6cb9d",
   "fields": {
     "annual_fee": {
       "snippet": "† in year 2. plus, a reduced first year card fee of $199 (reverts to $295 p.a. thereafter) + . a",
@@ -43,9 +43,9 @@
       "label": "PDF-file Credit Card Complimentary Insurance Terms and Conditions (PDF 339KB)"
     },
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/accounts_and_cards/bom-cc-fee-charges.pdf?appAction=exit": {
-      "hash": "c43b19ef772b1ace9c7c9f09885b9e49c32a4c04da98ae46710f79ee78af4216",
+      "hash": "70eeb6466579fdfe07f2a4681660b9660aaef10465d6e9bd4288cf8922f4041f",
       "is_terms": true,
-      "label": "PDF-file Credit Card Accounts Fees and Charges (PDF 123KB)"
+      "label": "PDF-file Credit Card Accounts Fees and Charges (PDF 144KB)"
     },
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/credit-cards/bom-eligible-australian-visa-list.pdf": {
       "hash": "3e9bf7d0546e163eba4db0167be6232a9a9bf88ee36e8e763a15889c88daf116",
