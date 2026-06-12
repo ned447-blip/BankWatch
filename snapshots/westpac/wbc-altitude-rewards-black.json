@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-06-11T12:22:46Z",
+  "captured_at": "2026-06-12T11:16:17Z",
   "content_hash": "ad336e4c9d06930fe5d1649170a25bc13e6a1842382e38ccfca022883290c4e6",
   "fields": {
     "annual_fee": {
@@ -46,11 +46,6 @@
       "hash": "4f4afcf9d7aa89ad66759b018727d6fd74470cb2943c03d3c798f3eded7e8ce9",
       "is_terms": false,
       "label": "Pdf File ID checklist to become a customer (PDF 657KB)"
-    },
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/Consumer_Conditions_of_use.pdf": {
-      "hash": "b6404e13d278434bc44809fc0c09bae763d16aa69d546c9959a8132a87aa0592",
-      "is_terms": true,
-      "label": "Pdf File Credit Card Terms and Conditions (PDF 200KB)"
     },
     "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/WBC-apple-pay-westpac-tcs.pdf": {
       "hash": "ce48267644d4ab18ba8b001629eb6f73292be9f0f03dc01170caf572218e1c90",
