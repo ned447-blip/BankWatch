@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-06-18T12:01:41Z",
+  "captured_at": "2026-06-19T12:18:05Z",
   "issuer_key": "nab",
   "pending": {
     "https://www.nab.com.au/business/business-credit-cards": 1,
@@ -17,10 +17,7 @@
     "https://www.nab.com.au/personal/credit-cards/fees-charges": 1,
     "https://www.nab.com.au/personal/credit-cards/first-credit-card": 1,
     "https://www.nab.com.au/personal/credit-cards/low-fee-card": 1,
-    "https://www.nab.com.au/personal/credit-cards/low-fee-card/nab-low-fee-card-checklist": 1,
     "https://www.nab.com.au/personal/credit-cards/nab-low-rate-card": 1,
-    "https://www.nab.com.au/personal/credit-cards/nab-low-rate-card-cash-back-checklist": 1,
-    "https://www.nab.com.au/personal/credit-cards/nab-low-rate-card-checklist": 1,
     "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards": 1,
     "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/platinum-card": 1,
     "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/signature-card": 1,
@@ -52,10 +49,7 @@
     "https://www.nab.com.au/personal/credit-cards/fees-charges": "Credit card fees and charges",
     "https://www.nab.com.au/personal/credit-cards/first-credit-card": "Choosing your first credit card",
     "https://www.nab.com.au/personal/credit-cards/low-fee-card": "NAB Low Fee Card",
-    "https://www.nab.com.au/personal/credit-cards/low-fee-card/nab-low-fee-card-checklist": "Apply now",
     "https://www.nab.com.au/personal/credit-cards/nab-low-rate-card": "NAB Low Rate Credit Card",
-    "https://www.nab.com.au/personal/credit-cards/nab-low-rate-card-cash-back-checklist": "Apply now",
-    "https://www.nab.com.au/personal/credit-cards/nab-low-rate-card-checklist": "Apply now",
     "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards": "NAB Rewards credit cards",
     "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/platinum-card": "NAB Rewards Platinum Card",
     "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/signature-card": "NAB Rewards Signature Card",
