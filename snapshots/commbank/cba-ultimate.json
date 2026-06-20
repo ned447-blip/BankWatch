@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-06-19T12:19:38Z",
-  "content_hash": "08420534216387c7ec78f82484fec9dcb7990df098f966431d1621d6bf9a8052",
+  "captured_at": "2026-06-20T00:17:53Z",
+  "content_hash": "3b2918059f01b9d19ed9a8c3640f42f5cce352f85dbca0985d6d08510d0341e9",
   "fields": {
     "annual_fee": {
       "snippet": "",
@@ -23,7 +23,7 @@
       "value": 44.0
     },
     "min_spend": {
-      "snippet": "te awards card, you must spend at least $9,000 on eligible purchases within the first 90 days from the date your card is activated. t",
+      "snippet": "credits (first credit): spend at least $9,000 on eligible purchases within 90 days of activating your card and access the",
       "value": 9000.0
     },
     "min_spend_months": {
@@ -61,11 +61,6 @@
       "hash": "16b5f50bbea944abccab4dbe5fc98acb761ece84b14441920c7930e1e25438a4",
       "is_terms": true,
       "label": "CommBank Credit Card Conditions of Use"
-    },
-    "https://www.commbank.com.au/personal/apply-online/download-printed-forms/CommBankAwards-Ts&Cs.pdf": {
-      "hash": "199f2ee73ca17870bbdc872203b22334284bff8972977439f135dfeea6c97880",
-      "is_terms": false,
-      "label": "commbank.com.au/awardst&cs"
     }
   },
   "target_id": "cba-ultimate",

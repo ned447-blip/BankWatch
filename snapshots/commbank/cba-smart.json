@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-06-19T12:18:49Z",
-  "content_hash": "433389778d1bef5575686ca907f7a87d926ecf6e5e2d1951d24620aff3f538bc",
+  "captured_at": "2026-06-20T00:17:12Z",
+  "content_hash": "10cac26fb2be512a3f379b99bf95c3f9bd31ee13071179587f9d12c68b1258f0",
   "fields": {
     "annual_fee": {
       "snippet": "",
@@ -23,8 +23,8 @@
       "value": 44.0
     },
     "min_spend": {
-      "snippet": "rt awards card, you must spend at least $4,500 on eligible purchases within the first 90 days from the date your card is activated. t",
-      "value": 4500.0
+      "snippet": "",
+      "value": null
     },
     "min_spend_months": {
       "snippet": "of your card with someone else 9 up to 44 days interest-free on purchases priceless.co",
@@ -66,11 +66,6 @@
       "hash": "16b5f50bbea944abccab4dbe5fc98acb761ece84b14441920c7930e1e25438a4",
       "is_terms": true,
       "label": "Credit Card Conditions of Use"
-    },
-    "https://www.commbank.com.au/personal/apply-online/download-printed-forms/CommBankAwards-Ts&Cs.pdf": {
-      "hash": "199f2ee73ca17870bbdc872203b22334284bff8972977439f135dfeea6c97880",
-      "is_terms": false,
-      "label": "commbank.com.au/awardst&cs"
     }
   },
   "target_id": "cba-smart",
