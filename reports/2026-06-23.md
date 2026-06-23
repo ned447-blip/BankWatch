@@ -1,6 +1,6 @@
 # BankWatch — 2026-06-23
 
-_Run at 16:08 UTC · 53 targets checked · 0 material · 0 new · 13 unverified_
+_Run at 00:49 UTC · 53 targets checked · 0 material · 0 new · 14 unverified_
 
 > ⚠️ **This run has unverified checks — do not treat as “all clear”.** See the Unverified section.
 
@@ -12,9 +12,11 @@ _None._
 
 _None._
 
-## ⚠️ Unverified — manual review needed (13)
+## ⚠️ Unverified — manual review needed (14)
 - **american_express** · `_listing` — blocked: Unexpected HTTP 404
   - https://www.americanexpress.com/en-au/credit-cards/
+- **anz** · `anz-rewards-black` — blocked: bot challenge detected
+  - https://www.anz.com.au/personal/credit-cards/rewards-black/
 - **qantas_money** · `qm-everyday` — blocked: Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.qantasmoney.com/credit-cards/everyday
 Call log:
 navigating to "https://www.qantasmoney.com/credit-cards/everyday", waiting until "domcontentloaded"
@@ -60,9 +62,9 @@ _None._
 
 _None._
 
-## ✅ Verified, no change (33)
+## ✅ Verified, no change (32)
 
-_33 of 53 targets verified unchanged. 13 could not be verified (above)._
+_32 of 53 targets verified unchanged. 14 could not be verified (above)._
 
 ---
 _BankWatch monitors official bank domains only. General information, not financial advice._
