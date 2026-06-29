@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-06-27T23:56:51Z",
+  "captured_at": "2026-06-29T00:12:08Z",
   "issuer_key": "bom_amplify",
   "pending": {
     "https://www.bankofmelbourne.com.au/business/credit-card": 1,
@@ -10,7 +10,6 @@
     "https://www.bankofmelbourne.com.au/personal/credit-cards/close-credit-card": 1,
     "https://www.bankofmelbourne.com.au/personal/credit-cards/concerned-about-fraud": 1,
     "https://www.bankofmelbourne.com.au/personal/credit-cards/credit-card-offers": 1,
-    "https://www.bankofmelbourne.com.au/personal/credit-cards/credit-card-updates": 1,
     "https://www.bankofmelbourne.com.au/personal/credit-cards/everydayrewards": 1,
     "https://www.bankofmelbourne.com.au/personal/credit-cards/low-rate": 1,
     "https://www.bankofmelbourne.com.au/personal/credit-cards/manage": 1,
@@ -35,7 +34,6 @@
     "https://www.bankofmelbourne.com.au/personal/credit-cards/close-credit-card": "How do I close my credit card?",
     "https://www.bankofmelbourne.com.au/personal/credit-cards/concerned-about-fraud": "Fraud protection",
     "https://www.bankofmelbourne.com.au/personal/credit-cards/credit-card-offers": "Explore latest offers",
-    "https://www.bankofmelbourne.com.au/personal/credit-cards/credit-card-updates": "Find out more",
     "https://www.bankofmelbourne.com.au/personal/credit-cards/everydayrewards": "Learn more",
     "https://www.bankofmelbourne.com.au/personal/credit-cards/low-rate": "Have a low purchase rate",
     "https://www.bankofmelbourne.com.au/personal/credit-cards/manage": "Manage my credit card",

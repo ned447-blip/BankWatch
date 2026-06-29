@@ -1,11 +1,10 @@
 {
-  "captured_at": "2026-06-27T23:52:28Z",
+  "captured_at": "2026-06-29T00:07:43Z",
   "issuer_key": "westpac",
   "pending": {
     "https://www.westpac.com.au/business-banking/credit-cards": 1,
     "https://www.westpac.com.au/personal-banking/credit-cards": 1,
     "https://www.westpac.com.au/personal-banking/credit-cards/balance-transfer-cards": 1,
-    "https://www.westpac.com.au/personal-banking/credit-cards/card-fee-changes": 1,
     "https://www.westpac.com.au/personal-banking/credit-cards/credit-card-offers": 1,
     "https://www.westpac.com.au/personal-banking/credit-cards/credit-cards-fact-sheet": 1,
     "https://www.westpac.com.au/personal-banking/credit-cards/debt": 1,
@@ -31,7 +30,6 @@
     "https://www.westpac.com.au/business-banking/credit-cards": "Credit cards",
     "https://www.westpac.com.au/personal-banking/credit-cards": "Skip to main content",
     "https://www.westpac.com.au/personal-banking/credit-cards/balance-transfer-cards": "Transfer credit card balances",
-    "https://www.westpac.com.au/personal-banking/credit-cards/card-fee-changes": "Find out more",
     "https://www.westpac.com.au/personal-banking/credit-cards/credit-card-offers": "Offers",
     "https://www.westpac.com.au/personal-banking/credit-cards/credit-cards-fact-sheet": "Westpac Credit Cards Key Facts Sheet",
     "https://www.westpac.com.au/personal-banking/credit-cards/debt": "Managing credit card debt",
