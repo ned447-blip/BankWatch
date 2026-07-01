@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-06-30T00:08:55Z",
-  "content_hash": "12d6ad16c9876da68d39d9de1680c46de1abee53bba56e0ee8e0b0c4c72fde27",
+  "captured_at": "2026-07-01T00:21:50Z",
+  "content_hash": "ec27b22186eb20b6831327fd87ae3794604edaa05993f4a59de1f2f2b84c873e",
   "fields": {
     "annual_fee": {
       "snippet": "t limit $12,000 higher min credit limit annual fee $100 annual fee $160 higher annual fee annua",
@@ -76,6 +76,11 @@
       "hash": "8e4f7508af14df3a26370337cd4a0d471487f1cc9621eec72c03550ca1d299f6",
       "is_terms": true,
       "label": "Credit Card Key Facts Sheet (PDF)"
+    },
+    "https://www.bankwest.com.au/content/dam/bankwest/documents/legal-library/PDS_20260611-134858.pdf": {
+      "hash": "8c1f86d69835f1fee6c33427d0d6970fddb172744d8c45eba21469e8b28ae5e4",
+      "is_terms": false,
+      "label": "non-acceptable visa (PDF)"
     }
   },
   "target_id": "bkw-rewards",
