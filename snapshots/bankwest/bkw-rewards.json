@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-02T00:49:34Z",
+  "captured_at": "2026-07-03T00:13:50Z",
   "content_hash": "ec27b22186eb20b6831327fd87ae3794604edaa05993f4a59de1f2f2b84c873e",
   "fields": {
     "annual_fee": {
@@ -48,7 +48,7 @@
       "label": "Credit Card Account Access Conditions of Use (PDF)"
     },
     "https://www.bankwest.com.au/content/dam/bankwest/documents/legal-library/PDS_20051111-093533.pdf": {
-      "hash": "4397730cd2fcbc00f1313068737e5a3aefbacecf6b08b96ff18b329ef4984ac0",
+      "hash": "28059eb48719d1b75ec85a426ac408204de89e29e95ce9b8b0a5b9662e1fe1e3",
       "is_terms": true,
       "label": "Credit Cards Conditions of Use (PDF)"
     },

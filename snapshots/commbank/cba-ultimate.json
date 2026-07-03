@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-02T00:45:07Z",
+  "captured_at": "2026-07-03T00:09:28Z",
   "content_hash": "3b2918059f01b9d19ed9a8c3640f42f5cce352f85dbca0985d6d08510d0341e9",
   "fields": {
     "annual_fee": {
@@ -58,7 +58,7 @@
       "label": "key facts about our credit cards"
     },
     "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/cc2-cou.pdf": {
-      "hash": "16b5f50bbea944abccab4dbe5fc98acb761ece84b14441920c7930e1e25438a4",
+      "hash": "d555265543cd396646fa720453ff13181c17dd4747a62804c4551cb0b3eec381",
       "is_terms": true,
       "label": "CommBank Credit Card Conditions of Use"
     }
