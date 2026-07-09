@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-08T21:43:41Z",
+  "captured_at": "2026-07-09T22:02:07Z",
   "issuer_key": "nab",
   "pending": {
     "https://www.nab.com.au/business/business-credit-cards": 1,
@@ -30,8 +30,7 @@
     "https://www.nab.com.au/personal/credit-cards/qantas-rewards/nab-qantas-rewards-signature-card": 1,
     "https://www.nab.com.au/personal/life-moments/manage-money/manage-debt/avoid-credit-card-fees": 1,
     "https://www.nab.com.au/personal/life-moments/manage-money/manage-debt/avoid-credit-card-interest": 1,
-    "https://www.nab.com.au/personal/life-moments/manage-money/money-basics/credit-card-personal-loan": 1,
-    "https://www.nab.com.au/personal/life-moments/manage-money/money-basics/credit-cards": 1
+    "https://www.nab.com.au/personal/life-moments/manage-money/money-basics/credit-card-personal-loan": 1
   },
   "products": {
     "https://www.nab.com.au/business/business-credit-cards": "Business credit cards",
@@ -60,9 +59,8 @@
     "https://www.nab.com.au/personal/credit-cards/qantas-rewards": "NAB Qantas Rewards credit cards",
     "https://www.nab.com.au/personal/credit-cards/qantas-rewards/nab-qantas-rewards-premium-card": "NAB Qantas Rewards Premium Card",
     "https://www.nab.com.au/personal/credit-cards/qantas-rewards/nab-qantas-rewards-signature-card": "NAB Qantas Rewards Signature Card",
-    "https://www.nab.com.au/personal/life-moments/manage-money/manage-debt/avoid-credit-card-fees": "Common credit card fees and how to avoid them",
-    "https://www.nab.com.au/personal/life-moments/manage-money/manage-debt/avoid-credit-card-interest": "How to avoid paying credit card interest",
-    "https://www.nab.com.au/personal/life-moments/manage-money/money-basics/credit-card-personal-loan": "Credit card or personal loan",
-    "https://www.nab.com.au/personal/life-moments/manage-money/money-basics/credit-cards": "How credit cards work"
+    "https://www.nab.com.au/personal/life-moments/manage-money/manage-debt/avoid-credit-card-fees": "Credit card fees and how to avoid them",
+    "https://www.nab.com.au/personal/life-moments/manage-money/manage-debt/avoid-credit-card-interest": "Avoid paying credit card interest",
+    "https://www.nab.com.au/personal/life-moments/manage-money/money-basics/credit-card-personal-loan": "Choosing between a credit card or personal loan"
   }
 }

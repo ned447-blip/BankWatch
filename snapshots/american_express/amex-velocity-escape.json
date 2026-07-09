@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-08T21:23:45Z",
+  "captured_at": "2026-07-09T21:42:31Z",
   "content_hash": "8f5a44449a1cd5a57f56b029bba8d7dbdaab6b49fe6b5401d67f15f5070f4b78",
   "fields": {
     "annual_fee": {
@@ -41,6 +41,11 @@
       "hash": "fd5d9b4ad8b48bd6ac5a668cd9442cfb342be3560c3bee6b8fdd601968d855af",
       "is_terms": false,
       "label": "Target Market Determination"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/pds_velocity_escape_plus_insurance_tncs.pdf": {
+      "hash": "7b70f6a25b19e91bdfb32be75b10345d020738e3ecdb97d78dfdc20bd3c00982",
+      "is_terms": true,
+      "label": "Insurances Terms and Conditions"
     },
     "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/Credit_Card_Conditions.pdf": {
       "hash": "06d5d8aaed48404b8ec75fbd97c50f39e51da6e6c0ad0485ff5700da77045c53",
