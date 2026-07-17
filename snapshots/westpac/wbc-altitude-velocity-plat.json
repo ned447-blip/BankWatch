@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-16T21:23:59Z",
+  "captured_at": "2026-07-17T21:16:05Z",
   "content_hash": "478b298f87db962bceba56793c050c08efe520db9fdbba9a87031a2b00eaea97",
   "fields": {
     "annual_fee": {
@@ -66,11 +66,6 @@
       "hash": "987c676b9cbbba71959e70521e9cb8dfb569867fa845c717a216cf67fe70e44d",
       "is_terms": true,
       "label": "Pdf File Altitude Terms and Conditions (PDF 117KB)"
-    },
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/westpac-credit-card-terms-and-conditions.pdf": {
-      "hash": "b6404e13d278434bc44809fc0c09bae763d16aa69d546c9959a8132a87aa0592",
-      "is_terms": true,
-      "label": "Pdf File Credit Card Terms and Conditions (PDF 264KB)"
     },
     "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/westpac-live/mobile-wallets/Samsung_Pay_WBC_TandCs.pdf": {
       "hash": "c2be39e2626b0a96e26140598fab16ba1fa4a952890cc6a2b609cb19afc8a90e",
