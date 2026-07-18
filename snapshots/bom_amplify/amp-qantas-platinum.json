@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-17T21:20:23Z",
+  "captured_at": "2026-07-18T21:17:09Z",
   "content_hash": "9c474076f678d70a44b9ceb03785385a7a52b26d6d2f0d042ec4ec100fd7167b",
   "fields": {
     "annual_fee": {
@@ -56,6 +56,16 @@
       "hash": "91bb04cf93d8e141192e14a772214d531b97827ce0e861585a2fef5e64883520",
       "is_terms": true,
       "label": "PDF-file Amplify Terms and Conditions (PDF 124KB)"
+    },
+    "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/credit-cards/bom_credit_card_terms_and_conditions.pdf": {
+      "hash": "594a23bd21ffadcb5d0e0b1d0003849c484c6fde55496871d64ecf34ce69b5bc",
+      "is_terms": true,
+      "label": "PDF-file Credit Card Terms and Conditions (PDF 268KB)"
+    },
+    "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/credit-cards/bom_credit_card_terms_and_conditions.pdf?appAction=exit": {
+      "hash": "594a23bd21ffadcb5d0e0b1d0003849c484c6fde55496871d64ecf34ce69b5bc",
+      "is_terms": true,
+      "label": "PDF-file Credit Card Terms and Conditions (PDF 268KB)"
     },
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/ways-to-pay/apple-pay.pdf": {
       "hash": "aef0749c5da3d3dc0c4e1a924ad09849173aa8a6e02a679fe435e5de3e251e7f",
