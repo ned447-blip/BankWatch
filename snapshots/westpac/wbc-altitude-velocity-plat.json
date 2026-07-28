@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-27T21:32:01Z",
+  "captured_at": "2026-07-28T21:29:02Z",
   "content_hash": "478b298f87db962bceba56793c050c08efe520db9fdbba9a87031a2b00eaea97",
   "fields": {
     "annual_fee": {
@@ -53,9 +53,9 @@
       "label": "Pdf File Apple Pay Terms and Conditions (PDF 160KB)"
     },
     "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/WBC_Consumer_Credit_Card_Comp_Insurance_Allianz.pdf": {
-      "hash": "4a139284dbf3ded3ecb1e5a7ac8ca4d6a824f994801e56676b01b69c780022f8",
+      "hash": "1b277a7bd52f87d08b471b19f5221e714125068c179eb965ffa3ec693576a818",
       "is_terms": false,
-      "label": "Pdf File Westpac Credit Cards Complimentary Insurance Policy (PDF 898KB)"
+      "label": "Pdf File Westpac Credit Cards Complimentary Insurance Policy (PDF 853KB)"
     },
     "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/partpay_card_terms_and_conditions.pdf": {
       "hash": "61be0fe70207386cf359cfa78cdddb7bd09839f6da96182776927410c43bb2ca",

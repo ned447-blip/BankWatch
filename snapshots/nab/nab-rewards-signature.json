@@ -1,10 +1,10 @@
 {
-  "captured_at": "2026-07-27T21:41:47Z",
-  "content_hash": "4b812613aeb9804402936b7a462dd986c70007555bab37faf4dc11dbde123dba",
+  "captured_at": "2026-07-28T21:38:53Z",
+  "content_hash": "c4afc133578fd422d234d32147cb44c70145fc0b4e0d5e7ff4399fce15b99c76",
   "fields": {
     "annual_fee": {
-      "snippet": "ses view disclaimer 13 up to 44 monthly card fee view disclaimer 14 $35 p.m. minimum credit limit $6,000 variab",
-      "value": 35.0
+      "snippet": "the monthly card fee will revert to an annual fee of $395. ​ $35 p.m. minimum credit limit $6,000",
+      "value": 395.0
     },
     "annual_fee_y1": {
       "snippet": "",
@@ -15,7 +15,7 @@
       "value": 80000.0
     },
     "cash_advance_rate": {
-      "snippet": "nce transfers will attract the variable cash advance rate (currently 21.74% p.a. as at today). the one-off balance trans",
+      "snippet": "nce transfers will attract the variable cash advance rate (currently 21.74% p.a. as at «date», from «date», this will in",
       "value": 21.74
     },
     "interest_free_days": {
@@ -31,7 +31,7 @@
       "value": 3
     },
     "purchase_rate": {
-      "snippet": "imits that apply to this card. variable purchase rate view disclaimer 11 20.99% p.a. standard balance transfer (bt) rate for",
+      "snippet": "imits that apply to this card. variable purchase rate view disclaimer 11 20.99% p.a. from «date», this will be 22.49% p.a. s",
       "value": 20.99
     }
   },

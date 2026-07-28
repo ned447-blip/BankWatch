@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-27T21:42:44Z",
+  "captured_at": "2026-07-28T21:39:48Z",
   "issuer_key": "nab",
   "pending": {
     "https://www.nab.com.au/business/business-credit-cards": 1,
@@ -11,8 +11,10 @@
     "https://www.nab.com.au/business/business-credit-cards/nab-rewards-business-signature-card": 1,
     "https://www.nab.com.au/content/nabrwd/en/personal/credit-cards/balance-transfer-interest-free-days.html": 1,
     "https://www.nab.com.au/content/nabrwd/en/personal/credit-cards/balance-transfers.html": 1,
+    "https://www.nab.com.au/content/nabrwd/en/personal/credit-cards/card-updates.html": 1,
     "https://www.nab.com.au/personal/credit-cards": 1,
     "https://www.nab.com.au/personal/credit-cards/calculators-and-tools/product-selector": 1,
+    "https://www.nab.com.au/personal/credit-cards/card-updates": 1,
     "https://www.nab.com.au/personal/credit-cards/credit-card-benefits": 1,
     "https://www.nab.com.au/personal/credit-cards/fees-charges": 1,
     "https://www.nab.com.au/personal/credit-cards/first-credit-card": 1,
@@ -42,8 +44,10 @@
     "https://www.nab.com.au/business/business-credit-cards/nab-rewards-business-signature-card": "NAB Rewards Business Signature Card",
     "https://www.nab.com.au/content/nabrwd/en/personal/credit-cards/balance-transfer-interest-free-days.html": "nab.com.au/btchange",
     "https://www.nab.com.au/content/nabrwd/en/personal/credit-cards/balance-transfers.html": "ongoing balance transfer rates",
+    "https://www.nab.com.au/content/nabrwd/en/personal/credit-cards/card-updates.html": "nab.com.au/cardupdates",
     "https://www.nab.com.au/personal/credit-cards": "Skip to login",
     "https://www.nab.com.au/personal/credit-cards/calculators-and-tools/product-selector": "Help me choose a credit card",
+    "https://www.nab.com.au/personal/credit-cards/card-updates": "Learn more about card changes",
     "https://www.nab.com.au/personal/credit-cards/credit-card-benefits": "NAB credit card features and benefits",
     "https://www.nab.com.au/personal/credit-cards/fees-charges": "Credit card fees and charges",
     "https://www.nab.com.au/personal/credit-cards/first-credit-card": "Choosing your first credit card",

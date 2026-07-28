@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-07-27T21:42:17Z",
-  "content_hash": "69932514906232d63c911181706dc3fdc4ab6e92b8f0ebded2003e738a534a95",
+  "captured_at": "2026-07-28T21:39:23Z",
+  "content_hash": "9c0e10b1c5dd1fab811913eec5615f487376c27f278214064448fd69d57b34f8",
   "fields": {
     "annual_fee": {
       "snippet": "iew disclaimer 4 enjoy a reduced annual card fee (from $195 to $95) for the first year. bonus point",
@@ -11,11 +11,11 @@
       "value": 195.0
     },
     "bonus_points": {
-      "snippet": "up to 100,000 bonus nab rewards points 100,000 bonus points is enough for $450 in gift cards. 80,00",
-      "value": 100000.0
+      "snippet": "up to 100,000 bonus nab rewards points 80,000 bonus points when you apply for a nab rewards platin",
+      "value": 80000.0
     },
     "cash_advance_rate": {
-      "snippet": "nce transfers will attract the variable cash advance rate (currently 21.74% p.a. as at today). the one-off balance trans",
+      "snippet": "nce transfers will attract the variable cash advance rate (currently 21.74% p.a. as at «date», from «date», this will in",
       "value": 21.74
     },
     "interest_free_days": {
@@ -31,7 +31,7 @@
       "value": 12.0
     },
     "purchase_rate": {
-      "snippet": "imits that apply to this card. variable purchase rate view disclaimer 5 20.99% p.a. standard balance transfer (bt) rate for",
+      "snippet": "imits that apply to this card. variable purchase rate view disclaimer 5 20.99% p.a. from «date», this will be 22.49% p.a. s",
       "value": 20.99
     }
   },
