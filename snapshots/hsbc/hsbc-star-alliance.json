@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-07-29T21:34:34Z",
+  "captured_at": "2026-07-30T21:46:01Z",
   "content_hash": "6020059e29c547515ae8685a03b9e5f1de71ed222c4779d6f78341b2c5433ce3",
   "fields": {
     "annual_fee": {
@@ -41,11 +41,6 @@
       "hash": "0a68dcce964a427eea547189962e4778085bee3c4b3ff95077b1ada0af2e5512",
       "is_terms": true,
       "label": "Key facts sheet (PDF) Key facts sheet (PDF) Download"
-    },
-    "https://www.hsbc.com.au/content/dam/hsbc/au/docs/pdf/instant-saving-tc.pdf": {
-      "hash": "c5e6b22cd66174b78e1246cc92568e3ce78664b64d1110deb839605f83279f1a",
-      "is_terms": true,
-      "label": "HSBC Instant Savings terms and conditions (PDF) (this link will open in a new window)"
     }
   },
   "target_id": "hsbc-star-alliance",
