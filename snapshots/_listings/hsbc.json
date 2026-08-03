@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-02T21:34:13Z",
+  "captured_at": "2026-08-03T21:43:59Z",
   "issuer_key": "hsbc",
   "pending": {
     "https://www.hsbc.com.au/credit-cards": 1,
@@ -18,7 +18,6 @@
     "https://www.hsbc.com.au/credit-cards/products/premier": 1,
     "https://www.hsbc.com.au/credit-cards/products/star-alliance": 1,
     "https://www.hsbc.com.au/credit-cards/understanding-credit-card-interest": 1,
-    "https://www.hsbc.com.au/credit-cards/what-is-a-balance-transfer": 1,
     "https://www.hsbc.com.au/rewards": 1
   },
   "products": {
@@ -38,7 +37,6 @@
     "https://www.hsbc.com.au/credit-cards/products/premier": "Premier Credit Card",
     "https://www.hsbc.com.au/credit-cards/products/star-alliance": "Star Alliance Credit Card",
     "https://www.hsbc.com.au/credit-cards/understanding-credit-card-interest": "How does credit card interest work?",
-    "https://www.hsbc.com.au/credit-cards/what-is-a-balance-transfer": "Credit card balance transfer",
     "https://www.hsbc.com.au/rewards": "Credit card rewards"
   }
 }
