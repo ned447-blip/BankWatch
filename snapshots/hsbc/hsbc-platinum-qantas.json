@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-08-07T01:20:41Z",
-  "content_hash": "c8733ab1f83b592e579fed0831f98f21344defa70b530dc94c69a6d592c4d838",
+  "captured_at": "2026-08-07T21:19:27Z",
+  "content_hash": "9bfe681ac05303c453761cc450894a9ee80f3cc5d363f0e27624ae15359a3fd1",
   "fields": {
     "annual_fee": {
       "snippet": "se every day and when you travel. rates annual fee $0 in the first year ($399 afterwards) 5 f",
@@ -40,7 +40,7 @@
     "https://www.hsbc.com.au/content/dam/hsbc/au/docs/credit-cards/platinum-qantas/offers/2020-apr-rewards-terms-and-conditions.pdf": {
       "hash": "534551c833f8970dcbe86a009c35dd1717d1ea9736093039d4dd87b6091b61e7",
       "is_terms": true,
-      "label": "HSBC Platinum Qantas Rewards Terms and Conditions"
+      "label": "HSBC Platinum Qantas Rewards Terms and Conditions HSBC Platinum Qantas Rewards Terms and Conditions This link will open "
     },
     "https://www.hsbc.com.au/content/dam/hsbc/au/docs/credit-cards/terms/key-facts-sheet.pdf": {
       "hash": "0a68dcce964a427eea547189962e4778085bee3c4b3ff95077b1ada0af2e5512",
@@ -50,7 +50,7 @@
     "https://www.hsbc.com.au/content/dam/hsbc/au/docs/pdf/instant-saving-tc.pdf": {
       "hash": "c5e6b22cd66174b78e1246cc92568e3ce78664b64d1110deb839605f83279f1a",
       "is_terms": true,
-      "label": "HSBC Instant Savings terms and conditions (PDF) (this link will open in a new window)"
+      "label": "HSBC Instant Savings terms and conditions (PDF) (this link will open in a new window) HSBC Instant Savings terms and con"
     }
   },
   "target_id": "hsbc-platinum-qantas",
