@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-16T20:55:41Z",
+  "captured_at": "2026-08-17T21:01:04Z",
   "content_hash": "28e7955a8b7b30b289b38b398cf67ed217c8c04d66355f187effbccb70247240",
   "fields": {
     "annual_fee": {
@@ -58,7 +58,7 @@
       "label": "Financial Services Guide"
     },
     "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/cc-keyfacts.pdf": {
-      "hash": "d0d1441e86842dee3ac47eaab6eee258db4918f62a06cd4dbef7451ab0aabe2f",
+      "hash": "c72b75b602f48dfbe5990393e99af73dc1dc9f5c34861d7fea620dbe7a87114c",
       "is_terms": true,
       "label": "key facts about our credit cards"
     },

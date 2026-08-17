@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-16T20:57:04Z",
+  "captured_at": "2026-08-17T21:02:29Z",
   "content_hash": "2afb3ae5e4b2f0930b6085f416aa8f16bd9874cdafaf3cca068c7c2b78059902",
   "fields": {
     "annual_fee": {
@@ -53,7 +53,7 @@
       "label": "CommBank Awards program terms and conditions"
     },
     "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/cc-keyfacts.pdf": {
-      "hash": "d0d1441e86842dee3ac47eaab6eee258db4918f62a06cd4dbef7451ab0aabe2f",
+      "hash": "c72b75b602f48dfbe5990393e99af73dc1dc9f5c34861d7fea620dbe7a87114c",
       "is_terms": true,
       "label": "key facts about our credit cards"
     },

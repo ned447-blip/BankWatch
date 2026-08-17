@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-16T21:00:24Z",
+  "captured_at": "2026-08-17T21:06:02Z",
   "content_hash": "c2bb16bb0313c7b65b2522433bd8c41aca825583918469f31d13e0251456871c",
   "fields": {
     "annual_fee": {
@@ -53,12 +53,12 @@
       "label": "Credit Cards Conditions of Use (PDF)"
     },
     "https://www.bankwest.com.au/content/dam/bankwest/documents/legal-library/PDS_20070628-144347.pdf": {
-      "hash": "4aaa286c6076806b1ac5b8cce4ea7c3aa68d44164c6df02abca26862a3583f6a",
+      "hash": "c401d5baa5ec0c1e32861fc6915b1f24390a9ee01c7086e75a5280fab6bb077e",
       "is_terms": true,
       "label": "Bankwest More Rewards Terms and Conditions (PDF)"
     },
     "https://www.bankwest.com.au/content/dam/bankwest/documents/legal-library/PDS_20120629-163837.pdf": {
-      "hash": "78dac83fe51c07f5553b5fdd18b2a9660cb1b7988a1d85d36a2de5f2f86a6390",
+      "hash": "fcbe7c63c1304f0f0b3bcfbdadccd618ad82e3d50749ba8b0ba4b9df81add923",
       "is_terms": true,
       "label": "Bankwest Qantas Rewards Terms and Conditions (PDF)"
     },
