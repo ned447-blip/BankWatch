@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-17T21:01:47Z",
+  "captured_at": "2026-08-18T20:58:47Z",
   "content_hash": "83322c6e74de27442d427955fccf4944c8a316d38225ef29d5ab66b36eebfb27",
   "fields": {
     "annual_fee": {
@@ -43,7 +43,7 @@
       "label": "Credit Card Insurances Product Disclosure Statement and Information Booklet"
     },
     "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/ADB1682.pdf": {
-      "hash": "03d67fa661600d24a0de1b87c4b895dbdfca502490640b5a3e4f41c9c41b0660",
+      "hash": "413aaa80a1bf73db3ea34006515516b420d8fba00b2b5bde5e4a0d054d0b17d3",
       "is_terms": true,
       "label": "standard fees and charges"
     },
