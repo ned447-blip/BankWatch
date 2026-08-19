@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-18T21:00:04Z",
+  "captured_at": "2026-08-19T21:07:09Z",
   "issuer_key": "commbank",
   "pending": {
     "https://www.commbank.com.au/articles/credit-cards/how-do-credit-cards-work.html": 1,
@@ -9,6 +9,7 @@
     "https://www.commbank.com.au/credit-cards.html": 1,
     "https://www.commbank.com.au/credit-cards/awards.html": 1,
     "https://www.commbank.com.au/credit-cards/awards.html?ei=awards_a_tellmemore": 1,
+    "https://www.commbank.com.au/credit-cards/card-updates.html": 1,
     "https://www.commbank.com.au/credit-cards/commbank-neo.html?ei=neo_n_tellmemore": 1,
     "https://www.commbank.com.au/credit-cards/credit-cards-in-australia.html": 1,
     "https://www.commbank.com.au/credit-cards/credit-cards-offers.html": 1,
@@ -25,8 +26,8 @@
     "https://www.commbank.com.au/credit-cards/ultimate.html?ei=awards_ult_tellmemore": 1,
     "https://www.commbank.com.au/digital-banking/shopping.html?ei=ccRewards": 1,
     "https://www.commbank.com.au/digital-banking/shopping.html?ei=glance_Rewards": 1,
-    "https://www.commbank.com.au/digital/credit-cards/tools/credit-card-selector": 1,
-    "https://www.commbank.com.au/personal/credit-cards/manage/spending-cap.html": 1
+    "https://www.commbank.com.au/personal/credit-cards/manage/spending-cap.html": 1,
+    "https://www.commbank.com.au/retail/netbank/consumer-finance/credit-cards/selector-tool": 1
   },
   "products": {
     "https://www.commbank.com.au/articles/credit-cards/how-do-credit-cards-work.html": "How do credit cards work",
@@ -36,6 +37,7 @@
     "https://www.commbank.com.au/credit-cards.html": "Skip to main content",
     "https://www.commbank.com.au/credit-cards/awards.html": "Awards",
     "https://www.commbank.com.au/credit-cards/awards.html?ei=awards_a_tellmemore": "More about Awards credit card",
+    "https://www.commbank.com.au/credit-cards/card-updates.html": "Learn more",
     "https://www.commbank.com.au/credit-cards/commbank-neo.html?ei=neo_n_tellmemore": "More about CommBank Neo credit card",
     "https://www.commbank.com.au/credit-cards/credit-cards-in-australia.html": "Visa eligibility for new arrivals",
     "https://www.commbank.com.au/credit-cards/credit-cards-offers.html": "Discover offers",
@@ -52,7 +54,7 @@
     "https://www.commbank.com.au/credit-cards/ultimate.html?ei=awards_ult_tellmemore": "More about Ultimate Awards credit card",
     "https://www.commbank.com.au/digital-banking/shopping.html?ei=ccRewards": "CommBank Yello Cashback Offers",
     "https://www.commbank.com.au/digital-banking/shopping.html?ei=glance_Rewards": "CommBank Yello Cashback Offers",
-    "https://www.commbank.com.au/digital/credit-cards/tools/credit-card-selector": "Credit card selector tool",
-    "https://www.commbank.com.au/personal/credit-cards/manage/spending-cap.html": "spending cap"
+    "https://www.commbank.com.au/personal/credit-cards/manage/spending-cap.html": "spending cap",
+    "https://www.commbank.com.au/retail/netbank/consumer-finance/credit-cards/selector-tool": "Credit card selector tool"
   }
 }
