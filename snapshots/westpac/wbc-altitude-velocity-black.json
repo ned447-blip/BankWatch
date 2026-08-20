@@ -1,43 +1,43 @@
 {
-  "captured_at": "2026-08-19T20:52:15Z",
-  "content_hash": "77a75384408b56546b07a804796469fb5b0b862b610523fc508fd5e1bc3e0d22",
+  "captured_at": "2026-08-20T20:49:22Z",
+  "content_hash": "f7f44f54549fb101c00add1beb0deba7cbf76e66858b198cd35d9c56c4d2f3d4",
   "fields": {
     "annual_fee": {
-      "snippet": "",
-      "value": null
+      "snippet": "n in to apply and get a $200 first year card fee (reverts to $295 p.a. thereafter) [2] . a $75 annual vel",
+      "value": 295.0
     },
     "annual_fee_y1": {
-      "snippet": "",
-      "value": null
+      "snippet": "estpac? sign in to apply and get a $200 first year card fee (reverts to $295 p.a. thereafter) [2] . a $75 annual vel",
+      "value": 295.0
     },
     "bonus_points": {
-      "snippet": "",
-      "value": null
+      "snippet": "icy. find out more you could earn up to 150,000 bonus velocity points [1] . see full offer details below. alr",
+      "value": 150000.0
     },
     "cash_advance_rate": {
-      "snippet": "",
-      "value": null
+      "snippet": "able purchase rate 20.99% p.a. variable cash advance rate 21.99% p.a. minimum credit limit $6,000 minimum inc",
+      "value": 21.99
     },
     "interest_free_days": {
-      "snippet": "",
-      "value": null
+      "snippet": "aqs for full details and how to redeem. up to 45 days interest-free - to give you more opport",
+      "value": 45.0
     },
     "min_spend": {
-      "snippet": "",
-      "value": null
+      "snippet": "90,000 velocity points in year 1 if you spend $6k+ on eligible purchases [3] within 90 days of new card approval and an extra",
+      "value": 6.0
     },
     "min_spend_months": {
-      "snippet": "",
-      "value": null
+      "snippet": "d $6k+ on eligible purchases [3] within 90 days of new card approval and an extra 60,00",
+      "value": 3
     },
     "purchase_rate": {
-      "snippet": "",
-      "value": null
+      "snippet": "urchases. [3] new cards only . variable purchase rate 20.99% p.a. variable cash advance rate 21.99% p.a.",
+      "value": 20.99
     }
   },
   "issuer_key": "westpac",
   "pdfs": {
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/sustainability/wbc-2025-modern-slavery-statement.pdf": {
+    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/sustainability/wbc-2025-modern-slavery-statement.pdf?fid=op-infob-nprs-ftr-cta1": {
       "hash": "cf1bb52995d97bd44a60785f73b2f9956dca4dcb9ba69fe23ab6a4b97b855b1c",
       "is_terms": false,
       "label": "Modern Slavery Statement"
@@ -45,49 +45,34 @@
     "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/new-customer-checklist/Checklist_IndividualCustomers.pdf": {
       "hash": "4f4afcf9d7aa89ad66759b018727d6fd74470cb2943c03d3c798f3eded7e8ce9",
       "is_terms": false,
-      "label": "Pdf File ID checklist to become a customer (PDF 657KB)"
-    },
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/WBC-apple-pay-westpac-tcs.pdf": {
-      "hash": "ce48267644d4ab18ba8b001629eb6f73292be9f0f03dc01170caf572218e1c90",
-      "is_terms": true,
-      "label": "Pdf File Apple Pay Terms and Conditions (PDF 160KB)"
+      "label": "ID checklist to become a customer (PDF)"
     },
     "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/WBC_Consumer_Credit_Card_Comp_Insurance_Allianz.pdf": {
       "hash": "1b277a7bd52f87d08b471b19f5221e714125068c179eb965ffa3ec693576a818",
       "is_terms": false,
-      "label": "Pdf File Westpac Credit Cards Complimentary Insurance Policy (PDF 850KB)"
+      "label": "Westpac Credit Cards Complimentary Insurance Policy (PDF)"
     },
     "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/partpay_card_terms_and_conditions.pdf": {
       "hash": "61be0fe70207386cf359cfa78cdddb7bd09839f6da96182776927410c43bb2ca",
       "is_terms": true,
-      "label": "Pdf File PartPay Card Terms and Conditions (PDF 96KB)"
+      "label": "PartPay Card Terms and Conditions (PDF)"
+    },
+    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/wbc-eligible-australian-visa-list.pdf": {
+      "hash": "f0e7c655daf1dacdaa81705f4de0faf6a49c0a9ceb1efd64e538c4df826f36de",
+      "is_terms": false,
+      "label": "eligible Australian visa (PDF)"
     },
     "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/westpac-altitude-terms-and-conditions.pdf": {
       "hash": "987c676b9cbbba71959e70521e9cb8dfb569867fa845c717a216cf67fe70e44d",
       "is_terms": true,
-      "label": "Pdf File Altitude Terms and Conditions (PDF 117KB)"
+      "label": "Altitude Terms and Conditions (PDF)"
     },
     "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/westpac-credit-card-terms-and-conditions.pdf": {
       "hash": "b6404e13d278434bc44809fc0c09bae763d16aa69d546c9959a8132a87aa0592",
       "is_terms": true,
-      "label": "Pdf File Credit Card Terms and Conditions (PDF 264KB)"
-    },
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/westpac_extras_terms_and_conditions.pdf": {
-      "hash": "2e5da6761157da57a5f83c9f4d2bea61fc137532cb3938e0580d8d293552efbe",
-      "is_terms": true,
-      "label": "Pdf File terms and conditions (PDF 164KB)"
-    },
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/westpac-live/mobile-wallets/Samsung_Pay_WBC_TandCs.pdf": {
-      "hash": "c2be39e2626b0a96e26140598fab16ba1fa4a952890cc6a2b609cb19afc8a90e",
-      "is_terms": true,
-      "label": "Pdf File Samsung Pay Terms and Conditions (PDF 147KB)"
-    },
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/westpac-live/mobile-wallets/Westpac_Google_Pay_Terms_and_Conditions.pdf": {
-      "hash": "f5dab87083a1a344719ecd6e14df6257cc194130e75061dfd1f539eaea51781d",
-      "is_terms": true,
-      "label": "Pdf File Google Pay Terms and Conditions (PDF 158KB)"
+      "label": "Credit Card Terms and Conditions (PDF)"
     }
   },
   "target_id": "wbc-altitude-velocity-black",
-  "url": "https://www.westpac.com.au/personal-banking/credit-cards/reward/altitude-velocity-black/"
+  "url": "https://www.westpac.com.au/credit-cards/reward/altitude-velocity-black"
 }
