@@ -1,11 +1,12 @@
 {
-  "captured_at": "2026-08-24T21:03:59Z",
+  "captured_at": "2026-08-25T21:00:13Z",
   "issuer_key": "anz",
   "pending": {
     "https://www.anz.com.au/business/credit-cards": 1,
     "https://www.anz.com.au/personal/credit-cards": 1,
     "https://www.anz.com.au/personal/credit-cards/balance-transfer": 1,
     "https://www.anz.com.au/personal/credit-cards/balance-transfers": 1,
+    "https://www.anz.com.au/personal/credit-cards/card-changes": 1,
     "https://www.anz.com.au/personal/credit-cards/credit-card-education": 1,
     "https://www.anz.com.au/personal/credit-cards/credit-card-education/balance-transfer": 1,
     "https://www.anz.com.au/personal/credit-cards/credit-card-education/how-to-choose-a-credit-card": 1,
@@ -32,6 +33,7 @@
     "https://www.anz.com.au/personal/credit-cards": "skip to log on",
     "https://www.anz.com.au/personal/credit-cards/balance-transfer": "Balance transfer",
     "https://www.anz.com.au/personal/credit-cards/balance-transfers": "Learn more ",
+    "https://www.anz.com.au/personal/credit-cards/card-changes": "Find out more",
     "https://www.anz.com.au/personal/credit-cards/credit-card-education": "Credit card education Understand how credit cards work and how to manage them effectively",
     "https://www.anz.com.au/personal/credit-cards/credit-card-education/balance-transfer": "See how balance transfers work ",
     "https://www.anz.com.au/personal/credit-cards/credit-card-education/how-to-choose-a-credit-card": "How to choose a credit card ",

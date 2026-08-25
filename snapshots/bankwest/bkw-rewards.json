@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-08-24T21:10:47Z",
-  "content_hash": "35497b3a550a214217b6fee5cf94bd1ee24c0269431c3a5091a732d311f2e798",
+  "captured_at": "2026-08-25T21:07:07Z",
+  "content_hash": "9e88f9cca7a9ebb0defc6321906cd3e23805393cdfb0c07006bc2f155039ea04",
   "fields": {
     "annual_fee": {
       "snippet": "t limit $12,000 higher min credit limit annual fee $100 annual fee $160 higher annual fee annua",
@@ -15,7 +15,7 @@
       "value": null
     },
     "cash_advance_rate": {
-      "snippet": "ng balance transfer rate 14.99% p.a. ~~ cash advance rate 21.99% p.a.† cash advance rate 21.99% p.a.† cash ad",
+      "snippet": "advance rate the rate you’ll pay on any cash advances, including when you withdraw cash.† 21.99 % p.a. purchase rate the rate you’ll pay on pu",
       "value": 21.99
     },
     "interest_free_days": {
@@ -27,7 +27,7 @@
       "value": 5000.0
     },
     "min_spend_months": {
-      "snippet": "u’ll pay on balance transfers. ~~ 0 for first 6 months, then 14.99% p.a. cash advance rate the",
+      "snippet": "y on balance transfers. ~~ 0 % p.a. for first 6 months, then 14.99% p.a. cash advance rate the",
       "value": 6.0
     },
     "purchase_rate": {
