@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-08-24T20:58:47Z",
-  "content_hash": "bfa9c0f3aa96298766f18ca3218ecc552ff5bf567e80635057e0c367446a2649",
+  "captured_at": "2026-08-29T03:02:26Z",
+  "content_hash": "c68b2a2d996f234579a4321f552939f1317020f382ce2ef9289cc4d7cd96c7f5",
   "fields": {
     "annual_fee": {
       "snippet": "",
@@ -40,12 +40,12 @@
     "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/ANZ-App-Current-Terms-and-Conditions-Android.pdf": {
       "hash": "97b37ac754f419d3995572f4419ff24875ab61f1b0dbb5685695851e3257ada7",
       "is_terms": true,
-      "label": "here for Android (PDF)"
+      "label": "ANZ App Terms and Conditions for Android (PDF)"
     },
     "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/ANZ-App-Current-Terms-and-Conditions-iOS.pdf": {
       "hash": "fdddd8fb9e10ac13ac11cb84764c94eb82acd54374e55b4b9c040778ad0d376c",
       "is_terms": true,
-      "label": "here for iOS (PDF)"
+      "label": "ANZ App Terms and Conditions for iOS (PDF)"
     },
     "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/anz-creditcards-conditions-of-use.pdf": {
       "hash": "60467014ee9a475887a6eff7200bc00ec86569e231badca09f64c8ca48721db1",
@@ -58,12 +58,12 @@
       "label": "ANZ Frequent Flyer Reward Terms and Conditions booklet (PDF)"
     },
     "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/anz-platinum-and-black-complimentary-insurance-booklet.pdf": {
-      "hash": "39bad72cb08de44416cf0467d73a897aeaa9b597961308fe8d2a0b7bff132f53",
+      "hash": "ab681c6d44130d48e7d7c6b3d071c2b7b6ec6497a078bb8abae72c19e7ad9119",
       "is_terms": false,
       "label": "ANZ Platinum and Black Credit Card Complimentary Insurance booklet (PDF)"
     },
     "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/anz-rewards-program-terms-conditions.pdf": {
-      "hash": "5738fd659c4164857094dbedf2121f7605818afd26032448d6b5ef767d3df962",
+      "hash": "615985c79152b6e2c5ea78ec902a709b015faca71b6fa6c731650c4ec49b393a",
       "is_terms": true,
       "label": "ANZ Rewards – Rewards Program Terms and Conditions (PDF)"
     },
@@ -73,7 +73,7 @@
       "label": "Apple Pay (PDF)"
     },
     "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/credit-card-fees-charges.pdf": {
-      "hash": "ce28c981cc1b786a62a6acbccfbfc114df93ecc58728e2e49b3cc7d766c40c8d",
+      "hash": "1d59b24e8f125ca3e58ba02727c9ea4edce833cae1a02e92a32d33185ea94d35",
       "is_terms": true,
       "label": "ANZ Consumer Credit Cards Fees and Charges (PDF)"
     },
@@ -91,6 +91,16 @@
       "hash": "e0f3addf968a41cc18a36e9d4efd4292c71ac003f58bd7511aed297747235310",
       "is_terms": false,
       "label": "Google Pay (PDF)"
+    },
+    "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/phase-one-anz-platinum-and-black-complimentary-insurance-booklet.pdf": {
+      "hash": "56057f990f316c1fef861b1b2b3df9315ec3243cadefad78682674c94d045238",
+      "is_terms": false,
+      "label": "ANZ Platinum and Black Credit Card Complimentary Insurance booklet (PDF)"
+    },
+    "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/phase-two-anz-platinum-and-black-complimentary-insurance-booklet.pdf": {
+      "hash": "3634a7058c4246e1ac940043cf6768e4f2f66b9bb1030fd89c3c2d0501fa8228",
+      "is_terms": false,
+      "label": "ANZ Platinum and Black Credit Card Complimentary Insurance booklet (PDF)"
     },
     "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/samsungpay-Terms-and-Conditions.pdf": {
       "hash": "d28ed1ff5c85d959107119f701ec6c9c1c45d4e7deb243c3a40dd6adfedb2380",

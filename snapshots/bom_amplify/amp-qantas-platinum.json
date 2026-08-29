@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-28T04:34:29Z",
+  "captured_at": "2026-08-29T03:01:17Z",
   "content_hash": "278a55a352bb1f7b513a04eadfa12dc08e4efff4fb043cb728015a0f3a519ac0",
   "fields": {
     "annual_fee": {
@@ -46,11 +46,6 @@
       "hash": "70eeb6466579fdfe07f2a4681660b9660aaef10465d6e9bd4288cf8922f4041f",
       "is_terms": true,
       "label": "PDF-file Credit Card Accounts Fees and Charges (PDF 144KB)"
-    },
-    "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/credit-cards/bom-eligible-australian-visa-list.pdf": {
-      "hash": "3e9bf7d0546e163eba4db0167be6232a9a9bf88ee36e8e763a15889c88daf116",
-      "is_terms": false,
-      "label": "PDF-file eligible Australian Visa (PDF 618KB)"
     },
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/credit-cards/bom_amplify_terms_and_conditions.pdf?appAction=exit": {
       "hash": "91bb04cf93d8e141192e14a772214d531b97827ce0e861585a2fef5e64883520",
