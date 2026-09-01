@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-08-31T23:55:54Z",
+  "captured_at": "2026-09-01T22:42:00Z",
   "content_hash": "f7f44f54549fb101c00add1beb0deba7cbf76e66858b198cd35d9c56c4d2f3d4",
   "fields": {
     "annual_fee": {
@@ -37,6 +37,11 @@
   },
   "issuer_key": "westpac",
   "pdfs": {
+    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/sustainability/wbc-2025-modern-slavery-statement.pdf?fid=op-infob-nprs-ftr-cta1": {
+      "hash": "cf1bb52995d97bd44a60785f73b2f9956dca4dcb9ba69fe23ab6a4b97b855b1c",
+      "is_terms": false,
+      "label": "Modern Slavery Statement"
+    },
     "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/new-customer-checklist/Checklist_IndividualCustomers.pdf": {
       "hash": "4f4afcf9d7aa89ad66759b018727d6fd74470cb2943c03d3c798f3eded7e8ce9",
       "is_terms": false,
