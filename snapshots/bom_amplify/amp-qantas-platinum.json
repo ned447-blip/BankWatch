@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-01T22:46:56Z",
+  "captured_at": "2026-09-02T22:47:50Z",
   "content_hash": "278a55a352bb1f7b513a04eadfa12dc08e4efff4fb043cb728015a0f3a519ac0",
   "fields": {
     "annual_fee": {
@@ -37,6 +37,11 @@
   },
   "issuer_key": "bom_amplify",
   "pdfs": {
+    "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/accounts_and_cards/BOM_Consumer_Credit_Card_Complimentary_Insurance_Allianz.pdf": {
+      "hash": "52c0375620677594acf5db9aa6264fca8bdcafab67f1051bc7eaedaf083382cc",
+      "is_terms": false,
+      "label": "PDF-file Complimentary Insurance Policy Information booklet (PDF 339KB)"
+    },
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/accounts_and_cards/BOM_Consumer_Credit_Card_Complimentary_Insurance_Allianz.pdf?appAction=exit": {
       "hash": "52c0375620677594acf5db9aa6264fca8bdcafab67f1051bc7eaedaf083382cc",
       "is_terms": true,
