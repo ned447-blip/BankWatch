@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-13T22:26:21Z",
+  "captured_at": "2026-09-14T23:09:10Z",
   "content_hash": "1897735c9ffb1a93aa8564133ac091e9c521d0d8fe51c4a058344417d0cc4c59",
   "fields": {
     "annual_fee": {
@@ -43,7 +43,7 @@
       "label": "Target Market Determination"
     },
     "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/Credit_Card_Conditions.pdf": {
-      "hash": "06d5d8aaed48404b8ec75fbd97c50f39e51da6e6c0ad0485ff5700da77045c53",
+      "hash": "118cdbc6142a36d0b38f0bafe8940ea301b369808b47ef82671adeb2135d9031",
       "is_terms": true,
       "label": "Card Terms & Conditions"
     },

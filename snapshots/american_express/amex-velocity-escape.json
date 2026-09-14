@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-13T22:25:22Z",
+  "captured_at": "2026-09-14T23:08:10Z",
   "content_hash": "8f5a44449a1cd5a57f56b029bba8d7dbdaab6b49fe6b5401d67f15f5070f4b78",
   "fields": {
     "annual_fee": {
@@ -48,7 +48,7 @@
       "label": "Insurances Terms and Conditions"
     },
     "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/Credit_Card_Conditions.pdf": {
-      "hash": "06d5d8aaed48404b8ec75fbd97c50f39e51da6e6c0ad0485ff5700da77045c53",
+      "hash": "118cdbc6142a36d0b38f0bafe8940ea301b369808b47ef82671adeb2135d9031",
       "is_terms": true,
       "label": "Card Terms & Conditions"
     },
