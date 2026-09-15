@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-14T23:32:10Z",
+  "captured_at": "2026-09-15T23:17:26Z",
   "issuer_key": "hsbc",
   "pending": {
     "https://www.hsbc.com.au/credit-cards": 1,
@@ -8,7 +8,6 @@
     "https://www.hsbc.com.au/credit-cards/credit-card-finder": 1,
     "https://www.hsbc.com.au/credit-cards/credit-limit-increase": 1,
     "https://www.hsbc.com.au/credit-cards/faqs": 1,
-    "https://www.hsbc.com.au/credit-cards/features/additional-cardholder": 1,
     "https://www.hsbc.com.au/credit-cards/how-do-credit-cards-work": 1,
     "https://www.hsbc.com.au/credit-cards/instant-savings": 1,
     "https://www.hsbc.com.au/credit-cards/lost-or-stolen-card": 1,
@@ -27,7 +26,6 @@
     "https://www.hsbc.com.au/credit-cards/credit-card-finder": "Card finder",
     "https://www.hsbc.com.au/credit-cards/credit-limit-increase": "How to change your credit limit",
     "https://www.hsbc.com.au/credit-cards/faqs": "Frequently asked questions for credit cards",
-    "https://www.hsbc.com.au/credit-cards/features/additional-cardholder": "Add an additional cardholder",
     "https://www.hsbc.com.au/credit-cards/how-do-credit-cards-work": "How do credit cards work?",
     "https://www.hsbc.com.au/credit-cards/instant-savings": "Savings with merchant offers",
     "https://www.hsbc.com.au/credit-cards/lost-or-stolen-card": "Report a lost or stolen card",
