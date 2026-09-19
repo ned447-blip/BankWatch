@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-18T22:42:00Z",
+  "captured_at": "2026-09-19T22:28:15Z",
   "content_hash": "e936a494f8c7abbbe9f531d5c9979ff4a58e8418c19dcc56e209419ae2c82e23",
   "fields": {
     "annual_fee": {
@@ -46,11 +46,6 @@
       "hash": "4f4afcf9d7aa89ad66759b018727d6fd74470cb2943c03d3c798f3eded7e8ce9",
       "is_terms": false,
       "label": "ID checklist to become a customer (PDF)"
-    },
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/WBC_Consumer_Credit_Card_Comp_Insurance_Allianz.pdf": {
-      "hash": "1b277a7bd52f87d08b471b19f5221e714125068c179eb965ffa3ec693576a818",
-      "is_terms": false,
-      "label": "Westpac Credit Cards Complimentary Insurance Policy (PDF)"
     },
     "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/WBC_Credit_Card_Domestic_Complimentary_Insurance_Policy_Information_Booklet.pdf": {
       "hash": "296e14c514e9e81f9b056414df654ed3031bee510328d2f56f29477c243d1c18",
