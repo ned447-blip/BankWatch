@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-09-20T22:28:38Z",
-  "content_hash": "922ad17e69e4371d51034aa2363b01b845adac97f505c409084ddc442234f6e6",
+  "captured_at": "2026-09-21T23:18:47Z",
+  "content_hash": "227880b3c7593b182ac39e14e77604a7329fe84cfc8c5cb614f2d47454be185e",
   "fields": {
     "annual_fee": {
       "snippet": "ts. [1] plus, a reduced $200 first year card fee (reverts to $295 p.a. thereafter) [2] see full offer det",
@@ -51,16 +51,6 @@
       "hash": "1b277a7bd52f87d08b471b19f5221e714125068c179eb965ffa3ec693576a818",
       "is_terms": false,
       "label": "Westpac Credit Cards Complimentary Insurance Policy (PDF)"
-    },
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/WBC_Credit_Card_Domestic_Complimentary_Insurance_Policy_Information_Booklet.pdf": {
-      "hash": "296e14c514e9e81f9b056414df654ed3031bee510328d2f56f29477c243d1c18",
-      "is_terms": false,
-      "label": "Policy Information Booklet (regarding the Domestic Travel Insurance and Rental Vehicle Excess Insurance in Australia) (P"
-    },
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/WBC_Credit_Card_International_Travel_Insurance_PDS.pdf": {
-      "hash": "8784adbfd1ff52dbe0c431a8f65b2b40e72bfba065907a83ea68634a74f478f3",
-      "is_terms": true,
-      "label": "Product Disclosure Statements (for the Complimentary International Medical Travel Insurance) (PDF)"
     },
     "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/partpay_card_terms_and_conditions.pdf": {
       "hash": "61be0fe70207386cf359cfa78cdddb7bd09839f6da96182776927410c43bb2ca",

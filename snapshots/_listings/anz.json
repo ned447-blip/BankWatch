@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-20T22:44:19Z",
+  "captured_at": "2026-09-21T23:33:30Z",
   "issuer_key": "anz",
   "pending": {
     "https://www.anz.com.au/business/credit-cards": 1,
@@ -25,7 +25,6 @@
     "https://www.anz.com.au/personal/credit-cards/rewards-black": 1,
     "https://www.anz.com.au/personal/credit-cards/rewards-platinum": 1,
     "https://www.anz.com.au/personal/travel-international/guides/credit-card-travel-tips": 1,
-    "https://www.anz.com.au/security/credit-card": 1,
     "https://www.anz.com.au/security/how-we-protect-you/credit-card": 1
   },
   "products": {
@@ -52,7 +51,6 @@
     "https://www.anz.com.au/personal/credit-cards/rewards-black": "ANZ Rewards Black",
     "https://www.anz.com.au/personal/credit-cards/rewards-platinum": "ANZ Rewards Platinum",
     "https://www.anz.com.au/personal/travel-international/guides/credit-card-travel-tips": "Notify us of travel ",
-    "https://www.anz.com.au/security/credit-card": "Fraud money back guarantee",
     "https://www.anz.com.au/security/how-we-protect-you/credit-card": "ANZ Falcon® fraud protection"
   }
 }
