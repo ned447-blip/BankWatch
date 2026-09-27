@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-26T23:04:55Z",
+  "captured_at": "2026-09-27T23:22:45Z",
   "content_hash": "97b98907e330497b286e4573871c0e3ede35d4e5dd0e52803b7d0f93f9546f9f",
   "fields": {
     "annual_fee": {
@@ -48,7 +48,7 @@
       "label": "standard fees and charges"
     },
     "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/CommBankAwards-Ts&Cs.pdf": {
-      "hash": "199f2ee73ca17870bbdc872203b22334284bff8972977439f135dfeea6c97880",
+      "hash": "7b8106c10d114ce24b292d7df6a5d51b8af69e8905fb742f50483ac475481adb",
       "is_terms": true,
       "label": "CommBank Awards program terms and conditions"
     },
