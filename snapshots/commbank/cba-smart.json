@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-09-27T23:22:04Z",
-  "content_hash": "046c5836e9d72eebc8d655c2076acf8f164b988b755fdab3fcb6223f1aed46aa",
+  "captured_at": "2026-09-29T00:41:26Z",
+  "content_hash": "2eab291a6d1c7d55d551b5db21c1254f509c06f06c9cb3fb860ef018e6d7d034",
   "fields": {
     "annual_fee": {
       "snippet": "",
@@ -11,63 +11,43 @@
       "value": null
     },
     "bonus_points": {
-      "snippet": "rchase made in a statement period up to 1,000 bonus points or 400 qantas points 1 earn up to 1.5 a",
-      "value": 1000.0
+      "snippet": "ts are paid. you must receive the first 30,000 points to be eligible for the additional 30,00",
+      "value": 30000.0
     },
     "cash_advance_rate": {
-      "snippet": "enience of your card with someone else. cash advance rate 21.99% p.a. cash advances may be unavailable or sub",
+      "snippet": "someone else. purchase rate 20.99% p.a. cash advance rate 21.99% p.a. cash advances may be unavailable or sub",
       "value": 21.99
     },
     "interest_free_days": {
-      "snippet": "nience of your card with someone else 9 up to 44 days interest-free on purchases priceless.co",
+      "snippet": "3.5% interest-free period on purchases up to 44 days late payment fee $20 applies if the min",
       "value": 44.0
     },
     "min_spend": {
-      "snippet": "",
-      "value": null
+      "snippet": "8 earn up to 60k commbank yello points spend $4,500 on eligible spend in the first 90 days after activating your card and yo",
+      "value": 4500.0
     },
     "min_spend_months": {
-      "snippet": "of your card with someone else 9 up to 44 days interest-free on purchases priceless.co",
+      "snippet": "interest-free period on purchases up to 44 days late payment fee $20 applies if the min",
       "value": 1
     },
     "purchase_rate": {
-      "snippet": "east $2,000 in your statement period. 3 purchase rate 20.99% p.a. qantas points opt-in fee $90 per year.",
+      "snippet": "enience of your card with someone else. purchase rate 20.99% p.a. cash advance rate 21.99% p.a. cash adva",
       "value": 20.99
     }
   },
   "issuer_key": "commbank",
   "pdfs": {
-    "https://www.commbank.com.au/content/dam/commbank-assets/important-docs/credit-card-insurances-pds-info-booklet.pdf": {
-      "hash": "aef8f9aaef28da52de0356ba3c3a990bc6ad1fbb53f80e843a96e92107fa06d5",
-      "is_terms": true,
-      "label": "Credit Card Insurances Product Disclosure Statement and Information Booklet"
-    },
     "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/ADB1682.pdf": {
-      "hash": "413aaa80a1bf73db3ea34006515516b420d8fba00b2b5bde5e4a0d054d0b17d3",
+      "hash": "f279035ba7d59fce9d55ec066acc5a7f2fb5ea4ea7aee983a6beeaa9c02cb337",
       "is_terms": true,
       "label": "standard fees and charges"
     },
-    "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/CommBankAwards-Ts&Cs.pdf": {
-      "hash": "7b8106c10d114ce24b292d7df6a5d51b8af69e8905fb742f50483ac475481adb",
-      "is_terms": true,
-      "label": "CommBank Awards Program Terms & Conditions"
-    },
-    "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/FSRA0074_BR173_PrintVersion_1811.pdf": {
-      "hash": "62f0d8105654f363e8250d7324733808c96a331db4b0ab4690db9db477d466b2",
-      "is_terms": false,
-      "label": "Financial Services Guide"
-    },
     "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/cc-keyfacts.pdf": {
-      "hash": "c72b75b602f48dfbe5990393e99af73dc1dc9f5c34861d7fea620dbe7a87114c",
+      "hash": "11c3f0a974e56c2e342cf3f4d53d20669e834e847a1e3fe69407825c97ee4470",
       "is_terms": true,
       "label": "key facts about our credit cards"
-    },
-    "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/cc2-cou.pdf": {
-      "hash": "d555265543cd396646fa720453ff13181c17dd4747a62804c4551cb0b3eec381",
-      "is_terms": true,
-      "label": "Credit Card Conditions of Use"
     }
   },
   "target_id": "cba-smart",
-  "url": "https://www.commbank.com.au/credit-cards/smart-awards.html"
+  "url": "https://www.commbank.com.au/credit-cards/smart.html"
 }

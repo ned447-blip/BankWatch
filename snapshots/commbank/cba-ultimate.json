@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-09-27T23:22:45Z",
-  "content_hash": "97b98907e330497b286e4573871c0e3ede35d4e5dd0e52803b7d0f93f9546f9f",
+  "captured_at": "2026-09-29T00:41:44Z",
+  "content_hash": "e29f0da8d2394e3fcf3643b5b56998bba6eb33cd2e356b631753570c625411ce",
   "fields": {
     "annual_fee": {
       "snippet": "",
@@ -11,56 +11,41 @@
       "value": null
     },
     "bonus_points": {
-      "snippet": "f rewards such as flights starting from 8,000 points (plus taxes, fees and carrier charges,",
-      "value": 8000.0
+      "snippet": "mbank yello points: receive the initial 50,000 points, keep your account open for more than 1",
+      "value": 50000.0
     },
     "cash_advance_rate": {
-      "snippet": "enience of your card with someone else. cash advance rate 21.99% p.a. cash advances may be unavailable or sub",
+      "snippet": "someone else. purchase rate 20.99% p.a. cash advance rate 21.99% p.a. cash advances may be unavailable or sub",
       "value": 21.99
     },
     "interest_free_days": {
-      "snippet": "to share your card with someone else 8 up to 44 days interest-free on purchases priceless.co",
+      "snippet": "pply. interest-free period on purchases up to 44 days late payment fee $20 applies if the min",
       "value": 44.0
     },
     "min_spend": {
-      "snippet": "credits (first credit): spend at least $9,000 on eligible purchases within 90 days of activating your card and access the",
+      "snippet": "0 in travel credits from travel booking spend $9,000 on eligible spend in the first 90 days after activating your card and ge",
       "value": 9000.0
     },
     "min_spend_months": {
-      "snippet": "are your card with someone else 8 up to 44 days interest-free on purchases priceless.co",
+      "snippet": "interest-free period on purchases up to 44 days late payment fee $20 applies if the min",
       "value": 1
     },
     "purchase_rate": {
-      "snippet": "ast $4,000 in your statement period. 15 purchase rate 20.99% p.a. qantas points opt-in fee $90 per year.",
+      "snippet": "enience of your card with someone else. purchase rate 20.99% p.a. cash advance rate 21.99% p.a. cash adva",
       "value": 20.99
     }
   },
   "issuer_key": "commbank",
   "pdfs": {
-    "https://www.commbank.com.au/content/dam/commbank-assets/important-docs/credit-card-insurances-pds-info-booklet.pdf": {
-      "hash": "aef8f9aaef28da52de0356ba3c3a990bc6ad1fbb53f80e843a96e92107fa06d5",
-      "is_terms": true,
-      "label": "Credit Card Insurances Product Disclosure Statement and Information Booklet"
-    },
     "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/ADB1682.pdf": {
-      "hash": "413aaa80a1bf73db3ea34006515516b420d8fba00b2b5bde5e4a0d054d0b17d3",
+      "hash": "f279035ba7d59fce9d55ec066acc5a7f2fb5ea4ea7aee983a6beeaa9c02cb337",
       "is_terms": true,
       "label": "standard fees and charges"
     },
-    "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/CommBankAwards-Ts&Cs.pdf": {
-      "hash": "7b8106c10d114ce24b292d7df6a5d51b8af69e8905fb742f50483ac475481adb",
-      "is_terms": true,
-      "label": "CommBank Awards program terms and conditions"
-    },
     "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/cc-keyfacts.pdf": {
-      "hash": "c72b75b602f48dfbe5990393e99af73dc1dc9f5c34861d7fea620dbe7a87114c",
+      "hash": "11c3f0a974e56c2e342cf3f4d53d20669e834e847a1e3fe69407825c97ee4470",
       "is_terms": true,
       "label": "key facts about our credit cards"
-    },
-    "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/cc2-cou.pdf": {
-      "hash": "d555265543cd396646fa720453ff13181c17dd4747a62804c4551cb0b3eec381",
-      "is_terms": true,
-      "label": "CommBank Credit Card Conditions of Use"
     }
   },
   "target_id": "cba-ultimate",

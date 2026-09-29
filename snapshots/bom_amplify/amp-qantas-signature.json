@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-09-27T23:12:01Z",
+  "captured_at": "2026-09-29T00:33:16Z",
   "content_hash": "8cdc0e0eba94d678f3050a624d8ca6067dfbb090172470f5f220d9687accc37f",
   "fields": {
     "annual_fee": {
@@ -51,16 +51,6 @@
       "hash": "3e9bf7d0546e163eba4db0167be6232a9a9bf88ee36e8e763a15889c88daf116",
       "is_terms": false,
       "label": "PDF-file eligible Australian Visa (PDF 618KB)"
-    },
-    "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/credit-cards/bom_amplify_terms_and_conditions.pdf?appAction=exit": {
-      "hash": "91bb04cf93d8e141192e14a772214d531b97827ce0e861585a2fef5e64883520",
-      "is_terms": true,
-      "label": "PDF-file Amplify Terms and Conditions (PDF 124KB)"
-    },
-    "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/credit-cards/bom_credit_card_terms_and_conditions.pdf": {
-      "hash": "594a23bd21ffadcb5d0e0b1d0003849c484c6fde55496871d64ecf34ce69b5bc",
-      "is_terms": true,
-      "label": "PDF-file Credit Card Terms and Conditions (PDF 268KB)"
     },
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/credit-cards/bom_credit_card_terms_and_conditions.pdf?appAction=exit": {
       "hash": "594a23bd21ffadcb5d0e0b1d0003849c484c6fde55496871d64ecf34ce69b5bc",
