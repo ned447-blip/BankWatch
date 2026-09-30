@@ -1,10 +1,10 @@
 {
-  "captured_at": "2026-09-29T00:30:50Z",
-  "content_hash": "1fd8e2d202e20edf4e0942ca70dbdea55cf8d22ad832a067ba3807748017eb28",
+  "captured_at": "2026-09-29T23:51:05Z",
+  "content_hash": "dbc1165d868e191405639d7846ae5c107ea193e97c31f23a5b69e58f7439e1b4",
   "fields": {
     "annual_fee": {
-      "snippet": "† in year 2. plus, a reduced first year card fee of $199 (reverts to $295 p.a. thereafter) + . a",
-      "value": 199.0
+      "snippet": "y insurances and much more. $295 annual card fee $75 annual amplify rewards program fee 23.9",
+      "value": 75.0
     },
     "annual_fee_y1": {
       "snippet": "fy points ^ — 100,000 rewards points in year 1 if you spend $12k+ on eligible purchases † and an extra",
@@ -15,12 +15,12 @@
       "value": 200000.0
     },
     "cash_advance_rate": {
-      "snippet": ".a. variable interest rate on purchases 21.99% p.a. variable cash advance interest rate $20 fee applied for each",
-      "value": 21.99
+      "snippet": ".a. variable interest rate on purchases 23.99% p.a. variable cash advance interest rate $20 fee applied for each",
+      "value": 23.99
     },
     "interest_free_days": {
-      "snippet": ".a. variable interest rate on purchases up to 55 days interest free on purchases 2 $15,000 mi",
-      "value": 55.0
+      "snippet": ".a. variable interest rate on purchases up to 45 days interest free on purchases 2 $15,000 mi",
+      "value": 45.0
     },
     "min_spend": {
       "snippet": "",
@@ -31,8 +31,8 @@
       "value": 12.0
     },
     "purchase_rate": {
-      "snippet": "e 20.99% p.a. variable interest rate on purchases 21.99% p.a. variable cash advance interest rate $20",
-      "value": 21.99
+      "snippet": "e 23.98% p.a. variable interest rate on purchases 23.99% p.a. variable cash advance interest rate $20",
+      "value": 23.99
     }
   },
   "issuer_key": "bom_amplify",
@@ -48,9 +48,9 @@
       "label": "PDF-file Credit Card Complimentary Insurance Terms and Conditions (PDF 339KB)"
     },
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/accounts_and_cards/bom-cc-fee-charges.pdf?appAction=exit": {
-      "hash": "70eeb6466579fdfe07f2a4681660b9660aaef10465d6e9bd4288cf8922f4041f",
+      "hash": "97d19223d6cf3d0b625d76ef0d0e50bd94bf0bc45a94b78eed930a8532794c7a",
       "is_terms": true,
-      "label": "PDF-file Credit Card Accounts Fees and Charges (PDF 144KB)"
+      "label": "PDF-file Credit Card Accounts Fees and Charges (PDF 151KB)"
     },
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/credit-cards/bom-eligible-australian-visa-list.pdf": {
       "hash": "3e9bf7d0546e163eba4db0167be6232a9a9bf88ee36e8e763a15889c88daf116",
@@ -58,14 +58,14 @@
       "label": "PDF-file eligible Australian Visa (PDF 618KB)"
     },
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/credit-cards/bom_amplify_terms_and_conditions.pdf": {
-      "hash": "91bb04cf93d8e141192e14a772214d531b97827ce0e861585a2fef5e64883520",
+      "hash": "286a32ac78321e0b8ffb4ecf0c8b8010eb576f61bd9b41481e37942982218681",
       "is_terms": true,
-      "label": "PDF-file Amplify Terms and Conditions (PDF 124KB)"
+      "label": "PDF-file Amplify Terms and Conditions (PDF 181KB)"
     },
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/credit-cards/bom_amplify_terms_and_conditions.pdf?appAction=exit": {
-      "hash": "91bb04cf93d8e141192e14a772214d531b97827ce0e861585a2fef5e64883520",
+      "hash": "286a32ac78321e0b8ffb4ecf0c8b8010eb576f61bd9b41481e37942982218681",
       "is_terms": true,
-      "label": "PDF-file Amplify Terms and Conditions (PDF 124KB)"
+      "label": "PDF-file Amplify Terms and Conditions (PDF 181KB)"
     },
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/personal/credit-cards/bom_credit_card_terms_and_conditions.pdf": {
       "hash": "594a23bd21ffadcb5d0e0b1d0003849c484c6fde55496871d64ecf34ce69b5bc",
