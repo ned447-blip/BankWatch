@@ -1,17 +1,17 @@
 {
-  "captured_at": "2026-09-29T23:46:42Z",
-  "content_hash": "73342f301d241515fddf7f1a1699cb01bf369fafbe4e5536240e2cdae661449a",
+  "captured_at": "2026-09-30T23:50:08Z",
+  "content_hash": "6716e2b49690a762559d07697daa34165c2eb82fcf165e12af5d404280caa300",
   "fields": {
     "annual_fee": {
-      "snippet": "n in to apply and get a $200 first year card fee (reverts to $295 p.a. thereafter) [2] . a $155 annual qa",
+      "snippet": "n in to apply and get a $200 first year card fee (reverts to $295 p.a. thereafter) [3] . a $155 annual qa",
       "value": 295.0
     },
     "annual_fee_y1": {
-      "snippet": "estpac? sign in to apply and get a $200 first year card fee (reverts to $295 p.a. thereafter) [2] . a $155 annual qa",
+      "snippet": "estpac? sign in to apply and get a $200 first year card fee (reverts to $295 p.a. thereafter) [3] . a $155 annual qa",
       "value": 295.0
     },
     "bonus_points": {
-      "snippet": "icy. find out more you could earn up to 150,000 bonus qantas points [1] see full offer details below. alrea",
+      "snippet": "icy. find out more you could earn up to 150,000 bonus qantas points [1] and 50 status credits [2] see full",
       "value": 150000.0
     },
     "cash_advance_rate": {
@@ -19,19 +19,19 @@
       "value": 23.99
     },
     "interest_free_days": {
-      "snippet": "h year. see faqs for how to redeem. [6] up to 45 days interest-free - to give you more opport",
+      "snippet": "h year. see faqs for how to redeem. [7] up to 45 days interest-free - to give you more opport",
       "value": 45.0
     },
     "min_spend": {
-      "snippet": "— 90,000 qantas points in year 1 if you spend $6k+ on eligible purchases [3] within 90 days of new card approval and an extra",
+      "snippet": "year 1 and 50 status credits [2] if you spend $6k+ on eligible purchases [4] within 90 days of new card approval and an extra",
       "value": 6.0
     },
     "min_spend_months": {
-      "snippet": "d $6k+ on eligible purchases [3] within 90 days of new card approval and an extra 60,00",
+      "snippet": "d $6k+ on eligible purchases [4] within 90 days of new card approval and an extra 60,00",
       "value": 3
     },
     "purchase_rate": {
-      "snippet": "urchases. [3] new cards only . variable purchase rate 23.98% p.a. variable cash advance rate 23.99% p.a.",
+      "snippet": "urchases. [4] new cards only . variable purchase rate 23.98% p.a. variable cash advance rate 23.99% p.a.",
       "value": 23.98
     }
   },

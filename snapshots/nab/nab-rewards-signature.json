@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-09-30T00:01:51Z",
-  "content_hash": "53b8b772e851c652f0dcfe016300363e6e5094feb866001b74f1ac58d7a3441d",
+  "captured_at": "2026-10-01T00:05:20Z",
+  "content_hash": "78d539e127e53e74c1c833d5a3e3541574b13334638edda487c8a8e7b12d2afb",
   "fields": {
     "annual_fee": {
       "snippet": "the monthly card fee will revert to an annual fee of $395. ​ $35 p.m. minimum credit limit $6,000",
@@ -15,8 +15,8 @@
       "value": 80000.0
     },
     "cash_advance_rate": {
-      "snippet": "nce transfers will attract the variable cash advance rate (currently 21.74% p.a. as at «date», from «date», this will in",
-      "value": 21.74
+      "snippet": "nce transfers will attract the variable cash advance rate (currently 22.99% p.a. and is subject to change). the one-off",
+      "value": 22.99
     },
     "interest_free_days": {
       "snippet": "",
@@ -53,9 +53,9 @@
       "label": "NAB Credit Card Cover Product disclosure statement and policy document (PDF, 471KB)"
     },
     "https://www.nab.com.au/content/dam/nabrwd/documents/terms-and-conditions/banking/nab-rewards-terms-and-conditions.pdf": {
-      "hash": "17bc00ae586b47632f101551c3c3f93ba0801afb882107b052b8ca0c83ff668e",
+      "hash": "0d9bd30c88a0c05157aa0b2c0c9382429828cd981701e26d3ae9984f88d663f5",
       "is_terms": true,
-      "label": "NAB Rewards Terms and Conditions (PDF, 199KB) , opens in new window"
+      "label": "NAB Rewards Terms and Conditions (PDF, 211KB) , opens in new window"
     }
   },
   "target_id": "nab-rewards-signature",

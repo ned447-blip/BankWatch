@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-09-30T00:02:21Z",
-  "content_hash": "41bc2f83379c2e9b7dc6f6134e17d62029d634dd14855c149b0b7831994cfc80",
+  "captured_at": "2026-10-01T00:05:50Z",
+  "content_hash": "02c1a5ee0e4ecc667512d0dab50258a6603fc39f2d32c2521fb53357a30f2936",
   "fields": {
     "annual_fee": {
       "snippet": "iew disclaimer 4 enjoy a reduced annual card fee (from $195 to $95) for the first year. bonus point",
@@ -11,19 +11,19 @@
       "value": 195.0
     },
     "bonus_points": {
-      "snippet": "up to 100,000 bonus nab rewards points 80,000 bonus points when you apply for a nab rewards platin",
+      "snippet": "up to 100,000 bonus nab rewards points 80,000 bonus points when you apply for a nab rewards card,",
       "value": 80000.0
     },
     "cash_advance_rate": {
-      "snippet": "nce transfers will attract the variable cash advance rate (currently 21.74% p.a. as at «date», from «date», this will in",
-      "value": 21.74
+      "snippet": "nce transfers will attract the variable cash advance rate (currently 22.99% p.a. and is subject to change). the one-off",
+      "value": 22.99
     },
     "interest_free_days": {
       "snippet": "",
       "value": null
     },
     "min_spend": {
-      "snippet": "rewards platinum card, are approved and spend $3,000 on everyday purchases within the first 90 days of account opening. view disclaim",
+      "snippet": "or a nab rewards card, are approved and spend $3,000 on everyday purchases within the first 90 days of account opening. view disclaim",
       "value": 3000.0
     },
     "min_spend_months": {
@@ -48,9 +48,9 @@
       "label": "NAB Credit Card Cover Product disclosure statement and policy document (PDF, 471KB)"
     },
     "https://www.nab.com.au/content/dam/nabrwd/documents/terms-and-conditions/banking/nab-rewards-terms-and-conditions.pdf": {
-      "hash": "17bc00ae586b47632f101551c3c3f93ba0801afb882107b052b8ca0c83ff668e",
+      "hash": "0d9bd30c88a0c05157aa0b2c0c9382429828cd981701e26d3ae9984f88d663f5",
       "is_terms": true,
-      "label": "NAB Rewards Terms and Conditions (PDF, 199KB) , opens in new window"
+      "label": "NAB Rewards Terms and Conditions (PDF, 211KB) , opens in new window"
     }
   },
   "target_id": "nab-rewards-platinum",
