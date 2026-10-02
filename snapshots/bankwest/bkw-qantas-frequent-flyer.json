@@ -1,9 +1,9 @@
 {
-  "captured_at": "2026-10-01T00:09:52Z",
-  "content_hash": "8e8449b0cd2109aa0bc6e3ea98005bc60ccad290958ecfceaf2f70e3e9ed36c2",
+  "captured_at": "2026-10-02T00:18:45Z",
+  "content_hash": "5882aaaa7b897a9ccbc9a4004e5278e5fbe9a7b23f9eaedfdcb0dc3c0606959e",
   "fields": {
     "annual_fee": {
-      "snippet": "t limit $12,000 higher min credit limit annual fee $199 annual fee $320 higher annual fee point",
+      "snippet": "imit $1,000 minimum credit limit $6,000 annual fee $199 annual fee $320 foreign transaction fee",
       "value": 199.0
     },
     "annual_fee_y1": {
@@ -11,34 +11,34 @@
       "value": null
     },
     "bonus_points": {
-      "snippet": "bonus qantas points platinum earn up to 80,000 bonus points for a limited time with a new qantas pl",
-      "value": 80000.0
+      "snippet": ". ^ †† ** resume application earn up to 40,000 bonus qantas points for a limited time with a new bankwest",
+      "value": 40000.0
     },
     "cash_advance_rate": {
-      "snippet": "advance rate the rate you’ll pay on any cash advances, including when you withdraw cash.† 21.99 % p.a. purchase rate the rate you’ll pay on pu",
+      "snippet": "^^ ongoing purchase rate 19.99% p.a. ^^ cash advance rate 21.99% p.a.† cash advance rate 21.99% p.a.† bankwes",
       "value": 21.99
     },
     "interest_free_days": {
-      "snippet": "ess fees no foreign transaction fees.†† up to 44 days interest free pay no interest on your p",
+      "snippet": "rship joining fee, saving you $99.50. ^ up to 44 days interest free enjoy up to 44 days inter",
       "value": 44.0
     },
     "min_spend": {
-      "snippet": "with a new qantas platinum mastercard, spend $7,500 on eligible purchases in the first 90 days and keep your card open for over",
-      "value": 7500.0
+      "snippet": "with a new bankwest qantas mastercard, spend $4,000 on eligible purchases in the first 4 months and keep your card open for 15 m",
+      "value": 4000.0
     },
     "min_spend_months": {
-      "snippet": "n balance transfers. ~~ 2.99 % p.a. for first 9 months, then 19.99% p.a. cash advance rate the",
-      "value": 9.0
+      "snippet": "end $4,000 on eligible purchases in the first 4 months and keep your card open for 15 months.",
+      "value": 4.0
     },
     "purchase_rate": {
-      "snippet": "ankwest qantas world mastercard ongoing purchase rate 19.99% p.a. ^^ ongoing purchase rate 19.99% p.a. ^^",
+      "snippet": "†† foreign transaction fee 0%†† ongoing purchase rate 19.99% p.a. ^^ ongoing purchase rate 19.99% p.a. ^^",
       "value": 19.99
     }
   },
   "issuer_key": "bankwest",
   "pdfs": {
     "https://www.bankwest.com.au/content/dam/bankwest/documents/legal-library/PDS_20040121-160524.pdf": {
-      "hash": "4d7d90bbde254a0b345e1a41799146db83d6af65f8d23ae786b26ff9d0b75871",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "is_terms": false,
       "label": "Financial Services Guide"
     },
@@ -60,22 +60,17 @@
     "https://www.bankwest.com.au/content/dam/bankwest/documents/legal-library/PDS_20120629-163837.pdf": {
       "hash": "8abdff4d45c29915ea0c52699fe7d5f3d0f78a1f182ec271bd117e7503dba272",
       "is_terms": true,
-      "label": "Bankwest Qantas Rewards Terms and Conditions (PDF)"
+      "label": "View the Bankwest Qantas Rewards Terms & Conditions (PDF)"
     },
     "https://www.bankwest.com.au/content/dam/bankwest/documents/legal-library/PDS_20210204-164337.pdf": {
       "hash": "60cbb6dd648ab6bc43f7a52dd3052eda9790672970ccee98f7a7644a14ad16e4",
       "is_terms": false,
       "label": "Additional Cardholder(s) Request Form (PDF)"
     },
-    "https://www.bankwest.com.au/content/dam/bankwest/documents/legal-library/PDS_20210413-162711.pdf": {
-      "hash": "c4ba039b1eab34c977ed1225bf7bea2277136bd9ce1d54772d62c0df4e404760",
-      "is_terms": true,
-      "label": "Credit Card Insurances Product Disclosure Statement and Information Booklet (PDF)"
-    },
     "https://www.bankwest.com.au/content/dam/bankwest/documents/legal-library/PDS_20220227-113508.pdf": {
-      "hash": "8e4f7508af14df3a26370337cd4a0d471487f1cc9621eec72c03550ca1d299f6",
+      "hash": "c4dd642c5d0190f48b9c4a9641672ac1a09443af77d5f27357d3473496402f54",
       "is_terms": true,
-      "label": "Credit Card Key Facts Sheet (PDF)"
+      "label": "key facts sheet"
     },
     "https://www.bankwest.com.au/content/dam/bankwest/documents/legal-library/PDS_20260611-134858.pdf": {
       "hash": "8c1f86d69835f1fee6c33427d0d6970fddb172744d8c45eba21469e8b28ae5e4",

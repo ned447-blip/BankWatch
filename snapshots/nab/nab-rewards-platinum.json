@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-10-01T00:05:50Z",
-  "content_hash": "02c1a5ee0e4ecc667512d0dab50258a6603fc39f2d32c2521fb53357a30f2936",
+  "captured_at": "2026-10-02T00:14:43Z",
+  "content_hash": "5a05298a40838ec4a571f24404bc13570ca05b3fefca9b749f166376e309b9bf",
   "fields": {
     "annual_fee": {
       "snippet": "iew disclaimer 4 enjoy a reduced annual card fee (from $195 to $95) for the first year. bonus point",
@@ -31,8 +31,8 @@
       "value": 12.0
     },
     "purchase_rate": {
-      "snippet": "imits that apply to this card. variable purchase rate view disclaimer 5 20.99% p.a. from «date», this will be 22.49% p.a. s",
-      "value": 20.99
+      "snippet": "imits that apply to this card. variable purchase rate view disclaimer 5 22.49% p.a. standard balance transfer (bt) rate for",
+      "value": 22.49
     }
   },
   "issuer_key": "nab",
@@ -54,5 +54,5 @@
     }
   },
   "target_id": "nab-rewards-platinum",
-  "url": "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/platinum-card"
+  "url": "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/rewards-card"
 }

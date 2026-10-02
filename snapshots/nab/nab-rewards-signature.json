@@ -1,9 +1,9 @@
 {
-  "captured_at": "2026-10-01T00:05:20Z",
-  "content_hash": "78d539e127e53e74c1c833d5a3e3541574b13334638edda487c8a8e7b12d2afb",
+  "captured_at": "2026-10-02T00:14:06Z",
+  "content_hash": "15458fa32a25c46d77d391c0d3a5d20058587c250c876476eb46fbb282d78b71",
   "fields": {
     "annual_fee": {
-      "snippet": "the monthly card fee will revert to an annual fee of $395. ​ $35 p.m. minimum credit limit $6,000",
+      "snippet": "ases view disclaimer 14 up to 44 annual card fee $395 p.a. minimum credit limit $6,000 variab",
       "value": 395.0
     },
     "annual_fee_y1": {
@@ -11,8 +11,8 @@
       "value": null
     },
     "bonus_points": {
-      "snippet": "up to 110,000 bonus nab rewards points 80,000 bonus points when you apply for a nab rewards signat",
-      "value": 80000.0
+      "snippet": "up to 180,000 bonus nab rewards points 120,000 bonus points when you apply for a nab rewards travel",
+      "value": 120000.0
     },
     "cash_advance_rate": {
       "snippet": "nce transfers will attract the variable cash advance rate (currently 22.99% p.a. and is subject to change). the one-off",
@@ -23,20 +23,25 @@
       "value": null
     },
     "min_spend": {
-      "snippet": "ewards signature card, are approved and spend $5,000 on everyday purchases within the first 90 days of account opening and 30,000 bon",
+      "snippet": "b rewards travel card, are approved and spend $5,000 on everyday purchases within the first 90 days of account opening and 60,000 bon",
       "value": 5000.0
     },
     "min_spend_months": {
-      "snippet": "on everyday purchases within the first 90 days of account opening and 30,000 bonus poi",
+      "snippet": "on everyday purchases within the first 90 days of account opening and 60,000 bonus poi",
       "value": 3
     },
     "purchase_rate": {
-      "snippet": "imits that apply to this card. variable purchase rate view disclaimer 11 20.99% p.a. from «date», this will be 22.49% p.a. s",
-      "value": 20.99
+      "snippet": "imits that apply to this card. variable purchase rate view disclaimer 12 22.49% p.a. standard balance transfer (bt) rate for",
+      "value": 22.49
     }
   },
   "issuer_key": "nab",
   "pdfs": {
+    "https://www.nab.com.au/content/dam/nab/documents/terms-and-conditions/banking/complimentary-airport-lounge-access-terms-and-conditions.pdf": {
+      "hash": "5356084c35e3dea887833e8f9975684e1c34afa773c8f2083c72f4b916ae078d",
+      "is_terms": true,
+      "label": "Complimentary Airport Lounge Access Terms and Conditions (PDF, 85KB) , opens in new window"
+    },
     "https://www.nab.com.au/content/dam/nab/documents/terms-and-conditions/banking/delayed-flight-lounge-pass-terms-and-conditions.pdf": {
       "hash": "24eecf61c0ffb9715659976708bc8e2185532df774deeefffb62ebff70740521",
       "is_terms": true,
@@ -59,5 +64,5 @@
     }
   },
   "target_id": "nab-rewards-signature",
-  "url": "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/signature-card"
+  "url": "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/travel-card"
 }
