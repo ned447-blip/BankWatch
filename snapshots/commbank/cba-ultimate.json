@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-07T00:07:47Z",
+  "captured_at": "2026-10-08T00:32:37Z",
   "content_hash": "e352181eafb42e3c0a69c585e66187f1117f68ac6eab3cee1fcef97e8cc5d679",
   "fields": {
     "annual_fee": {
@@ -37,11 +37,6 @@
   },
   "issuer_key": "commbank",
   "pdfs": {
-    "https://www.commbank.com.au/content/dam/commbank-assets/commbank-yello/docs/bp-rewards-for-commBank-yello-offer-terms-conditions.pdf": {
-      "hash": "3be4c1cc541ab6c8ad058d5b0634ba4978efc369070018930c88059819d2b28c",
-      "is_terms": true,
-      "label": "T&Cs apply"
-    },
     "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/ADB1682.pdf": {
       "hash": "f279035ba7d59fce9d55ec066acc5a7f2fb5ea4ea7aee983a6beeaa9c02cb337",
       "is_terms": true,
