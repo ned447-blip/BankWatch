@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-08T00:33:02Z",
+  "captured_at": "2026-10-09T00:40:25Z",
   "issuer_key": "commbank",
   "pending": {
     "https://www.commbank.com.au/articles/credit-cards/how-do-credit-cards-work.html": 1,
@@ -10,6 +10,7 @@
     "https://www.commbank.com.au/credit-cards/commbank-neo.html?ei=neo_n_tellmemore": 1,
     "https://www.commbank.com.au/credit-cards/credit-cards-in-australia.html": 1,
     "https://www.commbank.com.au/credit-cards/credit-cards-offers.html": 1,
+    "https://www.commbank.com.au/credit-cards/dineindeals.html": 1,
     "https://www.commbank.com.au/credit-cards/doordash.html": 1,
     "https://www.commbank.com.au/credit-cards/interest-free-low-fee.html": 1,
     "https://www.commbank.com.au/credit-cards/low-fee.html": 1,
@@ -31,6 +32,7 @@
     "https://www.commbank.com.au/credit-cards/commbank-neo.html?ei=neo_n_tellmemore": "More about CommBank Neo credit card",
     "https://www.commbank.com.au/credit-cards/credit-cards-in-australia.html": "Visa eligibility for new arrivals",
     "https://www.commbank.com.au/credit-cards/credit-cards-offers.html": "Discover offers",
+    "https://www.commbank.com.au/credit-cards/dineindeals.html": "Dine in Deals",
     "https://www.commbank.com.au/credit-cards/doordash.html": "DoorDash",
     "https://www.commbank.com.au/credit-cards/interest-free-low-fee.html": "More about Interest-free Low Fee credit card",
     "https://www.commbank.com.au/credit-cards/low-fee.html": "Low Fee",
