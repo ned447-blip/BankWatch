@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-09T00:20:30Z",
+  "captured_at": "2026-10-10T00:02:36Z",
   "content_hash": "e68c6b17c12d9f80656a9fbc0e6777c6cc67001329a98def42be21fbb7f43521",
   "fields": {
     "annual_fee": {
@@ -37,11 +37,6 @@
   },
   "issuer_key": "american_express",
   "pdfs": {
-    "https://www.americanexpress.com/content/dam/amex/au/benefits/Platinum/CMagreement.pdf": {
-      "hash": "197d36469e6d599f5e66641ef5a1de6d6832213627b75737c8b56ee1bf46e315",
-      "is_terms": true,
-      "label": "Card Terms & Conditions"
-    },
     "https://www.americanexpress.com/content/dam/amex/au/benefits/Platinum/PlatinumInsurance.pdf": {
       "hash": "d97d34a7bc1514c2cc281942b608a4d6b721dc1033ea92ae7fe1cc3e040a56d9",
       "is_terms": true,

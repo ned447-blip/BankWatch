@@ -1,9 +1,9 @@
 {
-  "captured_at": "2026-10-09T00:21:59Z",
-  "content_hash": "83b961fb9236a6d337fa141fe551f300351ef980de289b9a990e0b348b916139",
+  "captured_at": "2026-10-10T00:04:04Z",
+  "content_hash": "a54aa179b9e8b36758e52e63c1eaff98cda0d931d9128f3ebea9d69293f812f1",
   "fields": {
     "annual_fee": {
-      "snippet": "‌ key information card type credit card annual fee $9 per month ($108 per year) interest rate",
+      "snippet": "s key information card type credit card annual fee $9 per month ($108 per year) interest rate",
       "value": 9.0
     },
     "annual_fee_y1": {
