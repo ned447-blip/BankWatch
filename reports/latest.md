@@ -1,6 +1,6 @@
-# BankWatch — 2026-10-10
+# BankWatch — 2026-10-11
 
-_Run at 00:29 UTC · 53 targets checked · 0 material · 0 new · 13 unverified_
+_Run at 00:00 UTC · 53 targets checked · 0 material · 0 new · 13 unverified_
 
 > ⚠️ **This run has unverified checks — do not treat as “all clear”.** See the Unverified section.
 
@@ -53,8 +53,8 @@ navigating to "https://www.qantasmoney.com/credit-cards", waiting until "domcont
   - https://www.apra.gov.au/register-of-authorised-deposit-taking-institutions
 
 ## 🟡 Non-material changes (2)
-- **american_express** · `amex-qantas-ultimate` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/qantas-ultimate-card/>
-- **american_express** · `amex-essential` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/essential-rewards-credit-card/>
+- **american_express** · `amex-velocity-escape` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/velocity-escape-plus-card/>
+- **american_express** · `amex-platinum` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/the-platinum-card/>
 
 ## 🔎 Discovery — new ADIs to review (0)
 

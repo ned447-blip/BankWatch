@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-10T00:01:36Z",
+  "captured_at": "2026-10-10T23:31:12Z",
   "content_hash": "e8acd166294ac557c55162dca476c8a9f5f4005d574a8533402da143ed1bfb7b",
   "fields": {
     "annual_fee": {
@@ -46,11 +46,6 @@
       "hash": "118cdbc6142a36d0b38f0bafe8940ea301b369808b47ef82671adeb2135d9031",
       "is_terms": true,
       "label": "Card Terms & Conditions"
-    },
-    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/au_KFS_Velocity.pdf": {
-      "hash": "776aebc61c99ae1985ff07a93d5073df785b088a32de8cd98c84c3ed27a7906f",
-      "is_terms": false,
-      "label": "here"
     }
   },
   "target_id": "amex-velocity-platinum",

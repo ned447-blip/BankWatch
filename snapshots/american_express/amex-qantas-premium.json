@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-10T00:00:23Z",
+  "captured_at": "2026-10-10T23:30:01Z",
   "content_hash": "ce88394909091959ba0150296d47b758cad4e8cdc8f1b516e5269d1bbfacbb33",
   "fields": {
     "annual_fee": {
@@ -37,16 +37,6 @@
   },
   "issuer_key": "american_express",
   "pdfs": {
-    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/TargetMarketDetermination_QantasPremium.pdf": {
-      "hash": "e32dce2706fa288a56170985da3f1cc416062aab303a8578c8ccf5f93153a46d",
-      "is_terms": false,
-      "label": "Target Market Determination"
-    },
-    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/pds_premiumcard.pdf": {
-      "hash": "02f0991c26e2c839b604c27ed5972e210d6b3427b9d5214c59f56822874bd275",
-      "is_terms": false,
-      "label": "Insurances"
-    },
     "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/pds_qantas-premium-qantaslounge-conditions.pdf": {
       "hash": "e01fef865a82c16d63e60d98e80b664cb0c8758e469c834bed6fdcf46d16f7da",
       "is_terms": true,

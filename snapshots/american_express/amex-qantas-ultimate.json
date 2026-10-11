@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-09T23:59:46Z",
+  "captured_at": "2026-10-10T23:29:23Z",
   "content_hash": "ab5f382e634a8f7a4a0b82234fc2f28b61180550cabd08927f33032a74ee1364",
   "fields": {
     "annual_fee": {
@@ -37,11 +37,6 @@
   },
   "issuer_key": "american_express",
   "pdfs": {
-    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/TargetMarketDetermination_QantasUltimate.pdf": {
-      "hash": "c7f8a01cfdc32fbae76eb0a7721c4937960244d32e8e69c1fb5df8256fe1c29a",
-      "is_terms": false,
-      "label": "Target Market Determination"
-    },
     "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/pds_qantas-ultimate-benefits-tncs.pdf": {
       "hash": "9f71fc2772faa973fb313df0e560e75abda22699abd3f8ddadba10a4266be5df",
       "is_terms": true,
