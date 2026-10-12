@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-10-10T23:35:16Z",
-  "content_hash": "99502280f30f1a2975898d489455ec5a279e13d03773c007669e948c05d74b30",
+  "captured_at": "2026-10-11T23:43:35Z",
+  "content_hash": "47360d41680572182e24ee7460051537faf0b7fc58641e6af0bdfdb7af21b96c",
   "fields": {
     "annual_fee": {
       "snippet": "oints [1] plus a reduced $99 first year card fee (reverts to $175 p.a. thereafter) [2] see full offer det",
@@ -11,7 +11,7 @@
       "value": 175.0
     },
     "bonus_points": {
-      "snippet": "icy. find out more you could earn up to 100,000 bonus altitude points [1] plus a reduced $99 first year card",
+      "snippet": "h points’ feature. you could earn up to 100,000 bonus altitude points [1] plus a reduced $99 first year card",
       "value": 100000.0
     },
     "cash_advance_rate": {

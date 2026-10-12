@@ -1,11 +1,11 @@
 {
-  "captured_at": "2026-10-10T23:40:25Z",
+  "captured_at": "2026-10-11T23:48:43Z",
   "issuer_key": "westpac",
   "pending": {
     "https://www.westpac.com.au/business-banking/credit-cards": 1,
     "https://www.westpac.com.au/credit-cards": 1,
     "https://www.westpac.com.au/credit-cards/balance-transfer-cards?fid=cp:salob:concc:tt:bt": 1,
-    "https://www.westpac.com.au/credit-cards/credit-card-changes?fid=op:infob:concc:ip:cta1": 1,
+    "https://www.westpac.com.au/credit-cards/credit-card-changes": 1,
     "https://www.westpac.com.au/credit-cards/credit-cards-fact-sheet": 1,
     "https://www.westpac.com.au/credit-cards/low-fee": 1,
     "https://www.westpac.com.au/credit-cards/low-fee?fid=cp:salob:concc:pc:cta2": 1,
@@ -31,7 +31,7 @@
     "https://www.westpac.com.au/business-banking/credit-cards": "Credit cards",
     "https://www.westpac.com.au/credit-cards": "Skip to main content",
     "https://www.westpac.com.au/credit-cards/balance-transfer-cards?fid=cp:salob:concc:tt:bt": "Transfer credit card balances",
-    "https://www.westpac.com.au/credit-cards/credit-card-changes?fid=op:infob:concc:ip:cta1": "Find out more",
+    "https://www.westpac.com.au/credit-cards/credit-card-changes": "Find out more",
     "https://www.westpac.com.au/credit-cards/credit-cards-fact-sheet": "Westpac Credit Cards Key Facts Sheet",
     "https://www.westpac.com.au/credit-cards/low-fee": "low fee cards",
     "https://www.westpac.com.au/credit-cards/low-fee?fid=cp:salob:concc:pc:cta2": "Find out more",

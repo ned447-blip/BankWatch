@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-10T23:30:39Z",
+  "captured_at": "2026-10-11T23:38:59Z",
   "content_hash": "730ad06990fb65ede08ac69a3a0bc1394dd8b1b856dee35a923a68760f4a27c4",
   "fields": {
     "annual_fee": {
@@ -37,11 +37,6 @@
   },
   "issuer_key": "american_express",
   "pdfs": {
-    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/TargetMarketDetermination_QantasDiscovery.pdf": {
-      "hash": "cc1ed87b0a6f4957189cd3e2da0fe2bf67e584fb911afa91b36b53aaf01121f9",
-      "is_terms": false,
-      "label": "Target Market Determination"
-    },
     "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/Credit_Card_Conditions.pdf": {
       "hash": "118cdbc6142a36d0b38f0bafe8940ea301b369808b47ef82671adeb2135d9031",
       "is_terms": true,

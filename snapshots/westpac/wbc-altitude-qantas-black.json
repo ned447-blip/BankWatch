@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-10-10T23:36:17Z",
-  "content_hash": "6716e2b49690a762559d07697daa34165c2eb82fcf165e12af5d404280caa300",
+  "captured_at": "2026-10-11T23:44:36Z",
+  "content_hash": "e62dccf179b60470d89db988d90128ea030affa1c4e290b49b7776f4c1470184",
   "fields": {
     "annual_fee": {
       "snippet": "n in to apply and get a $200 first year card fee (reverts to $295 p.a. thereafter) [3] . a $155 annual qa",
@@ -11,7 +11,7 @@
       "value": 295.0
     },
     "bonus_points": {
-      "snippet": "icy. find out more you could earn up to 150,000 bonus qantas points [1] and 50 status credits [2] see full",
+      "snippet": "ces and concierge. you could earn up to 150,000 bonus qantas points [1] and 50 status credits [2] see full",
       "value": 150000.0
     },
     "cash_advance_rate": {
