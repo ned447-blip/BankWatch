@@ -1,9 +1,9 @@
 {
-  "captured_at": "2026-10-11T23:38:21Z",
-  "content_hash": "6c019bf7c340ee58e415073b0b91d16eaa5d503dfb547c5fd8fe4988148b3545",
+  "captured_at": "2026-10-13T01:59:44Z",
+  "content_hash": "ce88394909091959ba0150296d47b758cad4e8cdc8f1b516e5269d1bbfacbb33",
   "fields": {
     "annual_fee": {
-      "snippet": "‌ key information card type credit card annual fee $249 p.a. interest rate 23.99% p.a. 2 intere",
+      "snippet": "s key information card type credit card annual fee $249 p.a. interest rate 23.99% p.a. 2 intere",
       "value": 249.0
     },
     "annual_fee_y1": {
@@ -36,28 +36,7 @@
     }
   },
   "issuer_key": "american_express",
-  "pdfs": {
-    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/TargetMarketDetermination_QantasPremium.pdf": {
-      "hash": "e32dce2706fa288a56170985da3f1cc416062aab303a8578c8ccf5f93153a46d",
-      "is_terms": false,
-      "label": "Target Market Determination"
-    },
-    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/pds_qantas-premium-qantaslounge-conditions.pdf": {
-      "hash": "e01fef865a82c16d63e60d98e80b664cb0c8758e469c834bed6fdcf46d16f7da",
-      "is_terms": true,
-      "label": "Qantas Club Invitation Conditions"
-    },
-    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/Credit_Card_Conditions.pdf": {
-      "hash": "118cdbc6142a36d0b38f0bafe8940ea301b369808b47ef82671adeb2135d9031",
-      "is_terms": true,
-      "label": "Card Terms & Conditions"
-    },
-    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/au_KFS_Qantas.pdf": {
-      "hash": "0f9f300857ed19491fd0c2f3ba2cbb42cbddb88cc3fbdfedf130d5dd58b76327",
-      "is_terms": true,
-      "label": "Key Facts Sheet"
-    }
-  },
+  "pdfs": {},
   "target_id": "amex-qantas-premium",
   "url": "https://www.americanexpress.com/en-au/credit-cards/qantas-premium-card/"
 }
