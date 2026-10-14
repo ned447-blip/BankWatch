@@ -1,9 +1,9 @@
 {
-  "captured_at": "2026-10-13T23:44:38Z",
-  "content_hash": "e8acd166294ac557c55162dca476c8a9f5f4005d574a8533402da143ed1bfb7b",
+  "captured_at": "2026-10-14T23:11:33Z",
+  "content_hash": "f5cd4d36615cdfcb5503fe80872fd60772c0505a2694c496545a4a48df2b8db4",
   "fields": {
     "annual_fee": {
-      "snippet": "s key information card type credit card annual fee $440 p.a. interest rate 23.99% p.a. on purch",
+      "snippet": "‌ key information card type credit card annual fee $440 p.a. interest rate 23.99% p.a. on purch",
       "value": 440.0
     },
     "annual_fee_y1": {
@@ -36,7 +36,18 @@
     }
   },
   "issuer_key": "american_express",
-  "pdfs": {},
+  "pdfs": {
+    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/TargetMarketDetermination_VelocityPlatinum.pdf": {
+      "hash": "3d9215406c313730dc6a5804d0995216ae854722028551159ab117d479b947f7",
+      "is_terms": false,
+      "label": "Target Market Determination"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/au_KFS_Velocity.pdf": {
+      "hash": "776aebc61c99ae1985ff07a93d5073df785b088a32de8cd98c84c3ed27a7906f",
+      "is_terms": false,
+      "label": "here"
+    }
+  },
   "target_id": "amex-velocity-platinum",
   "url": "https://www.americanexpress.com/en-au/credit-cards/velocity-platinum-card/"
 }

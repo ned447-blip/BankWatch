@@ -1,9 +1,9 @@
 {
-  "captured_at": "2026-10-13T23:45:39Z",
-  "content_hash": "27cb506aaf699d3bbf525db4edab7d921a91fd959fa104e8a6b65efa4dad0bd9",
+  "captured_at": "2026-10-14T23:12:33Z",
+  "content_hash": "e68c6b17c12d9f80656a9fbc0e6777c6cc67001329a98def42be21fbb7f43521",
   "fields": {
     "annual_fee": {
-      "snippet": "y the little luxuries ‌ key information annual fee $1,450 p.a. card type charge card cash flow pe",
+      "snippet": "ow terms and conditions key information annual fee $1,450 p.a. card type charge card cash flow pe",
       "value": 1450.0
     },
     "annual_fee_y1": {
@@ -37,6 +37,11 @@
   },
   "issuer_key": "american_express",
   "pdfs": {
+    "https://www.americanexpress.com/content/dam/amex/au/benefits/Platinum/CMagreement.pdf": {
+      "hash": "197d36469e6d599f5e66641ef5a1de6d6832213627b75737c8b56ee1bf46e315",
+      "is_terms": true,
+      "label": "Card Terms & Conditions"
+    },
     "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/TargetMarketDetermination_Platinum.pdf": {
       "hash": "d78685707e06844322361173df9ba70b7af8eed0d32abdb03cfbb4d00ea4f454",
       "is_terms": false,

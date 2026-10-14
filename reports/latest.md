@@ -1,15 +1,12 @@
-# BankWatch — 2026-10-14
+# BankWatch — 2026-10-15
 
-_Run at 00:12 UTC · 53 targets checked · 1 material · 0 new · 14 unverified_
+_Run at 23:38 UTC · 53 targets checked · 0 material · 0 new · 14 unverified_
 
 > ⚠️ **This run has unverified checks — do not treat as “all clear”.** See the Unverified section.
 
-## 🔴 Material changes (1)
+## 🔴 Material changes (0)
 
-### nab · `nab-rewards-signature`
-<https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/travel-card>
-- **Min-spend window (months):** 3 → **12**
-  - context: “…reduced annual card fee of $295 for the first 12 months. from the 13th month onwards, the stand…”
+_None._
 
 ## 🆕 New products (0)
 
@@ -57,17 +54,21 @@ navigating to "https://www.qantasmoney.com/credit-cards", waiting until "domcont
 - **discovery** · `apra_adis` — offdomain: URL not on allowlist
   - https://www.apra.gov.au/register-of-authorised-deposit-taking-institutions
 
-## 🟡 Non-material changes (2)
-- **american_express** · `amex-qantas-ultimate` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/qantas-ultimate-card/>
-- **american_express** · `amex-qantas-premium` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/qantas-premium-card/>
+## 🟡 Non-material changes (6)
+- **american_express** · `amex-qantas-discovery` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/qantas-discovery-card/>
+- **american_express** · `amex-velocity-platinum` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/velocity-platinum-card/>
+- **american_express** · `amex-platinum` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/the-platinum-card/>
+- **american_express** · `amex-explorer` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/explorer-credit-card/>
+- **american_express** · `amex-platinum-edge` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/platinum-edge-credit-card/>
+- **american_express** · `amex-essential` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/essential-rewards-credit-card/>
 
 ## 🔎 Discovery — new ADIs to review (0)
 
 _None._
 
-## ✅ Verified, no change (29)
+## ✅ Verified, no change (26)
 
-_29 of 53 targets verified unchanged. 14 could not be verified (above)._
+_26 of 53 targets verified unchanged. 14 could not be verified (above)._
 
 ---
 _BankWatch monitors official bank domains only. General information, not financial advice._

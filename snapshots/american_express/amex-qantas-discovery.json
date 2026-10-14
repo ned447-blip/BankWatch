@@ -1,9 +1,9 @@
 {
-  "captured_at": "2026-10-13T23:44:05Z",
-  "content_hash": "ecb0055c187ccaf311e2b8935e06943c3f9403a74da3b84e4db82b76f44a0a15",
+  "captured_at": "2026-10-14T23:11:00Z",
+  "content_hash": "730ad06990fb65ede08ac69a3a0bc1394dd8b1b856dee35a923a68760f4a27c4",
   "fields": {
     "annual_fee": {
-      "snippet": "‌ key information card type credit card annual fee $0 p.a. interest rate 23.99% p.a. 1 intere",
+      "snippet": "s key information card type credit card annual fee $0 p.a. interest rate 23.99% p.a. 1 intere",
       "value": 0.0
     },
     "annual_fee_y1": {
@@ -37,6 +37,11 @@
   },
   "issuer_key": "american_express",
   "pdfs": {
+    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/TargetMarketDetermination_QantasDiscovery.pdf": {
+      "hash": "b7a5cc5e5aba0d7f4c5c4271b8219426929f0652706f51847988f2a7b001a290",
+      "is_terms": false,
+      "label": "Target Market Determination"
+    },
     "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/au_KFS_Qantas.pdf": {
       "hash": "0f9f300857ed19491fd0c2f3ba2cbb42cbddb88cc3fbdfedf130d5dd58b76327",
       "is_terms": true,
