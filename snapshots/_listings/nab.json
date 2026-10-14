@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-13T02:20:50Z",
+  "captured_at": "2026-10-14T00:04:48Z",
   "issuer_key": "nab",
   "pending": {
     "https://www.nab.com.au/business/business-credit-cards": 1,
@@ -19,6 +19,7 @@
     "https://www.nab.com.au/personal/credit-cards/low-fee-card": 1,
     "https://www.nab.com.au/personal/credit-cards/nab-low-rate-card": 1,
     "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards": 1,
+    "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/complimentary-esim-plan": 1,
     "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/complimentary-lounge-access": 1,
     "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/rewards-card": 1,
     "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/travel-card": 1,
@@ -51,6 +52,7 @@
     "https://www.nab.com.au/personal/credit-cards/low-fee-card": "NAB Low Fee Card",
     "https://www.nab.com.au/personal/credit-cards/nab-low-rate-card": "NAB Low Rate Credit Card",
     "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards": "NAB Rewards credit cards",
+    "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/complimentary-esim-plan": "global eSIM plan",
     "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/complimentary-lounge-access": "airport lounge access",
     "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/rewards-card": "NAB Rewards Card",
     "https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/travel-card": "NAB Rewards Travel Card",

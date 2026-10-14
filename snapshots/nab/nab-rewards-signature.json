@@ -1,17 +1,17 @@
 {
-  "captured_at": "2026-10-13T02:19:51Z",
-  "content_hash": "22495616e4b367af5509bf334df59caefffe41fb2d44080ed00c7bbd6064ef5c",
+  "captured_at": "2026-10-14T00:03:42Z",
+  "content_hash": "ec61277e391f9e8f1d43e4d43617c57e0f4bdd42967959157ff0aa7925c07537",
   "fields": {
     "annual_fee": {
-      "snippet": "ases view disclaimer 14 up to 44 annual card fee $395 p.a. minimum credit limit $6,000 variab",
+      "snippet": "s also enjoy a $100 reduction in annual card fee (from $395 to $295) for the first year. view discl",
       "value": 395.0
     },
     "annual_fee_y1": {
-      "snippet": "",
-      "value": null
+      "snippet": "$100 reduction in annual card fee (from $395 to $295) for the first year. view disclaimer 5 if you’re already a",
+      "value": 395.0
     },
     "bonus_points": {
-      "snippet": "up to 180,000 bonus nab rewards points 120,000 bonus points when you apply for a nab rewards travel",
+      "snippet": "o 180,000 bonus nab rewards points earn 120,000 bonus points when you spend $5,000 on everyday purch",
       "value": 120000.0
     },
     "cash_advance_rate": {
@@ -23,15 +23,15 @@
       "value": null
     },
     "min_spend": {
-      "snippet": "b rewards travel card, are approved and spend $5,000 on everyday purchases within the first 90 days of account opening and 60,000 bon",
+      "snippet": "ints earn 120,000 bonus points when you spend $5,000 on everyday purchases within 90 days of new card approval. view discla",
       "value": 5000.0
     },
     "min_spend_months": {
-      "snippet": "on everyday purchases within the first 90 days of account opening and 60,000 bonus poi",
-      "value": 3
+      "snippet": "reduced annual card fee of $295 for the first 12 months. from the 13th month onwards, the stand",
+      "value": 12.0
     },
     "purchase_rate": {
-      "snippet": "imits that apply to this card. variable purchase rate view disclaimer 12 22.49% p.a. standard balance transfer (bt) rate for",
+      "snippet": "000 annual card fee $ 395 p.a. variable purchase rate 22.49 % p.a. key card benefits $0 international tran",
       "value": 22.49
     }
   },
@@ -41,6 +41,11 @@
       "hash": "5356084c35e3dea887833e8f9975684e1c34afa773c8f2083c72f4b916ae078d",
       "is_terms": true,
       "label": "Complimentary Airport Lounge Access Terms and Conditions (PDF, 85KB) , opens in new window"
+    },
+    "https://www.nab.com.au/content/dam/nab/documents/terms-and-conditions/banking/complimentary-global-eSIM-plan-terms-and-conditions.pdf": {
+      "hash": "edbe5b5f3891de77905edee8ee9688e0b8b5bb715eb9f1527c732ecdef49f86d",
+      "is_terms": true,
+      "label": "Complimentary Global eSIM Plan Terms and Conditions (PDF, 77KB) , opens in new window"
     },
     "https://www.nab.com.au/content/dam/nab/documents/terms-and-conditions/banking/delayed-flight-lounge-pass-terms-and-conditions.pdf": {
       "hash": "24eecf61c0ffb9715659976708bc8e2185532df774deeefffb62ebff70740521",

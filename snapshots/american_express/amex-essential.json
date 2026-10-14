@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-13T02:03:23Z",
+  "captured_at": "2026-10-13T23:47:07Z",
   "content_hash": "a54aa179b9e8b36758e52e63c1eaff98cda0d931d9128f3ebea9d69293f812f1",
   "fields": {
     "annual_fee": {
@@ -36,7 +36,13 @@
     }
   },
   "issuer_key": "american_express",
-  "pdfs": {},
+  "pdfs": {
+    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/TargetMarketDetermination_AmexEssentialRewards.pdf": {
+      "hash": "1ebc69e5f98a642739b0ec6c403cba0db9943a3ba7c7e5426db0e19b4c1102a8",
+      "is_terms": false,
+      "label": "Target Market Determination"
+    }
+  },
   "target_id": "amex-essential",
   "url": "https://www.americanexpress.com/en-au/credit-cards/essential-rewards-credit-card/"
 }
