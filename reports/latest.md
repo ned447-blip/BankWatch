@@ -1,22 +1,22 @@
-# BankWatch — 2026-10-15
+# BankWatch — 2026-10-16
 
-_Run at 23:38 UTC · 53 targets checked · 0 material · 0 new · 14 unverified_
+_Run at 23:32 UTC · 53 targets checked · 1 material · 0 new · 13 unverified_
 
 > ⚠️ **This run has unverified checks — do not treat as “all clear”.** See the Unverified section.
 
-## 🔴 Material changes (0)
+## 🔴 Material changes (1)
 
-_None._
+### anz · `anz-rewards-black`
+<https://www.anz.com.au/personal/credit-cards/rewards-black/>
+- **T&C PDF changed:** [Google Pay (PDF)](https://www.anz.com.au/content/dam/anzcomau/documents/pdf/googlepay-tcs.pdf)
 
 ## 🆕 New products (0)
 
 _None._
 
-## ⚠️ Unverified — manual review needed (14)
+## ⚠️ Unverified — manual review needed (13)
 - **american_express** · `_listing` — blocked: Unexpected HTTP 404
   - https://www.americanexpress.com/en-au/credit-cards/
-- **anz** · `anz-rewards-black` — blocked: bot challenge detected
-  - https://www.anz.com.au/personal/credit-cards/rewards-black/
 - **qantas_money** · `qm-everyday` — blocked: Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.qantasmoney.com/credit-cards/everyday
 Call log:
 navigating to "https://www.qantasmoney.com/credit-cards/everyday", waiting until "domcontentloaded"
@@ -54,11 +54,8 @@ navigating to "https://www.qantasmoney.com/credit-cards", waiting until "domcont
 - **discovery** · `apra_adis` — offdomain: URL not on allowlist
   - https://www.apra.gov.au/register-of-authorised-deposit-taking-institutions
 
-## 🟡 Non-material changes (6)
+## 🟡 Non-material changes (3)
 - **american_express** · `amex-qantas-discovery` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/qantas-discovery-card/>
-- **american_express** · `amex-velocity-platinum` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/velocity-platinum-card/>
-- **american_express** · `amex-platinum` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/the-platinum-card/>
-- **american_express** · `amex-explorer` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/explorer-credit-card/>
 - **american_express** · `amex-platinum-edge` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/platinum-edge-credit-card/>
 - **american_express** · `amex-essential` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/essential-rewards-credit-card/>
 
@@ -66,9 +63,9 @@ navigating to "https://www.qantasmoney.com/credit-cards", waiting until "domcont
 
 _None._
 
-## ✅ Verified, no change (26)
+## ✅ Verified, no change (29)
 
-_26 of 53 targets verified unchanged. 14 could not be verified (above)._
+_29 of 53 targets verified unchanged. 13 could not be verified (above)._
 
 ---
 _BankWatch monitors official bank domains only. General information, not financial advice._

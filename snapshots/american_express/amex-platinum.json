@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-14T23:12:33Z",
+  "captured_at": "2026-10-15T23:04:17Z",
   "content_hash": "e68c6b17c12d9f80656a9fbc0e6777c6cc67001329a98def42be21fbb7f43521",
   "fields": {
     "annual_fee": {
@@ -41,11 +41,6 @@
       "hash": "197d36469e6d599f5e66641ef5a1de6d6832213627b75737c8b56ee1bf46e315",
       "is_terms": true,
       "label": "Card Terms & Conditions"
-    },
-    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/TargetMarketDetermination_Platinum.pdf": {
-      "hash": "d78685707e06844322361173df9ba70b7af8eed0d32abdb03cfbb4d00ea4f454",
-      "is_terms": false,
-      "label": "Target Market Determination"
     }
   },
   "target_id": "amex-platinum",
