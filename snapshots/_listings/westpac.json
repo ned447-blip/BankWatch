@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-15T23:12:44Z",
+  "captured_at": "2026-10-16T22:58:11Z",
   "issuer_key": "westpac",
   "pending": {
     "https://www.westpac.com.au/business-banking/credit-cards": 1,
@@ -14,6 +14,8 @@
     "https://www.westpac.com.au/credit-cards/low-rate-cards/low-rate?fid=cp:salob:concc:pc:cta1": 1,
     "https://www.westpac.com.au/credit-cards/low-rate-cards/westpac-lite-card?fid=cp:salob:concc:pc:cta2": 1,
     "https://www.westpac.com.au/credit-cards/low-rate-cards?fid=cp:salob:concc:tt:lowrate": 1,
+    "https://www.westpac.com.au/credit-cards/manage/rewards/flight-delay-access-pass": 1,
+    "https://www.westpac.com.au/credit-cards/manage/rewards/global-data-roaming": 1,
     "https://www.westpac.com.au/credit-cards/partpay": 1,
     "https://www.westpac.com.au/credit-cards/qantas-credit-cards": 1,
     "https://www.westpac.com.au/credit-cards/reward": 1,
@@ -40,6 +42,8 @@
     "https://www.westpac.com.au/credit-cards/low-rate-cards/low-rate?fid=cp:salob:concc:pc:cta1": "Find out more",
     "https://www.westpac.com.au/credit-cards/low-rate-cards/westpac-lite-card?fid=cp:salob:concc:pc:cta2": "Find out more",
     "https://www.westpac.com.au/credit-cards/low-rate-cards?fid=cp:salob:concc:tt:lowrate": "Have a low purchase rate",
+    "https://www.westpac.com.au/credit-cards/manage/rewards/flight-delay-access-pass": "Complimentary Flight Delay Access Pass",
+    "https://www.westpac.com.au/credit-cards/manage/rewards/global-data-roaming": "Complimentary Global Data Roaming by FlexiRoam",
     "https://www.westpac.com.au/credit-cards/partpay": "PartPay",
     "https://www.westpac.com.au/credit-cards/qantas-credit-cards": "Qantas Frequent Flyer",
     "https://www.westpac.com.au/credit-cards/reward": "rewards",

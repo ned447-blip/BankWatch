@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-15T23:01:51Z",
+  "captured_at": "2026-10-16T22:47:37Z",
   "content_hash": "6c019bf7c340ee58e415073b0b91d16eaa5d503dfb547c5fd8fe4988148b3545",
   "fields": {
     "annual_fee": {
@@ -46,6 +46,11 @@
       "hash": "02f0991c26e2c839b604c27ed5972e210d6b3427b9d5214c59f56822874bd275",
       "is_terms": false,
       "label": "Insurances"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/pds_qantas-premium-qantaslounge-conditions.pdf": {
+      "hash": "e01fef865a82c16d63e60d98e80b664cb0c8758e469c834bed6fdcf46d16f7da",
+      "is_terms": true,
+      "label": "Qantas Club Invitation Conditions"
     }
   },
   "target_id": "amex-qantas-premium",

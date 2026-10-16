@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-15T23:04:44Z",
+  "captured_at": "2026-10-16T22:50:17Z",
   "content_hash": "69cd5792677f1d784a5b9c75c96f8d58bc40e0f784f12f128cc17573b126d7ff",
   "fields": {
     "annual_fee": {
@@ -36,13 +36,7 @@
     }
   },
   "issuer_key": "american_express",
-  "pdfs": {
-    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/TargetMarketDetermination_Explorer.pdf": {
-      "hash": "801063b020497906dd57f23339ea5fc48c22a9304e8b898b04a994d6c47654d2",
-      "is_terms": false,
-      "label": "Target Market Determination"
-    }
-  },
+  "pdfs": {},
   "target_id": "amex-explorer",
   "url": "https://www.americanexpress.com/en-au/credit-cards/explorer-credit-card/"
 }
