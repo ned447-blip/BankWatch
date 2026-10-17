@@ -1,9 +1,9 @@
 {
-  "captured_at": "2026-10-16T22:51:18Z",
-  "content_hash": "a54aa179b9e8b36758e52e63c1eaff98cda0d931d9128f3ebea9d69293f812f1",
+  "captured_at": "2026-10-17T22:18:13Z",
+  "content_hash": "83b961fb9236a6d337fa141fe551f300351ef980de289b9a990e0b348b916139",
   "fields": {
     "annual_fee": {
-      "snippet": "s key information card type credit card annual fee $9 per month ($108 per year) interest rate",
+      "snippet": "‌ key information card type credit card annual fee $9 per month ($108 per year) interest rate",
       "value": 9.0
     },
     "annual_fee_y1": {
@@ -37,6 +37,11 @@
   },
   "issuer_key": "american_express",
   "pdfs": {
+    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/TargetMarketDetermination_AmexEssentialRewards.pdf": {
+      "hash": "1ebc69e5f98a642739b0ec6c403cba0db9943a3ba7c7e5426db0e19b4c1102a8",
+      "is_terms": false,
+      "label": "Target Market Determination"
+    },
     "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/essentialinsurance.pdf": {
       "hash": "d2469bf5ff1789bd652438308cd91cf722e20d8d0ad4f5fc8596783efd37407e",
       "is_terms": true,

@@ -1,6 +1,6 @@
-# BankWatch — 2026-10-17
+# BankWatch — 2026-10-18
 
-_Run at 23:17 UTC · 53 targets checked · 0 material · 0 new · 13 unverified_
+_Run at 22:42 UTC · 53 targets checked · 0 material · 0 new · 14 unverified_
 
 > ⚠️ **This run has unverified checks — do not treat as “all clear”.** See the Unverified section.
 
@@ -12,9 +12,11 @@ _None._
 
 _None._
 
-## ⚠️ Unverified — manual review needed (13)
+## ⚠️ Unverified — manual review needed (14)
 - **american_express** · `_listing` — blocked: Unexpected HTTP 404
   - https://www.americanexpress.com/en-au/credit-cards/
+- **anz** · `anz-rewards-black` — blocked: bot challenge detected
+  - https://www.anz.com.au/personal/credit-cards/rewards-black/
 - **qantas_money** · `qm-everyday` — blocked: Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.qantasmoney.com/credit-cards/everyday
 Call log:
 navigating to "https://www.qantasmoney.com/credit-cards/everyday", waiting until "domcontentloaded"
@@ -52,23 +54,19 @@ navigating to "https://www.qantasmoney.com/credit-cards", waiting until "domcont
 - **discovery** · `apra_adis` — offdomain: URL not on allowlist
   - https://www.apra.gov.au/register-of-authorised-deposit-taking-institutions
 
-## 🟡 Non-material changes (8)
-- **american_express** · `amex-platinum` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/the-platinum-card/>
+## 🟡 Non-material changes (4)
+- **american_express** · `amex-qantas-premium` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/qantas-premium-card/>
+- **american_express** · `amex-explorer` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/explorer-credit-card/>
 - **american_express** · `amex-platinum-edge` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/platinum-edge-credit-card/>
-- **westpac** · `wbc-altitude-rewards-black` — page content changed, no tracked field moved. <https://www.westpac.com.au/credit-cards/reward/altitude-rewards-black>
-- **westpac** · `wbc-altitude-rewards-plat` — page content changed, no tracked field moved. <https://www.westpac.com.au/credit-cards/reward/altitude-rewards-platinum>
-- **westpac** · `wbc-altitude-qantas-black` — page content changed, no tracked field moved. <https://www.westpac.com.au/credit-cards/reward/altitude-qantas-black>
-- **westpac** · `wbc-altitude-qantas-plat` — page content changed, no tracked field moved. <https://www.westpac.com.au/credit-cards/reward/altitude-qantas-platinum>
-- **westpac** · `wbc-altitude-velocity-black` — page content changed, no tracked field moved. <https://www.westpac.com.au/credit-cards/reward/altitude-velocity-black>
-- **westpac** · `wbc-altitude-velocity-plat` — page content changed, no tracked field moved. <https://www.westpac.com.au/credit-cards/reward/altitude-velocity-platinum>
+- **american_express** · `amex-essential` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/essential-rewards-credit-card/>
 
 ## 🔎 Discovery — new ADIs to review (0)
 
 _None._
 
-## ✅ Verified, no change (25)
+## ✅ Verified, no change (28)
 
-_25 of 53 targets verified unchanged. 13 could not be verified (above)._
+_28 of 53 targets verified unchanged. 14 could not be verified (above)._
 
 ---
 _BankWatch monitors official bank domains only. General information, not financial advice._
