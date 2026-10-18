@@ -1,6 +1,6 @@
-# BankWatch — 2026-10-18
+# BankWatch — 2026-10-19
 
-_Run at 22:42 UTC · 53 targets checked · 0 material · 0 new · 14 unverified_
+_Run at 22:52 UTC · 53 targets checked · 0 material · 0 new · 14 unverified_
 
 > ⚠️ **This run has unverified checks — do not treat as “all clear”.** See the Unverified section.
 
@@ -54,19 +54,17 @@ navigating to "https://www.qantasmoney.com/credit-cards", waiting until "domcont
 - **discovery** · `apra_adis` — offdomain: URL not on allowlist
   - https://www.apra.gov.au/register-of-authorised-deposit-taking-institutions
 
-## 🟡 Non-material changes (4)
+## 🟡 Non-material changes (2)
 - **american_express** · `amex-qantas-premium` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/qantas-premium-card/>
-- **american_express** · `amex-explorer` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/explorer-credit-card/>
-- **american_express** · `amex-platinum-edge` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/platinum-edge-credit-card/>
-- **american_express** · `amex-essential` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/essential-rewards-credit-card/>
+- **american_express** · `amex-velocity-escape` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/velocity-escape-plus-card/>
 
 ## 🔎 Discovery — new ADIs to review (0)
 
 _None._
 
-## ✅ Verified, no change (28)
+## ✅ Verified, no change (30)
 
-_28 of 53 targets verified unchanged. 14 could not be verified (above)._
+_30 of 53 targets verified unchanged. 14 could not be verified (above)._
 
 ---
 _BankWatch monitors official bank domains only. General information, not financial advice._
