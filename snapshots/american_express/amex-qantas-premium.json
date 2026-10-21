@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-20T23:09:29Z",
+  "captured_at": "2026-10-21T23:14:21Z",
   "content_hash": "ce88394909091959ba0150296d47b758cad4e8cdc8f1b516e5269d1bbfacbb33",
   "fields": {
     "annual_fee": {
@@ -51,11 +51,6 @@
       "hash": "e01fef865a82c16d63e60d98e80b664cb0c8758e469c834bed6fdcf46d16f7da",
       "is_terms": true,
       "label": "Qantas Club Invitation Conditions"
-    },
-    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/au_KFS_Qantas.pdf": {
-      "hash": "0f9f300857ed19491fd0c2f3ba2cbb42cbddb88cc3fbdfedf130d5dd58b76327",
-      "is_terms": true,
-      "label": "Key Facts Sheet"
     }
   },
   "target_id": "amex-qantas-premium",

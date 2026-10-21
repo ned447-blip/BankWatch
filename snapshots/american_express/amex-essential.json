@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-20T23:13:10Z",
+  "captured_at": "2026-10-21T23:18:03Z",
   "content_hash": "a54aa179b9e8b36758e52e63c1eaff98cda0d931d9128f3ebea9d69293f812f1",
   "fields": {
     "annual_fee": {
@@ -37,16 +37,6 @@
   },
   "issuer_key": "american_express",
   "pdfs": {
-    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/TargetMarketDetermination_AmexEssentialRewards.pdf": {
-      "hash": "1ebc69e5f98a642739b0ec6c403cba0db9943a3ba7c7e5426db0e19b4c1102a8",
-      "is_terms": false,
-      "label": "Target Market Determination"
-    },
-    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/au_KFS_Prop.pdf": {
-      "hash": "ede3b8f0b9ff0b86bbac0688e260e820ec117c4e87100e2868795d7acd208ed8",
-      "is_terms": false,
-      "label": "here"
-    },
     "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/essentialinsurance.pdf": {
       "hash": "d2469bf5ff1789bd652438308cd91cf722e20d8d0ad4f5fc8596783efd37407e",
       "is_terms": true,
