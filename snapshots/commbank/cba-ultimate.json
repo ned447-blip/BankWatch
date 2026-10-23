@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-10-22T23:40:49Z",
-  "content_hash": "05d0d32e1308450a9016339898dbe702bcecff2dfd6994522768df14e7eb21ac",
+  "captured_at": "2026-10-23T23:27:12Z",
+  "content_hash": "e32eaa7a6e974f25b575a6c71848cbf5acea8624f7300e40d8dfe4005d997ba6",
   "fields": {
     "annual_fee": {
       "snippet": "",
@@ -38,12 +38,12 @@
   "issuer_key": "commbank",
   "pdfs": {
     "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/ADB1682.pdf": {
-      "hash": "f279035ba7d59fce9d55ec066acc5a7f2fb5ea4ea7aee983a6beeaa9c02cb337",
+      "hash": "2dc1008ecde639a43c8ec3100c5a512c03276e8c17eacc5b21678611f58e7823",
       "is_terms": true,
       "label": "standard fees and charges"
     },
     "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/cc-keyfacts.pdf": {
-      "hash": "11c3f0a974e56c2e342cf3f4d53d20669e834e847a1e3fe69407825c97ee4470",
+      "hash": "9b30c1d1b45e18e26a0776ece1fe26c39682594e4128332d47db6e3b1d27bbab",
       "is_terms": true,
       "label": "key facts about our credit cards"
     }
