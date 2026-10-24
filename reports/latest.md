@@ -1,30 +1,20 @@
-# BankWatch — 2026-10-24
+# BankWatch — 2026-10-25
 
-_Run at 23:33 UTC · 53 targets checked · 2 material · 0 new · 14 unverified_
+_Run at 22:55 UTC · 53 targets checked · 0 material · 0 new · 13 unverified_
 
 > ⚠️ **This run has unverified checks — do not treat as “all clear”.** See the Unverified section.
 
-## 🔴 Material changes (2)
+## 🔴 Material changes (0)
 
-### commbank · `cba-smart`
-<https://www.commbank.com.au/credit-cards/smart.html>
-- **T&C PDF changed:** [key facts about our credit cards](https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/cc-keyfacts.pdf)
-- **T&C PDF changed:** [standard fees and charges](https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/ADB1682.pdf)
-
-### commbank · `cba-ultimate`
-<https://www.commbank.com.au/credit-cards/ultimate.html>
-- **T&C PDF changed:** [key facts about our credit cards](https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/cc-keyfacts.pdf)
-- **T&C PDF changed:** [standard fees and charges](https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/ADB1682.pdf)
+_None._
 
 ## 🆕 New products (0)
 
 _None._
 
-## ⚠️ Unverified — manual review needed (14)
+## ⚠️ Unverified — manual review needed (13)
 - **american_express** · `_listing` — blocked: Unexpected HTTP 404
   - https://www.americanexpress.com/en-au/credit-cards/
-- **anz** · `anz-rewards-black` — blocked: bot challenge detected
-  - https://www.anz.com.au/personal/credit-cards/rewards-black/
 - **qantas_money** · `qm-everyday` — blocked: Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.qantasmoney.com/credit-cards/everyday
 Call log:
 navigating to "https://www.qantasmoney.com/credit-cards/everyday", waiting until "domcontentloaded"
@@ -62,16 +52,17 @@ navigating to "https://www.qantasmoney.com/credit-cards", waiting until "domcont
 - **discovery** · `apra_adis` — offdomain: URL not on allowlist
   - https://www.apra.gov.au/register-of-authorised-deposit-taking-institutions
 
-## 🟡 Non-material changes (1)
-- **commbank** · `cba-awards` — page content changed, no tracked field moved. <https://www.commbank.com.au/credit-cards.html>
+## 🟡 Non-material changes (0)
+
+_None._
 
 ## 🔎 Discovery — new ADIs to review (0)
 
 _None._
 
-## ✅ Verified, no change (29)
+## ✅ Verified, no change (33)
 
-_29 of 53 targets verified unchanged. 14 could not be verified (above)._
+_33 of 53 targets verified unchanged. 13 could not be verified (above)._
 
 ---
 _BankWatch monitors official bank domains only. General information, not financial advice._
