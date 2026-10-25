@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-10-24T22:47:46Z",
-  "content_hash": "ec61277e391f9e8f1d43e4d43617c57e0f4bdd42967959157ff0aa7925c07537",
+  "captured_at": "2026-10-25T23:00:12Z",
+  "content_hash": "1e16578e820e1cf4fc8523c1159c1933083493cf22393915ec77c22650458fe3",
   "fields": {
     "annual_fee": {
       "snippet": "s also enjoy a $100 reduction in annual card fee (from $395 to $295) for the first year. view discl",
@@ -50,7 +50,7 @@
     "https://www.nab.com.au/content/dam/nab/documents/terms-and-conditions/banking/delayed-flight-lounge-pass-terms-and-conditions.pdf": {
       "hash": "24eecf61c0ffb9715659976708bc8e2185532df774deeefffb62ebff70740521",
       "is_terms": true,
-      "label": "Terms of Use (PDF, 83KB) , opens in new window"
+      "label": "Terms of Use (PDF, 86KB) , opens in new window"
     },
     "https://www.nab.com.au/content/dam/nab/documents/terms-and-conditions/banking/mobile-phone-protection-insurance-terms-and-conditions.pdf": {
       "hash": "80a745ae607fb6db42dd9e666c3e64717bcb589ae9872ed965d19dff26a2acc9",

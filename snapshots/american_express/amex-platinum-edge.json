@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-24T22:29:40Z",
+  "captured_at": "2026-10-25T22:42:57Z",
   "content_hash": "e46c494ce3fdef300d251801d1c0aea43a56875da625120210b21b9c4b5f4c64",
   "fields": {
     "annual_fee": {
@@ -41,6 +41,11 @@
       "hash": "e4377d45b3c5e91651dd13e22d730fe04fdb1ed7042c8141e468972577bb8a60",
       "is_terms": false,
       "label": "Target Market Determination"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/cardmember/platinum-edge-card/Platinum_Edge_Insurance.pdf": {
+      "hash": "252668d85dd3d8160b97a98db64823802052f2bc84778ad8f4852f9522539a41",
+      "is_terms": true,
+      "label": "American Express Platinum Edge Credit Card Insurance Terms and Conditions"
     }
   },
   "target_id": "amex-platinum-edge",
