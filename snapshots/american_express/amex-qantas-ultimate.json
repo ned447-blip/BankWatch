@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-25T22:39:17Z",
+  "captured_at": "2026-10-26T23:48:35Z",
   "content_hash": "3e4f5f8fa5641012431c78c0694202a118b931f330c59577dc2ca81f3db90b97",
   "fields": {
     "annual_fee": {
@@ -41,6 +41,11 @@
       "hash": "23b18fd0683b3e48ba9885a4eb232965d325c6ff4449aa955f37e6e8f6a754ba",
       "is_terms": false,
       "label": "Target Market Determination"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/au_KFS_Qantas.pdf": {
+      "hash": "0f9f300857ed19491fd0c2f3ba2cbb42cbddb88cc3fbdfedf130d5dd58b76327",
+      "is_terms": true,
+      "label": "Key Facts Sheet"
     }
   },
   "target_id": "amex-qantas-ultimate",

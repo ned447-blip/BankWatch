@@ -1,12 +1,14 @@
-# BankWatch — 2026-10-26
+# BankWatch — 2026-10-27
 
-_Run at 23:08 UTC · 53 targets checked · 0 material · 0 new · 14 unverified_
+_Run at 00:17 UTC · 53 targets checked · 1 material · 0 new · 14 unverified_
 
 > ⚠️ **This run has unverified checks — do not treat as “all clear”.** See the Unverified section.
 
-## 🔴 Material changes (0)
+## 🔴 Material changes (1)
 
-_None._
+### nab · `nab-rewards-signature`
+<https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/travel-card>
+- **T&C PDF changed:** [Terms of Use (PDF, 86KB) , opens in new window](https://www.nab.com.au/content/dam/nab/documents/terms-and-conditions/banking/delayed-flight-lounge-pass-terms-and-conditions.pdf)
 
 ## 🆕 New products (0)
 
@@ -54,8 +56,9 @@ navigating to "https://www.qantasmoney.com/credit-cards", waiting until "domcont
 - **discovery** · `apra_adis` — offdomain: URL not on allowlist
   - https://www.apra.gov.au/register-of-authorised-deposit-taking-institutions
 
-## 🟡 Non-material changes (1)
-- **nab** · `nab-rewards-signature` — page content changed, no tracked field moved. <https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/travel-card>
+## 🟡 Non-material changes (0)
+
+_None._
 
 ## 🔎 Discovery — new ADIs to review (0)
 
