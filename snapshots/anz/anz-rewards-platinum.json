@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-10-27T00:04:41Z",
-  "content_hash": "661a8e8f4f0a405375f2d4129a16de78705d43c00c1fa14d956f8d0a666bcc57",
+  "captured_at": "2026-10-27T23:59:55Z",
+  "content_hash": "0bf163f87c5172b2a40aa1b6a6d4e68613d53b2a917134f96d837a34c80b12e7",
   "fields": {
     "annual_fee": {
       "snippet": "",
@@ -63,7 +63,7 @@
       "label": "ANZ Platinum and Black Credit Card Complimentary Insurance booklet (PDF)"
     },
     "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/anz-rewards-program-terms-conditions.pdf": {
-      "hash": "615985c79152b6e2c5ea78ec902a709b015faca71b6fa6c731650c4ec49b393a",
+      "hash": "dceaffe1122e69ffd5fb749ccd7adb6bea616f8867c42f483eaae89fe4fd13c0",
       "is_terms": true,
       "label": "ANZ Rewards – Rewards Program Terms and Conditions (PDF)"
     },
@@ -73,7 +73,7 @@
       "label": "Apple Pay (PDF)"
     },
     "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/credit-card-fees-charges.pdf": {
-      "hash": "1d59b24e8f125ca3e58ba02727c9ea4edce833cae1a02e92a32d33185ea94d35",
+      "hash": "f5e4c487b62ee003d9b126ec2383056b8206bb028bce2345241966d1effb5eed",
       "is_terms": true,
       "label": "ANZ Consumer Credit Cards Fees and Charges (PDF)"
     },

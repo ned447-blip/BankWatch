@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-10-26T23:50:42Z",
-  "content_hash": "8f5a44449a1cd5a57f56b029bba8d7dbdaab6b49fe6b5401d67f15f5070f4b78",
+  "captured_at": "2026-10-27T23:46:05Z",
+  "content_hash": "94cf463d90f145b0639249bc74dc03f3b6861c6ade3245ccbc726b1056a19bcf",
   "fields": {
     "annual_fee": {
       "snippet": "s key information card type credit card annual fee $95 p.a interest rate 23.99% p.a. 2 interes",
@@ -44,8 +44,8 @@
     },
     "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/au_KFS_Velocity.pdf": {
       "hash": "776aebc61c99ae1985ff07a93d5073df785b088a32de8cd98c84c3ed27a7906f",
-      "is_terms": false,
-      "label": "here"
+      "is_terms": true,
+      "label": "Key Facts Sheet"
     }
   },
   "target_id": "amex-velocity-escape",
