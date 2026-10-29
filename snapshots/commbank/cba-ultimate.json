@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-10-28T00:05:58Z",
-  "content_hash": "e32eaa7a6e974f25b575a6c71848cbf5acea8624f7300e40d8dfe4005d997ba6",
+  "captured_at": "2026-10-29T00:24:46Z",
+  "content_hash": "e7c80a349202063ae74710fecfae59e0a64cd297f9273cf99b3f87015659fd7c",
   "fields": {
     "annual_fee": {
       "snippet": "",
@@ -38,7 +38,7 @@
   "issuer_key": "commbank",
   "pdfs": {
     "https://www.commbank.com.au/content/dam/commbank/personal/apply-online/download-printed-forms/ADB1682.pdf": {
-      "hash": "2dc1008ecde639a43c8ec3100c5a512c03276e8c17eacc5b21678611f58e7823",
+      "hash": "461065da192a61258a2468e2e28f68dd351c8f6b81f68aaa4363c8dc5b76d456",
       "is_terms": true,
       "label": "standard fees and charges"
     },

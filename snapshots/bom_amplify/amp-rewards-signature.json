@@ -1,18 +1,18 @@
 {
-  "captured_at": "2026-10-27T23:54:53Z",
-  "content_hash": "dbc1165d868e191405639d7846ae5c107ea193e97c31f23a5b69e58f7439e1b4",
+  "captured_at": "2026-10-29T00:12:29Z",
+  "content_hash": "c0e6ffe6c0df578e1e0dbb7e1a8e7f0fdde9d666c78e4f0c191a7b7d2116294a",
   "fields": {
     "annual_fee": {
       "snippet": "y insurances and much more. $295 annual card fee $75 annual amplify rewards program fee 23.9",
       "value": 75.0
     },
     "annual_fee_y1": {
-      "snippet": "fy points ^ — 100,000 rewards points in year 1 if you spend $12k+ on eligible purchases † and an extra",
-      "value": 12.0
+      "snippet": "us amplify points ^ — rewards points in year 1 if you spend $9k+ on eligible purchases † and an extra",
+      "value": 9.0
     },
     "bonus_points": {
-      "snippet": "er 200k bonus amplify points earn up to 200,000 bonus amplify points ^ — 100,000 rewards points in year 1 if",
-      "value": 200000.0
+      "snippet": "fer 90k bonus amplify points earn up to 90,000 bonus amplify points ^ — rewards points in year 1 if you spe",
+      "value": 90000.0
     },
     "cash_advance_rate": {
       "snippet": ".a. variable interest rate on purchases 23.99% p.a. variable cash advance interest rate $20 fee applied for each",
@@ -27,8 +27,8 @@
       "value": null
     },
     "min_spend_months": {
-      "snippet": "es on the amplify signature credit card within 12 months from card approval. these will be credi",
-      "value": 12.0
+      "snippet": "riable interest rate on purchases up to 45 days interest free on purchases 2 $15,000 mi",
+      "value": 2
     },
     "purchase_rate": {
       "snippet": "e 23.98% p.a. variable interest rate on purchases 23.99% p.a. variable cash advance interest rate $20",

@@ -1,18 +1,18 @@
 {
-  "captured_at": "2026-10-27T23:58:18Z",
-  "content_hash": "29a87dccc6dec02b2cb6dfa7ddf0170bd9b9d9a803a8185bb6e5bb82ee8c5f38",
+  "captured_at": "2026-10-29T00:15:53Z",
+  "content_hash": "e833ce4848606f2946c9b96c2ed9ede6fb3df63966cd72e21e91e74e0d4b0db2",
   "fields": {
     "annual_fee": {
       "snippet": "ts with eligible purchases. $175 annual card fee $125 annual qantas rewards program fee 23.98",
       "value": 125.0
     },
     "annual_fee_y1": {
-      "snippet": "ntas points ~ — 70,000 qantas points in year 1 if you spend $4k+ on eligible purchases † within 90 day",
-      "value": 4.0
+      "snippet": "in to apply for a $99 card fee for the first year (reverts to $175 p.a. thereafter) + . offer not availabl",
+      "value": 175.0
     },
     "bonus_points": {
-      "snippet": "fer 100k bonus qantas points earn up to 100,000 bonus qantas points ~ — 70,000 qantas points in year 1 if y",
-      "value": 100000.0
+      "snippet": "inum offer 30k bonus qantas points earn 30,000 bonus qantas points ~ if you spend $6k+ on eligible purchas",
+      "value": 30000.0
     },
     "cash_advance_rate": {
       "snippet": ".a. variable interest rate on purchases 23.99% p.a. variable cash advance interest rate $20 fee applied for each",
@@ -23,8 +23,8 @@
       "value": 45.0
     },
     "min_spend": {
-      "snippet": "— 70,000 qantas points in year 1 if you spend $4k+ on eligible purchases † within 90 days of new card approval and an extra",
-      "value": 4.0
+      "snippet": "arn 30,000 bonus qantas points ~ if you spend $6k+ on eligible purchases † within 90 days of new card approval. new cards o",
+      "value": 6.0
     },
     "min_spend_months": {
       "snippet": "riable interest rate on purchases up to 45 days interest free on purchases 2 $6,000 min",

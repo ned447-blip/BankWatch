@@ -1,18 +1,18 @@
 {
-  "captured_at": "2026-10-27T23:57:18Z",
-  "content_hash": "640700c37d204d99809d292cb12f347db2e9f1f74233f039f7d310403a4fc875",
+  "captured_at": "2026-10-29T00:14:53Z",
+  "content_hash": "d23aea0bded93e14b1981bca77be30f0e3a1b63fda5809bb4372577da268f458",
   "fields": {
     "annual_fee": {
       "snippet": "ounge passes and much more. $295 annual card fee $155 annual qantas rewards program fee 23.98",
       "value": 155.0
     },
     "annual_fee_y1": {
-      "snippet": "ntas points > — 90,000 qantas points in year 1 if you spend $6k+ on eligible purchases † within 90 day",
-      "value": 6.0
+      "snippet": "melbourne? sign in to apply for a $200 first year card fee (reverts to $295 p.a. thereafter) ~ . offer not availabl",
+      "value": 295.0
     },
     "bonus_points": {
-      "snippet": "fer 150k bonus qantas points earn up to 150,000 bonus qantas points > — 90,000 qantas points in year 1 if y",
-      "value": 150000.0
+      "snippet": "ture offer 60k bonus qantas points earn 60,000 bonus qantas points > if you spend $9k+ on eligible purchas",
+      "value": 60000.0
     },
     "cash_advance_rate": {
       "snippet": ".a. variable interest rate on purchases 23.99% p.a. variable cash advance interest rate $20 fee applied for each",
@@ -23,8 +23,8 @@
       "value": 45.0
     },
     "min_spend": {
-      "snippet": "— 90,000 qantas points in year 1 if you spend $6k+ on eligible purchases † within 90 days of new card approval and an extra",
-      "value": 6.0
+      "snippet": "arn 60,000 bonus qantas points > if you spend $9k+ on eligible purchases † within 90 days of new card approval. already wit",
+      "value": 9.0
     },
     "min_spend_months": {
       "snippet": "riable interest rate on purchases up to 45 days interest free on purchases 2 $15,000 mi",

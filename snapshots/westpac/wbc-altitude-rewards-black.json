@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-10-27T23:48:41Z",
-  "content_hash": "dd8b3a97f083e27d6c017cc5f3ed73bcf6ef18f40a20eb4d18712039f665150b",
+  "captured_at": "2026-10-29T00:05:14Z",
+  "content_hash": "d49ea7cf90d6a6e9ef21625a2ac044dd7e990f4c1579759da0562b0811b35314",
   "fields": {
     "annual_fee": {
       "snippet": "ts. [1] plus, a reduced $200 first year card fee (reverts to $295 p.a. thereafter) [2] see full offer det",
@@ -11,8 +11,8 @@
       "value": 295.0
     },
     "bonus_points": {
-      "snippet": "onths of new card approval and an extra 100,000 points with $12k+ spend on eligible purchases",
-      "value": 100000.0
+      "snippet": "days of new card approval and an extra 60,000 points with $9k+ spend on eligible purchases [",
+      "value": 60000.0
     },
     "cash_advance_rate": {
       "snippet": "able purchase rate 23.98% p.a. variable cash advance rate 23.99% p.a. minimum credit limit $6,000 minimum inc",
@@ -23,12 +23,12 @@
       "value": 45.0
     },
     "min_spend": {
-      "snippet": "100,000 rewards points in year 1 if you spend $12k+ on eligible purchases [4] within 12 months of new card approval and an ext",
-      "value": 12.0
+      "snippet": "90,000 rewards points in year 1 if you spend $9k+ on eligible purchases [4] within 90 days of new card approval and an extra",
+      "value": 9.0
     },
     "min_spend_months": {
-      "snippet": "u spend $12k+ on eligible purchases [4] within 12 months of new card approval and an extra 100,0",
-      "value": 12.0
+      "snippet": "d $9k+ on eligible purchases [4] within 90 days of new card approval and an extra 60,00",
+      "value": 3
     },
     "purchase_rate": {
       "snippet": "urchases. [4] new cards only . variable purchase rate 23.98% p.a. variable cash advance rate 23.99% p.a.",
@@ -47,10 +47,15 @@
       "is_terms": false,
       "label": "ID checklist to become a customer (PDF)"
     },
+    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/Flight_Delay_Access_Pass_Terms_Conditions.pdf": {
+      "hash": "c22f2a59bf379c898ce66cf41428904053a1edfc1d126a49a53431f97b8c3cd8",
+      "is_terms": true,
+      "label": "Terms and Conditions (PDF)"
+    },
     "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/WBC_Consumer_Credit_Card_Comp_Insurance_Allianz.pdf": {
       "hash": "f9050a45da069e7fd56474d8c78db11e82bf15c235589fba080431889452c9d5",
       "is_terms": false,
-      "label": "Westpac Credit Cards Complimentary Insurance Policy (PDF)"
+      "label": "Westpac Credit Cards Complimentary Insurance Policy Information Booklet (PDF)"
     },
     "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/WBC_Credit_Card_Domestic_Complimentary_Insurance_Policy_Information_Booklet.pdf": {
       "hash": "296e14c514e9e81f9b056414df654ed3031bee510328d2f56f29477c243d1c18",

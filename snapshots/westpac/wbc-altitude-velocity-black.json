@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-10-27T23:52:46Z",
-  "content_hash": "bc7b10aa6034e941e28e8992504e906aa8a31ec313d4d281347cf962246d697c",
+  "captured_at": "2026-10-29T00:10:05Z",
+  "content_hash": "c3ba9f5c5d73714200eedf3f0f0a1775a640a4532f97f9c2488fc7d3cab764ca",
   "fields": {
     "annual_fee": {
       "snippet": "n in to apply and get a $200 first year card fee (reverts to $295 p.a. thereafter) [2] . a $155 annual ve",
@@ -23,11 +23,11 @@
       "value": 45.0
     },
     "min_spend": {
-      "snippet": "90,000 velocity points in year 1 if you spend $6k+ on eligible purchases [3] within 90 days of new card approval and an extra",
-      "value": 6.0
+      "snippet": "90,000 velocity points in year 1 if you spend $9k+ on eligible purchases [3] within 90 days of new card approval and an extra",
+      "value": 9.0
     },
     "min_spend_months": {
-      "snippet": "d $6k+ on eligible purchases [3] within 90 days of new card approval and an extra 60,00",
+      "snippet": "d $9k+ on eligible purchases [3] within 90 days of new card approval and an extra 60,00",
       "value": 3
     },
     "purchase_rate": {
@@ -47,10 +47,15 @@
       "is_terms": false,
       "label": "ID checklist to become a customer (PDF)"
     },
+    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/Flight_Delay_Access_Pass_Terms_Conditions.pdf": {
+      "hash": "c22f2a59bf379c898ce66cf41428904053a1edfc1d126a49a53431f97b8c3cd8",
+      "is_terms": true,
+      "label": "Terms and Conditions (PDF)"
+    },
     "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/WBC_Consumer_Credit_Card_Comp_Insurance_Allianz.pdf": {
       "hash": "f9050a45da069e7fd56474d8c78db11e82bf15c235589fba080431889452c9d5",
       "is_terms": false,
-      "label": "Westpac Credit Cards Complimentary Insurance Policy (PDF)"
+      "label": "Westpac Credit Cards Complimentary Insurance Policy Information Booklet (PDF)"
     },
     "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/WBC_Credit_Card_Domestic_Complimentary_Insurance_Policy_Information_Booklet.pdf": {
       "hash": "296e14c514e9e81f9b056414df654ed3031bee510328d2f56f29477c243d1c18",
