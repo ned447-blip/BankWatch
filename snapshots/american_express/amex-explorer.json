@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-29T00:03:19Z",
+  "captured_at": "2026-10-29T23:57:52Z",
   "content_hash": "b948ceb43d8e8b5e0a7f33a02fcc18ec3cfe026374eb2809cccdb0b3303e530a",
   "fields": {
     "annual_fee": {
@@ -36,7 +36,18 @@
     }
   },
   "issuer_key": "american_express",
-  "pdfs": {},
+  "pdfs": {
+    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/TargetMarketDetermination_Explorer.pdf": {
+      "hash": "801063b020497906dd57f23339ea5fc48c22a9304e8b898b04a994d6c47654d2",
+      "is_terms": false,
+      "label": "Target Market Determination"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/au_KFS_Prop.pdf": {
+      "hash": "ede3b8f0b9ff0b86bbac0688e260e820ec117c4e87100e2868795d7acd208ed8",
+      "is_terms": true,
+      "label": "Key Facts Sheet"
+    }
+  },
   "target_id": "amex-explorer",
   "url": "https://www.americanexpress.com/en-au/credit-cards/explorer-credit-card/"
 }
