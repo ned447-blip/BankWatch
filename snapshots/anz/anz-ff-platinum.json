@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-30T00:14:35Z",
+  "captured_at": "2026-10-31T00:01:23Z",
   "content_hash": "0bf163f87c5172b2a40aa1b6a6d4e68613d53b2a917134f96d837a34c80b12e7",
   "fields": {
     "annual_fee": {
@@ -68,7 +68,7 @@
       "label": "ANZ Rewards – Rewards Program Terms and Conditions booklet (PDF)"
     },
     "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/applepay-tcs.pdf": {
-      "hash": "7f0f6015a2d241af20ae76386e53a90a6c509dd4fe8a4b2012ef3affee31002c",
+      "hash": "bff74a450e1b4137182bc79347884a5eaf09ee4a5514f782b76032ba74886a55",
       "is_terms": false,
       "label": "Apple Pay (PDF)"
     },
@@ -88,7 +88,7 @@
       "label": "Fitbit Pay (PDF)"
     },
     "https://www.anz.com.au/content/dam/anzcomau/documents/pdf/googlepay-tcs.pdf": {
-      "hash": "13a4f34b5aceed83f22b5d15751182cea9f97e8fd24d8b793dc272c611f13282",
+      "hash": "46b1a2617a16dc65ae5e0b897061a139a42d5a7f9c6102f24a6649b87ed5ef32",
       "is_terms": false,
       "label": "Google Pay (PDF)"
     },

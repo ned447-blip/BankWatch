@@ -1,22 +1,38 @@
-# BankWatch — 2026-10-30
+# BankWatch — 2026-10-31
 
-_Run at 00:24 UTC · 53 targets checked · 0 material · 0 new · 14 unverified_
+_Run at 00:11 UTC · 53 targets checked · 4 material · 0 new · 13 unverified_
 
 > ⚠️ **This run has unverified checks — do not treat as “all clear”.** See the Unverified section.
 
-## 🔴 Material changes (0)
+## 🔴 Material changes (4)
 
-_None._
+### anz · `anz-rewards-black`
+<https://www.anz.com.au/personal/credit-cards/rewards-black/>
+- **T&C PDF changed:** [Apple Pay (PDF)](https://www.anz.com.au/content/dam/anzcomau/documents/pdf/applepay-tcs.pdf)
+- **T&C PDF changed:** [Google Pay (PDF)](https://www.anz.com.au/content/dam/anzcomau/documents/pdf/googlepay-tcs.pdf)
+
+### anz · `anz-rewards-platinum`
+<https://www.anz.com.au/personal/credit-cards/rewards-platinum/>
+- **T&C PDF changed:** [Apple Pay (PDF)](https://www.anz.com.au/content/dam/anzcomau/documents/pdf/applepay-tcs.pdf)
+- **T&C PDF changed:** [Google Pay (PDF)](https://www.anz.com.au/content/dam/anzcomau/documents/pdf/googlepay-tcs.pdf)
+
+### anz · `anz-ff-black`
+<https://www.anz.com.au/personal/credit-cards/frequent-flyer-black/>
+- **T&C PDF changed:** [Apple Pay (PDF)](https://www.anz.com.au/content/dam/anzcomau/documents/pdf/applepay-tcs.pdf)
+- **T&C PDF changed:** [Google Pay (PDF)](https://www.anz.com.au/content/dam/anzcomau/documents/pdf/googlepay-tcs.pdf)
+
+### anz · `anz-ff-platinum`
+<https://www.anz.com.au/personal/credit-cards/frequent-flyer-platinum/>
+- **T&C PDF changed:** [Apple Pay (PDF)](https://www.anz.com.au/content/dam/anzcomau/documents/pdf/applepay-tcs.pdf)
+- **T&C PDF changed:** [Google Pay (PDF)](https://www.anz.com.au/content/dam/anzcomau/documents/pdf/googlepay-tcs.pdf)
 
 ## 🆕 New products (0)
 
 _None._
 
-## ⚠️ Unverified — manual review needed (14)
+## ⚠️ Unverified — manual review needed (13)
 - **american_express** · `_listing` — blocked: Unexpected HTTP 404
   - https://www.americanexpress.com/en-au/credit-cards/
-- **anz** · `anz-rewards-black` — blocked: bot challenge detected
-  - https://www.anz.com.au/personal/credit-cards/rewards-black/
 - **qantas_money** · `qm-everyday` — blocked: Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.qantasmoney.com/credit-cards/everyday
 Call log:
 navigating to "https://www.qantasmoney.com/credit-cards/everyday", waiting until "domcontentloaded"
@@ -54,23 +70,16 @@ navigating to "https://www.qantasmoney.com/credit-cards", waiting until "domcont
 - **discovery** · `apra_adis` — offdomain: URL not on allowlist
   - https://www.apra.gov.au/register-of-authorised-deposit-taking-institutions
 
-## 🟡 Non-material changes (8)
-- **american_express** · `amex-qantas-ultimate` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/qantas-ultimate-card/>
-- **american_express** · `amex-qantas-premium` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/qantas-premium-card/>
-- **american_express** · `amex-qantas-discovery` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/qantas-discovery-card/>
-- **american_express** · `amex-velocity-platinum` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/velocity-platinum-card/>
-- **american_express** · `amex-platinum-edge` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/platinum-edge-credit-card/>
-- **american_express** · `amex-essential` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/essential-rewards-credit-card/>
-- **westpac** · `wbc-altitude-velocity-black` — page content changed, no tracked field moved. <https://www.westpac.com.au/credit-cards/reward/altitude-velocity-black>
-- **westpac** · `wbc-altitude-velocity-plat` — page content changed, no tracked field moved. <https://www.westpac.com.au/credit-cards/reward/altitude-velocity-platinum>
+## 🟡 Non-material changes (1)
+- **nab** · `nab-rewards-signature` — page content changed, no tracked field moved. <https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/travel-card>
 
 ## 🔎 Discovery — new ADIs to review (0)
 
 _None._
 
-## ✅ Verified, no change (24)
+## ✅ Verified, no change (28)
 
-_24 of 53 targets verified unchanged. 14 could not be verified (above)._
+_28 of 53 targets verified unchanged. 13 could not be verified (above)._
 
 ---
 _BankWatch monitors official bank domains only. General information, not financial advice._
