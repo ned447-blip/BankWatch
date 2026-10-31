@@ -1,30 +1,12 @@
-# BankWatch — 2026-10-31
+# BankWatch — 2026-11-01
 
-_Run at 00:11 UTC · 53 targets checked · 4 material · 0 new · 13 unverified_
+_Run at 23:49 UTC · 53 targets checked · 0 material · 0 new · 13 unverified_
 
 > ⚠️ **This run has unverified checks — do not treat as “all clear”.** See the Unverified section.
 
-## 🔴 Material changes (4)
+## 🔴 Material changes (0)
 
-### anz · `anz-rewards-black`
-<https://www.anz.com.au/personal/credit-cards/rewards-black/>
-- **T&C PDF changed:** [Apple Pay (PDF)](https://www.anz.com.au/content/dam/anzcomau/documents/pdf/applepay-tcs.pdf)
-- **T&C PDF changed:** [Google Pay (PDF)](https://www.anz.com.au/content/dam/anzcomau/documents/pdf/googlepay-tcs.pdf)
-
-### anz · `anz-rewards-platinum`
-<https://www.anz.com.au/personal/credit-cards/rewards-platinum/>
-- **T&C PDF changed:** [Apple Pay (PDF)](https://www.anz.com.au/content/dam/anzcomau/documents/pdf/applepay-tcs.pdf)
-- **T&C PDF changed:** [Google Pay (PDF)](https://www.anz.com.au/content/dam/anzcomau/documents/pdf/googlepay-tcs.pdf)
-
-### anz · `anz-ff-black`
-<https://www.anz.com.au/personal/credit-cards/frequent-flyer-black/>
-- **T&C PDF changed:** [Apple Pay (PDF)](https://www.anz.com.au/content/dam/anzcomau/documents/pdf/applepay-tcs.pdf)
-- **T&C PDF changed:** [Google Pay (PDF)](https://www.anz.com.au/content/dam/anzcomau/documents/pdf/googlepay-tcs.pdf)
-
-### anz · `anz-ff-platinum`
-<https://www.anz.com.au/personal/credit-cards/frequent-flyer-platinum/>
-- **T&C PDF changed:** [Apple Pay (PDF)](https://www.anz.com.au/content/dam/anzcomau/documents/pdf/applepay-tcs.pdf)
-- **T&C PDF changed:** [Google Pay (PDF)](https://www.anz.com.au/content/dam/anzcomau/documents/pdf/googlepay-tcs.pdf)
+_None._
 
 ## 🆕 New products (0)
 
@@ -70,16 +52,17 @@ navigating to "https://www.qantasmoney.com/credit-cards", waiting until "domcont
 - **discovery** · `apra_adis` — offdomain: URL not on allowlist
   - https://www.apra.gov.au/register-of-authorised-deposit-taking-institutions
 
-## 🟡 Non-material changes (1)
-- **nab** · `nab-rewards-signature` — page content changed, no tracked field moved. <https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/travel-card>
+## 🟡 Non-material changes (0)
+
+_None._
 
 ## 🔎 Discovery — new ADIs to review (0)
 
 _None._
 
-## ✅ Verified, no change (28)
+## ✅ Verified, no change (33)
 
-_28 of 53 targets verified unchanged. 13 could not be verified (above)._
+_33 of 53 targets verified unchanged. 13 could not be verified (above)._
 
 ---
 _BankWatch monitors official bank domains only. General information, not financial advice._
