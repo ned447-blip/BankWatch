@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-10-31T23:19:10Z",
+  "captured_at": "2026-11-01T23:31:46Z",
   "content_hash": "4f2528810be3a44af6b19646ebaae18298e8ede84af5643e0092c0a0152b7fb2",
   "fields": {
     "annual_fee": {
@@ -41,6 +41,11 @@
       "hash": "23b18fd0683b3e48ba9885a4eb232965d325c6ff4449aa955f37e6e8f6a754ba",
       "is_terms": false,
       "label": "Target Market Determination"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/pds_qantas-ultimate-benefits-tncs.pdf": {
+      "hash": "9f71fc2772faa973fb313df0e560e75abda22699abd3f8ddadba10a4266be5df",
+      "is_terms": true,
+      "label": "Qantas Club Lounge Invitation and Qantas Travel Credit Conditions"
     }
   },
   "target_id": "amex-qantas-ultimate",

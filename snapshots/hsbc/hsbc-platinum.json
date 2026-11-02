@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-10-31T23:45:33Z",
-  "content_hash": "0fbbfbc54033d4100ba07c8ec335eaf2c278b6e90cda3b8590cab41cd30814c3",
+  "captured_at": "2026-11-01T23:57:25Z",
+  "content_hash": "cfd5f68cbb8cbf3cd461dde79aad09c9ebaa1e66590cfa9a8be20b9893598f4f",
   "fields": {
     "annual_fee": {
       "snippet": "fantastic rewards and privileges. rates annual fee $0 in the first year ($199 afterwards) 5 f",
@@ -40,7 +40,7 @@
     "https://www.hsbc.com.au/content/dam/hsbc/au/docs/credit-cards/platinum/airport-lounge-tc.pdf": {
       "hash": "1143f76d446049d320cb1ceac52c32e01cff701e75a108404f5fb4daaadf78ca",
       "is_terms": true,
-      "label": "Terms and conditions (PDF) Terms and conditions (PDF) This link will open in a new window"
+      "label": "Terms and conditions (PDF)"
     },
     "https://www.hsbc.com.au/content/dam/hsbc/au/docs/credit-cards/terms/key-facts-sheet.pdf": {
       "hash": "0a68dcce964a427eea547189962e4778085bee3c4b3ff95077b1ada0af2e5512",
@@ -50,12 +50,12 @@
     "https://www.hsbc.com.au/content/dam/hsbc/au/docs/pdf/instant-saving-tc.pdf": {
       "hash": "c5e6b22cd66174b78e1246cc92568e3ce78664b64d1110deb839605f83279f1a",
       "is_terms": true,
-      "label": "HSBC Instant Savings terms and conditions (PDF) (this link will open in a new window) HSBC Instant Savings terms and con"
+      "label": "HSBC Instant Savings terms and conditions (PDF) (this link will open in a new window)"
     },
     "https://www.hsbc.com.au/content/dam/hsbc/au/docs/pdf/rewards_terms.pdf": {
       "hash": "dc81e85d9406f274365805f216c3bda2f499a962d5b456fb7740ca326db44037",
       "is_terms": true,
-      "label": "HSBC's Credit Card Rewards Plus Program Terms and Conditions (PDF) HSBC's Credit Card Rewards Plus Program Terms and Con"
+      "label": "HSBC's Credit Card Rewards Plus Program Terms and Conditions (PDF)"
     }
   },
   "target_id": "hsbc-platinum",
