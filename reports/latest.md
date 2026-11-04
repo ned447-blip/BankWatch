@@ -1,6 +1,6 @@
-# BankWatch — 2026-11-03
+# BankWatch — 2026-11-04
 
-_Run at 02:43 UTC · 53 targets checked · 0 material · 0 new · 14 unverified_
+_Run at 01:05 UTC · 53 targets checked · 0 material · 0 new · 13 unverified_
 
 > ⚠️ **This run has unverified checks — do not treat as “all clear”.** See the Unverified section.
 
@@ -12,11 +12,9 @@ _None._
 
 _None._
 
-## ⚠️ Unverified — manual review needed (14)
+## ⚠️ Unverified — manual review needed (13)
 - **american_express** · `_listing` — blocked: Unexpected HTTP 404
   - https://www.americanexpress.com/en-au/credit-cards/
-- **anz** · `anz-rewards-black` — blocked: bot challenge detected
-  - https://www.anz.com.au/personal/credit-cards/rewards-black/
 - **qantas_money** · `qm-everyday` — blocked: Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.qantasmoney.com/credit-cards/everyday
 Call log:
 navigating to "https://www.qantasmoney.com/credit-cards/everyday", waiting until "domcontentloaded"
@@ -54,18 +52,16 @@ navigating to "https://www.qantasmoney.com/credit-cards", waiting until "domcont
 - **discovery** · `apra_adis` — offdomain: URL not on allowlist
   - https://www.apra.gov.au/register-of-authorised-deposit-taking-institutions
 
-## 🟡 Non-material changes (3)
+## 🟡 Non-material changes (1)
 - **nab** · `nab-rewards-signature` — page content changed, no tracked field moved. <https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/travel-card>
-- **hsbc** · `hsbc-platinum-qantas` — page content changed, no tracked field moved. <https://www.hsbc.com.au/credit-cards/products/platinum-qantas/>
-- **hsbc** · `hsbc-platinum` — page content changed, no tracked field moved. <https://www.hsbc.com.au/credit-cards/products/platinum/>
 
 ## 🔎 Discovery — new ADIs to review (0)
 
 _None._
 
-## ✅ Verified, no change (29)
+## ✅ Verified, no change (32)
 
-_29 of 53 targets verified unchanged. 14 could not be verified (above)._
+_32 of 53 targets verified unchanged. 13 could not be verified (above)._
 
 ---
 _BankWatch monitors official bank domains only. General information, not financial advice._
