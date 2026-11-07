@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-11-06T00:59:24Z",
+  "captured_at": "2026-11-07T00:06:31Z",
   "content_hash": "94cf463d90f145b0639249bc74dc03f3b6861c6ade3245ccbc726b1056a19bcf",
   "fields": {
     "annual_fee": {
@@ -46,11 +46,6 @@
       "hash": "7b70f6a25b19e91bdfb32be75b10345d020738e3ecdb97d78dfdc20bd3c00982",
       "is_terms": true,
       "label": "Insurances Terms and Conditions"
-    },
-    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/Credit_Card_Conditions.pdf": {
-      "hash": "118cdbc6142a36d0b38f0bafe8940ea301b369808b47ef82671adeb2135d9031",
-      "is_terms": true,
-      "label": "Card Terms & Conditions"
     },
     "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/au_KFS_Velocity.pdf": {
       "hash": "776aebc61c99ae1985ff07a93d5073df785b088a32de8cd98c84c3ed27a7906f",
