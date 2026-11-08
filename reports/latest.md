@@ -1,6 +1,6 @@
-# BankWatch — 2026-11-07
+# BankWatch — 2026-11-08
 
-_Run at 00:34 UTC · 53 targets checked · 0 material · 0 new · 14 unverified_
+_Run at 00:07 UTC · 53 targets checked · 0 material · 0 new · 14 unverified_
 
 > ⚠️ **This run has unverified checks — do not treat as “all clear”.** See the Unverified section.
 
