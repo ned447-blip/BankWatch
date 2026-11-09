@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-11-07T23:37:23Z",
+  "captured_at": "2026-11-08T23:40:03Z",
   "content_hash": "4f2528810be3a44af6b19646ebaae18298e8ede84af5643e0092c0a0152b7fb2",
   "fields": {
     "annual_fee": {
@@ -42,15 +42,15 @@
       "is_terms": false,
       "label": "Target Market Determination"
     },
-    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/pds_qantas-ultimate-benefits-tncs.pdf": {
-      "hash": "9f71fc2772faa973fb313df0e560e75abda22699abd3f8ddadba10a4266be5df",
+    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/Credit_Card_Conditions.pdf": {
+      "hash": "118cdbc6142a36d0b38f0bafe8940ea301b369808b47ef82671adeb2135d9031",
       "is_terms": true,
-      "label": "Qantas Club Lounge Invitation and Qantas Travel Credit Conditions"
+      "label": "Card Terms & Conditions"
     },
-    "https://www.americanexpress.com/content/dam/amex/au/pdfs/credit-cards/pds_ultimatecard.pdf": {
-      "hash": "3b5f807e979d91347fe4bdb5e06486fcd52ac5cdb308362761741fabf170570d",
+    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/au_KFS_Qantas.pdf": {
+      "hash": "0f9f300857ed19491fd0c2f3ba2cbb42cbddb88cc3fbdfedf130d5dd58b76327",
       "is_terms": true,
-      "label": "Insurances Terms and Conditions"
+      "label": "Key Facts Sheet"
     }
   },
   "target_id": "amex-qantas-ultimate",
