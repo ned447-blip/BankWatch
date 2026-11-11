@@ -1,6 +1,6 @@
-# BankWatch — 2026-11-10
+# BankWatch — 2026-11-11
 
-_Run at 03:12 UTC · 53 targets checked · 0 material · 0 new · 13 unverified_
+_Run at 01:07 UTC · 53 targets checked · 0 material · 0 new · 13 unverified_
 
 > ⚠️ **This run has unverified checks — do not treat as “all clear”.** See the Unverified section.
 
@@ -52,17 +52,16 @@ navigating to "https://www.qantasmoney.com/credit-cards", waiting until "domcont
 - **discovery** · `apra_adis` — offdomain: URL not on allowlist
   - https://www.apra.gov.au/register-of-authorised-deposit-taking-institutions
 
-## 🟡 Non-material changes (2)
+## 🟡 Non-material changes (1)
 - **nab** · `nab-rewards-signature` — page content changed, no tracked field moved. <https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/travel-card>
-- **nab** · `nab-rewards-platinum` — page content changed, no tracked field moved. <https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/rewards-card>
 
 ## 🔎 Discovery — new ADIs to review (0)
 
 _None._
 
-## ✅ Verified, no change (31)
+## ✅ Verified, no change (32)
 
-_31 of 53 targets verified unchanged. 13 could not be verified (above)._
+_32 of 53 targets verified unchanged. 13 could not be verified (above)._
 
 ---
 _BankWatch monitors official bank domains only. General information, not financial advice._
