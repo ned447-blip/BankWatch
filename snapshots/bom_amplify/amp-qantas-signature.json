@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-11-11T00:50:38Z",
+  "captured_at": "2026-11-12T02:07:35Z",
   "content_hash": "d23aea0bded93e14b1981bca77be30f0e3a1b63fda5809bb4372577da268f458",
   "fields": {
     "annual_fee": {
@@ -66,6 +66,11 @@
       "hash": "594a23bd21ffadcb5d0e0b1d0003849c484c6fde55496871d64ecf34ce69b5bc",
       "is_terms": true,
       "label": "PDF-file Credit Card Terms and Conditions (PDF 268KB)"
+    },
+    "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/ways-to-pay/apple-pay.pdf": {
+      "hash": "aef0749c5da3d3dc0c4e1a924ad09849173aa8a6e02a679fe435e5de3e251e7f",
+      "is_terms": true,
+      "label": "PDF-file Apple Pay Terms and Conditions (PDF 382KB)"
     },
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/ways-to-pay/google-pay-bank-of-melbourne.PDF": {
       "hash": "b465e873c448badeb4b1dc8395a063d057d3f282dc87df97a4cc8ea1f364ba4b",

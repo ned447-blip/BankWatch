@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-11-11T00:40:43Z",
+  "captured_at": "2026-11-12T01:57:35Z",
   "content_hash": "ca8cf62ec68961960f17afca87d15949a6f8e3c51381522d17d55b43179ab610",
   "fields": {
     "annual_fee": {
@@ -41,6 +41,11 @@
       "hash": "1ebc69e5f98a642739b0ec6c403cba0db9943a3ba7c7e5426db0e19b4c1102a8",
       "is_terms": false,
       "label": "Target Market Determination"
+    },
+    "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/Credit_Card_Conditions.pdf": {
+      "hash": "118cdbc6142a36d0b38f0bafe8940ea301b369808b47ef82671adeb2135d9031",
+      "is_terms": true,
+      "label": "Card Terms and Conditions"
     },
     "https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/au_KFS_Prop.pdf": {
       "hash": "ede3b8f0b9ff0b86bbac0688e260e820ec117c4e87100e2868795d7acd208ed8",
