@@ -1,20 +1,30 @@
-# BankWatch — 2026-11-12
+# BankWatch — 2026-11-13
 
-_Run at 02:24 UTC · 53 targets checked · 0 material · 0 new · 13 unverified_
+_Run at 01:30 UTC · 53 targets checked · 2 material · 0 new · 14 unverified_
 
 > ⚠️ **This run has unverified checks — do not treat as “all clear”.** See the Unverified section.
 
-## 🔴 Material changes (0)
+## 🔴 Material changes (2)
 
-_None._
+### bom_amplify · `amp-rewards-signature`
+<https://www.bankofmelbourne.com.au/personal/credit-cards/rewards/amplify-rewards-signature>
+- **First-year fee:** 9 → **199**
+  - context: “…eligible purchases † — plus, a reduced first year card fee of $199 (reverts to $295 p.a. thereafter) + . a…”
+
+### bom_amplify · `amp-rewards-platinum`
+<https://www.bankofmelbourne.com.au/personal/credit-cards/rewards/amplify-rewards-platinum>
+- **First-year fee:** 6 → **175**
+  - context: “…days of new card approval. plus, a $99 first year card fee (reverts to $175 p.a. thereafter) ** . already with bank…”
 
 ## 🆕 New products (0)
 
 _None._
 
-## ⚠️ Unverified — manual review needed (13)
+## ⚠️ Unverified — manual review needed (14)
 - **american_express** · `_listing` — blocked: Unexpected HTTP 404
   - https://www.americanexpress.com/en-au/credit-cards/
+- **anz** · `anz-rewards-black` — blocked: bot challenge detected
+  - https://www.anz.com.au/personal/credit-cards/rewards-black/
 - **qantas_money** · `qm-everyday` — blocked: Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.qantasmoney.com/credit-cards/everyday
 Call log:
 navigating to "https://www.qantasmoney.com/credit-cards/everyday", waiting until "domcontentloaded"
@@ -52,18 +62,17 @@ navigating to "https://www.qantasmoney.com/credit-cards", waiting until "domcont
 - **discovery** · `apra_adis` — offdomain: URL not on allowlist
   - https://www.apra.gov.au/register-of-authorised-deposit-taking-institutions
 
-## 🟡 Non-material changes (3)
-- **american_express** · `amex-velocity-escape` — page content changed, no tracked field moved. <https://www.americanexpress.com/en-au/credit-cards/velocity-escape-plus-card/>
-- **bom_amplify** · `amp-rewards-signature` — page content changed, no tracked field moved. <https://www.bankofmelbourne.com.au/personal/credit-cards/rewards/amplify-rewards-signature>
-- **bom_amplify** · `amp-rewards-platinum` — page content changed, no tracked field moved. <https://www.bankofmelbourne.com.au/personal/credit-cards/rewards/amplify-rewards-platinum>
+## 🟡 Non-material changes (2)
+- **bom_amplify** · `amp-qantas-signature` — page content changed, no tracked field moved. <https://www.bankofmelbourne.com.au/personal/credit-cards/frequent-flyer/amplify-signature>
+- **bom_amplify** · `amp-qantas-platinum` — page content changed, no tracked field moved. <https://www.bankofmelbourne.com.au/personal/credit-cards/frequent-flyer/amplify-platinum>
 
 ## 🔎 Discovery — new ADIs to review (0)
 
 _None._
 
-## ✅ Verified, no change (30)
+## ✅ Verified, no change (28)
 
-_30 of 53 targets verified unchanged. 13 could not be verified (above)._
+_28 of 53 targets verified unchanged. 14 could not be verified (above)._
 
 ---
 _BankWatch monitors official bank domains only. General information, not financial advice._

@@ -1,17 +1,17 @@
 {
-  "captured_at": "2026-11-12T02:05:12Z",
-  "content_hash": "3d56c9d6b9d244314672db1869529b3b75b5b0f2ea012c1ca7d4a5e070951a2b",
+  "captured_at": "2026-11-13T01:12:16Z",
+  "content_hash": "3999b2708e92baa77fe26acf0fc857f88b06c179d5f42b9016722afc8d2e7ac9",
   "fields": {
     "annual_fee": {
       "snippet": "y insurances and much more. $295 annual card fee $75 annual amplify rewards program fee 23.9",
       "value": 75.0
     },
     "annual_fee_y1": {
-      "snippet": "us amplify points ^ — rewards points in year 1 if you spend $9k+ on eligible purchases † and an extra",
-      "value": 9.0
+      "snippet": "eligible purchases † — plus, a reduced first year card fee of $199 (reverts to $295 p.a. thereafter) + . a",
+      "value": 199.0
     },
     "bonus_points": {
-      "snippet": "fer 90k bonus amplify points earn up to 90,000 bonus amplify points ^ — rewards points in year 1 if you spe",
+      "snippet": "fer 90k bonus amplify points earn up to 90,000 bonus amplify points ^ with $9k+ spend on eligible purchases",
       "value": 90000.0
     },
     "cash_advance_rate": {

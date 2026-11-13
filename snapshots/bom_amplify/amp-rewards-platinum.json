@@ -1,17 +1,17 @@
 {
-  "captured_at": "2026-11-12T02:06:22Z",
-  "content_hash": "6d9a75a84d57ad60bdb1ce446faa4da0c764ea69e4053239cb521db6c874da71",
+  "captured_at": "2026-11-13T01:13:29Z",
+  "content_hash": "b5deaf3f9a594d85f17e9aa124ed12cfa1b32377c2940587b978d2284bc488d9",
   "fields": {
     "annual_fee": {
       "snippet": "f complimentary insurances. $175 annual card fee $75 annual amplify rewards program fee 23.9",
       "value": 75.0
     },
     "annual_fee_y1": {
-      "snippet": "us amplify points * — amplify points in year 1 if you spend $6k+ on eligible purchases † within 90 day",
-      "value": 6.0
+      "snippet": "days of new card approval. plus, a $99 first year card fee (reverts to $175 p.a. thereafter) ** . already with bank",
+      "value": 175.0
     },
     "bonus_points": {
-      "snippet": "fer 50k bonus amplify points earn up to 50,000 bonus amplify points * — amplify points in year 1 if you spe",
+      "snippet": "fer 50k bonus amplify points earn up to 50,000 bonus amplify points * with $6k+ on eligible purchases † wit",
       "value": 50000.0
     },
     "cash_advance_rate": {
@@ -23,7 +23,7 @@
       "value": 45.0
     },
     "min_spend": {
-      "snippet": "nts * — amplify points in year 1 if you spend $6k+ on eligible purchases † within 90 days of new card approval and an extra",
+      "snippet": "will receive 50,000 bonus points if you spend $6k or more on eligible purchases within 90 days of card approval. these will be c",
       "value": 6.0
     },
     "min_spend_months": {

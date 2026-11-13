@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-11-12T02:02:47Z",
+  "captured_at": "2026-11-13T01:09:52Z",
   "content_hash": "c799a04aceea1fa8ca002f7f89610aaa38540e4667ff98079135517260cd4200",
   "fields": {
     "annual_fee": {
@@ -56,6 +56,11 @@
       "hash": "f9050a45da069e7fd56474d8c78db11e82bf15c235589fba080431889452c9d5",
       "is_terms": false,
       "label": "Westpac Credit Cards Complimentary Insurance Policy Information Booklet (PDF)"
+    },
+    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/WBC_Credit_Card_Domestic_Complimentary_Insurance_Policy_Information_Booklet.pdf": {
+      "hash": "296e14c514e9e81f9b056414df654ed3031bee510328d2f56f29477c243d1c18",
+      "is_terms": false,
+      "label": "Westpac Credit Card Domestic Complimentary Insurance Policy Information Booklet (PDF)"
     },
     "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/WBC_Credit_Card_International_Travel_Insurance_PDS.pdf": {
       "hash": "8784adbfd1ff52dbe0c431a8f65b2b40e72bfba065907a83ea68634a74f478f3",
