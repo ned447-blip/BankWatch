@@ -1,6 +1,6 @@
-# BankWatch — 2026-11-14
+# BankWatch — 2026-11-15
 
-_Run at 01:22 UTC · 53 targets checked · 0 material · 0 new · 13 unverified_
+_Run at 00:22 UTC · 53 targets checked · 0 material · 0 new · 13 unverified_
 
 > ⚠️ **This run has unverified checks — do not treat as “all clear”.** See the Unverified section.
 
@@ -52,9 +52,7 @@ navigating to "https://www.qantasmoney.com/credit-cards", waiting until "domcont
 - **discovery** · `apra_adis` — offdomain: URL not on allowlist
   - https://www.apra.gov.au/register-of-authorised-deposit-taking-institutions
 
-## 🟡 Non-material changes (4)
-- **bom_amplify** · `amp-rewards-signature` — page content changed, no tracked field moved. <https://www.bankofmelbourne.com.au/personal/credit-cards/rewards/amplify-rewards-signature>
-- **bom_amplify** · `amp-rewards-platinum` — page content changed, no tracked field moved. <https://www.bankofmelbourne.com.au/personal/credit-cards/rewards/amplify-rewards-platinum>
+## 🟡 Non-material changes (2)
 - **nab** · `nab-rewards-signature` — page content changed, no tracked field moved. <https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/travel-card>
 - **nab** · `nab-rewards-platinum` — page content changed, no tracked field moved. <https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/rewards-card>
 
@@ -62,9 +60,9 @@ navigating to "https://www.qantasmoney.com/credit-cards", waiting until "domcont
 
 _None._
 
-## ✅ Verified, no change (29)
+## ✅ Verified, no change (31)
 
-_29 of 53 targets verified unchanged. 13 could not be verified (above)._
+_31 of 53 targets verified unchanged. 13 could not be verified (above)._
 
 ---
 _BankWatch monitors official bank domains only. General information, not financial advice._
