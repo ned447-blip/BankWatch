@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-11-17T03:02:13Z",
+  "captured_at": "2026-11-18T02:30:22Z",
   "content_hash": "e970df51467b1da743e0f807ff3e8bc8b71c2ca9d0e4c087add58917b9aedc8c",
   "fields": {
     "annual_fee": {
@@ -68,7 +68,7 @@
       "label": "Westpac Credit Card International Travel Insurance, Product Disclosure Statements (PDF)"
     },
     "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/partpay_card_terms_and_conditions.pdf": {
-      "hash": "61be0fe70207386cf359cfa78cdddb7bd09839f6da96182776927410c43bb2ca",
+      "hash": "05d03a9ef107f4fa9dab1ab9da1cb9bb720df53aded32e24cf4b8b3e5d07c9ae",
       "is_terms": true,
       "label": "PartPay Card Terms and Conditions (PDF)"
     },
