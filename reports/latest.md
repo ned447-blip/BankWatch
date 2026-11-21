@@ -1,6 +1,6 @@
-# BankWatch — 2026-11-20
+# BankWatch — 2026-11-21
 
-_Run at 02:16 UTC · 53 targets checked · 0 material · 0 new · 13 unverified_
+_Run at 01:57 UTC · 53 targets checked · 0 material · 0 new · 14 unverified_
 
 > ⚠️ **This run has unverified checks — do not treat as “all clear”.** See the Unverified section.
 
@@ -12,28 +12,18 @@ _None._
 
 _None._
 
-## ⚠️ Unverified — manual review needed (13)
+## ⚠️ Unverified — manual review needed (14)
 - **american_express** · `_listing` — blocked: Unexpected HTTP 404
   - https://www.americanexpress.com/en-au/credit-cards/
-- **qantas_money** · `qm-everyday` — blocked: Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.qantasmoney.com/credit-cards/everyday
-Call log:
-navigating to "https://www.qantasmoney.com/credit-cards/everyday", waiting until "domcontentloaded"
-
+- **anz** · `anz-rewards-black` — blocked: bot challenge detected
+  - https://www.anz.com.au/personal/credit-cards/rewards-black/
+- **qantas_money** · `qm-everyday` — blocked: bot challenge detected
   - https://www.qantasmoney.com/credit-cards/everyday
-- **qantas_money** · `qm-platinum` — blocked: Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.qantasmoney.com/credit-cards/platinum
-Call log:
-navigating to "https://www.qantasmoney.com/credit-cards/platinum", waiting until "domcontentloaded"
-
+- **qantas_money** · `qm-platinum` — blocked: bot challenge detected
   - https://www.qantasmoney.com/credit-cards/platinum
-- **qantas_money** · `qm-titanium` — blocked: Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.qantasmoney.com/credit-cards/titanium
-Call log:
-navigating to "https://www.qantasmoney.com/credit-cards/titanium", waiting until "domcontentloaded"
-
+- **qantas_money** · `qm-titanium` — blocked: bot challenge detected
   - https://www.qantasmoney.com/credit-cards/titanium
-- **qantas_money** · `_listing` — blocked: Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.qantasmoney.com/credit-cards
-Call log:
-navigating to "https://www.qantasmoney.com/credit-cards", waiting until "domcontentloaded"
-
+- **qantas_money** · `_listing` — blocked: bot challenge detected
   - https://www.qantasmoney.com/credit-cards
 - **hsbc** · `hsbc-premier` — blocked: Unexpected HTTP 404
   - https://www.hsbc.com.au/credit-cards/products/premier-world-mastercard/
@@ -52,8 +42,9 @@ navigating to "https://www.qantasmoney.com/credit-cards", waiting until "domcont
 - **discovery** · `apra_adis` — offdomain: URL not on allowlist
   - https://www.apra.gov.au/register-of-authorised-deposit-taking-institutions
 
-## 🟡 Non-material changes (1)
-- **nab** · `nab-rewards-signature` — page content changed, no tracked field moved. <https://www.nab.com.au/personal/credit-cards/nab-rewards-cards/travel-card>
+## 🟡 Non-material changes (0)
+
+_None._
 
 ## 🔎 Discovery — new ADIs to review (0)
 
@@ -61,7 +52,7 @@ _None._
 
 ## ✅ Verified, no change (32)
 
-_32 of 53 targets verified unchanged. 13 could not be verified (above)._
+_32 of 53 targets verified unchanged. 14 could not be verified (above)._
 
 ---
 _BankWatch monitors official bank domains only. General information, not financial advice._
