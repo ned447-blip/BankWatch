@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-11-22T00:31:30Z",
-  "content_hash": "c734411fcd6c3148fa7c62ada7bf5773b84dbb7d633ea276e8d3c351a08c9d58",
+  "captured_at": "2026-11-23T01:01:42Z",
+  "content_hash": "e949451b1777d1bd7bd889d73611c0268fcfdf466a515a3d04542f01b9e3e7bb",
   "fields": {
     "annual_fee": {
       "snippet": "ounge passes and much more. $295 annual card fee $155 annual qantas rewards program fee 23.98",
@@ -38,9 +38,9 @@
   "issuer_key": "bom_amplify",
   "pdfs": {
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/accounts_and_cards/BOM_Consumer_Credit_Card_Complimentary_Insurance_Allianz.pdf?appAction=exit": {
-      "hash": "52c0375620677594acf5db9aa6264fca8bdcafab67f1051bc7eaedaf083382cc",
+      "hash": "c39c093933f35a50212bd4b896c2a81d32b66056ba1981a6227dbbf1f263bbe7",
       "is_terms": true,
-      "label": "PDF-file Credit Card Complimentary Insurance Terms and Conditions (PDF 339KB)"
+      "label": "PDF-file Credit Card Complimentary Insurance Terms and Conditions (PDF 380KB)"
     },
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/accounts_and_cards/bom-cc-fee-charges.pdf?appAction=exit": {
       "hash": "97d19223d6cf3d0b625d76ef0d0e50bd94bf0bc45a94b78eed930a8532794c7a",

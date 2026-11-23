@@ -1,5 +1,5 @@
 {
-  "captured_at": "2026-11-22T00:40:19Z",
+  "captured_at": "2026-11-23T01:11:35Z",
   "content_hash": "757f5d2f08ad33c76c505808c3775330cd2060031f324fc94661bce82b5e8dfd",
   "fields": {
     "annual_fee": {
@@ -38,5 +38,5 @@
   "issuer_key": "commbank",
   "pdfs": {},
   "target_id": "cba-awards",
-  "url": "https://www.commbank.com.au/credit-cards.html"
+  "url": "https://www.commbank.com.au/credit-cards/exp/credit-cards.html?alloy_redirect=eyJ2IjoxLCJhZCI6Ijg0NjE3MzoxOjB8MCw4NDYxNzM6MTowfDIsODQ2MTczOjE6MHwxIn0%3D"
 }

@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-11-22T00:22:12Z",
-  "content_hash": "d49ea7cf90d6a6e9ef21625a2ac044dd7e990f4c1579759da0562b0811b35314",
+  "captured_at": "2026-11-23T00:52:29Z",
+  "content_hash": "815f168eb54cf845820a171bcf21814e26649c9ee26594873ae579651dd0dc47",
   "fields": {
     "annual_fee": {
       "snippet": "ts. [1] plus, a reduced $200 first year card fee (reverts to $295 p.a. thereafter) [2] see full offer det",
@@ -36,58 +36,7 @@
     }
   },
   "issuer_key": "westpac",
-  "pdfs": {
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/aw/sustainability/wbc-2025-modern-slavery-statement.pdf?fid=op-infob-nprs-ftr-cta1": {
-      "hash": "cf1bb52995d97bd44a60785f73b2f9956dca4dcb9ba69fe23ab6a4b97b855b1c",
-      "is_terms": false,
-      "label": "Modern Slavery Statement"
-    },
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/new-customer-checklist/Checklist_IndividualCustomers.pdf": {
-      "hash": "4f4afcf9d7aa89ad66759b018727d6fd74470cb2943c03d3c798f3eded7e8ce9",
-      "is_terms": false,
-      "label": "ID checklist to become a customer (PDF)"
-    },
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/Flight_Delay_Access_Pass_Terms_Conditions.pdf": {
-      "hash": "c22f2a59bf379c898ce66cf41428904053a1edfc1d126a49a53431f97b8c3cd8",
-      "is_terms": true,
-      "label": "Terms and Conditions (PDF)"
-    },
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/WBC_Consumer_Credit_Card_Comp_Insurance_Allianz.pdf": {
-      "hash": "f9050a45da069e7fd56474d8c78db11e82bf15c235589fba080431889452c9d5",
-      "is_terms": false,
-      "label": "Westpac Credit Cards Complimentary Insurance Policy Information Booklet (PDF)"
-    },
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/WBC_Credit_Card_Domestic_Complimentary_Insurance_Policy_Information_Booklet.pdf": {
-      "hash": "296e14c514e9e81f9b056414df654ed3031bee510328d2f56f29477c243d1c18",
-      "is_terms": false,
-      "label": "Westpac Credit Card Domestic Complimentary Insurance Policy Information Booklet (PDF)"
-    },
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/WBC_Credit_Card_International_Travel_Insurance_PDS.pdf": {
-      "hash": "8784adbfd1ff52dbe0c431a8f65b2b40e72bfba065907a83ea68634a74f478f3",
-      "is_terms": true,
-      "label": "Westpac Credit Card International Travel Insurance, Product Disclosure Statements (PDF)"
-    },
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/partpay_card_terms_and_conditions.pdf": {
-      "hash": "05d03a9ef107f4fa9dab1ab9da1cb9bb720df53aded32e24cf4b8b3e5d07c9ae",
-      "is_terms": true,
-      "label": "PartPay Card Terms and Conditions (PDF)"
-    },
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/wbc-eligible-australian-visa-list.pdf": {
-      "hash": "f0e7c655daf1dacdaa81705f4de0faf6a49c0a9ceb1efd64e538c4df826f36de",
-      "is_terms": false,
-      "label": "eligible Australian visa (PDF)"
-    },
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/westpac-altitude-terms-and-conditions.pdf": {
-      "hash": "79a63476fa4a4cf786cc96d05b282907a7809c353ca5e8936f3f8cc32ec13a0e",
-      "is_terms": true,
-      "label": "Altitude Terms and Conditions (PDF)"
-    },
-    "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/westpac-credit-card-terms-and-conditions.pdf": {
-      "hash": "b6404e13d278434bc44809fc0c09bae763d16aa69d546c9959a8132a87aa0592",
-      "is_terms": true,
-      "label": "Credit Card Terms and Conditions (PDF)"
-    }
-  },
+  "pdfs": {},
   "target_id": "wbc-altitude-rewards-black",
   "url": "https://www.westpac.com.au/credit-cards/reward/altitude-rewards-black"
 }

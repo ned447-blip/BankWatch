@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-11-22T00:32:30Z",
-  "content_hash": "f9388fa226b32bb4d5d5355c95cc868afc6be7ec041d3fde79b4325f3f74c12f",
+  "captured_at": "2026-11-23T01:02:44Z",
+  "content_hash": "4840dbc7d200d46edbb318f78e4a328ee6b112bcf7b88c2ba27dc45395cf9eb1",
   "fields": {
     "annual_fee": {
       "snippet": "ts with eligible purchases. $175 annual card fee $125 annual qantas rewards program fee 23.98",
@@ -38,14 +38,14 @@
   "issuer_key": "bom_amplify",
   "pdfs": {
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/accounts_and_cards/BOM_Consumer_Credit_Card_Complimentary_Insurance_Allianz.pdf": {
-      "hash": "52c0375620677594acf5db9aa6264fca8bdcafab67f1051bc7eaedaf083382cc",
+      "hash": "c39c093933f35a50212bd4b896c2a81d32b66056ba1981a6227dbbf1f263bbe7",
       "is_terms": false,
-      "label": "PDF-file Complimentary Insurance Policy Information booklet (PDF 339KB)"
+      "label": "PDF-file Complimentary Insurance Policy Information booklet (PDF 380KB)"
     },
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/accounts_and_cards/BOM_Consumer_Credit_Card_Complimentary_Insurance_Allianz.pdf?appAction=exit": {
-      "hash": "52c0375620677594acf5db9aa6264fca8bdcafab67f1051bc7eaedaf083382cc",
+      "hash": "c39c093933f35a50212bd4b896c2a81d32b66056ba1981a6227dbbf1f263bbe7",
       "is_terms": true,
-      "label": "PDF-file Credit Card Complimentary Insurance Terms and Conditions (PDF 339KB)"
+      "label": "PDF-file Credit Card Complimentary Insurance Terms and Conditions (PDF 380KB)"
     },
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/accounts_and_cards/bom-cc-fee-charges.pdf?appAction=exit": {
       "hash": "97d19223d6cf3d0b625d76ef0d0e50bd94bf0bc45a94b78eed930a8532794c7a",

@@ -1,6 +1,6 @@
 {
-  "captured_at": "2026-11-22T00:30:18Z",
-  "content_hash": "924fe4277e1554689fd0200d1cec50373cb43db8d9f9616b20db2404e6f91b65",
+  "captured_at": "2026-11-23T01:00:29Z",
+  "content_hash": "224d3c7463694e76668d3c5e0c0a6cb674a75fe7eb015d801c073e60e443f7e1",
   "fields": {
     "annual_fee": {
       "snippet": "f complimentary insurances. $175 annual card fee $75 annual amplify rewards program fee 23.9",
@@ -38,14 +38,14 @@
   "issuer_key": "bom_amplify",
   "pdfs": {
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/accounts_and_cards/BOM_Consumer_Credit_Card_Complimentary_Insurance_Allianz.pdf": {
-      "hash": "52c0375620677594acf5db9aa6264fca8bdcafab67f1051bc7eaedaf083382cc",
+      "hash": "c39c093933f35a50212bd4b896c2a81d32b66056ba1981a6227dbbf1f263bbe7",
       "is_terms": false,
-      "label": "PDF-file Complimentary Insurance Policy Information booklet (PDF 339KB)"
+      "label": "PDF-file Complimentary Insurance Policy Information booklet (PDF 380KB)"
     },
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/accounts_and_cards/BOM_Consumer_Credit_Card_Complimentary_Insurance_Allianz.pdf?appAction=exit": {
-      "hash": "52c0375620677594acf5db9aa6264fca8bdcafab67f1051bc7eaedaf083382cc",
+      "hash": "c39c093933f35a50212bd4b896c2a81d32b66056ba1981a6227dbbf1f263bbe7",
       "is_terms": true,
-      "label": "PDF-file Credit Card Complimentary Insurance Terms and Conditions (PDF 339KB)"
+      "label": "PDF-file Credit Card Complimentary Insurance Terms and Conditions (PDF 380KB)"
     },
     "https://www.bankofmelbourne.com.au/content/dam/bom/downloads/accounts_and_cards/bom-cc-fee-charges.pdf?appAction=exit": {
       "hash": "97d19223d6cf3d0b625d76ef0d0e50bd94bf0bc45a94b78eed930a8532794c7a",
